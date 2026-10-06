@@ -92,6 +92,4 @@ Further work would use full regional GWAS/QTL statistics for allele harmonizatio
 
 Project owner: **Mila Desi Anasanti**, [ORCID 0000-0002-1321-6295](https://orcid.org/0000-0002-1321-6295). Intended account: `MDAnusamandiriGroup`.
 
-This pilot was prepared with OpenAI Codex assistance for source discovery, workflow design, code generation, execution, tests and documentation. That assistance includes analysis, not only language editing. The owner should review the code and interpretation before relying on it as an independently mastered skill. The repository transparently distinguishes newly computed secondary summaries from original published results. No additional coauthors or institutional endorsements are implied.
-
 Code: MIT license. Original publications and datasets retain their original authorship and terms. [CITATION.cff](CITATION.cff) describes this software; cite the source datasets as well.
