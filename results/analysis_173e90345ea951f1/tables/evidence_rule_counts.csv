@@ -1,0 +1,5 @@
+rule,loci,genes,locus_gene_pairs,qtl_tissue_contexts
+baseline_union,76,228,228,1364
+strict_union,39,93,93,434
+baseline_same_context_agreement,11,12,12,50
+strict_same_context_agreement,2,2,2,4

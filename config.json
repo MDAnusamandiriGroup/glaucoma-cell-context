@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "seed": 20261005,
+  "n_permutations": 10000,
+  "expression_match_bins": 10,
+  "thresholds": {"eCAVIAR": 0.01, "enloc": 0.1},
+  "sensitivity_thresholds": {"eCAVIAR": 0.5, "enloc": 0.5},
+  "sources": [
+    {
+      "file": "hamel2024_supplement.xlsx",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-44380-y/MediaObjects/41467_2023_44380_MOESM4_ESM.xlsx",
+      "sha256": "2bbf8007163920980d7f04b6663ff8f46d94b67c927d425b7f713cb70e2b1d2c",
+      "doi": "10.1038/s41467-023-44380-y",
+      "use": "Published POAG cross-ancestry e/sQTL colocalization results; not freshly fitted colocalization."
+    },
+    {
+      "file": "lukowski2019_EV1.xlsx",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM3_ESM.xlsx",
+      "sha256": "97274c236e595736f5db501a1f30ffe032d05bb67cc5b66e6a1beb9af578674a",
+      "doi": "10.15252/embj.2018100811",
+      "use": "Published average expression per retinal single-cell cluster; 20,009 cells from three healthy donors."
+    },
+    {
+      "file": "lukowski2019_EV2.xlsx",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM4_ESM.xlsx",
+      "sha256": "80f1e31afe3a4caa6ab7810ec92f0e9bbd5fa9d7869222b9c4cabd14c3a122e0",
+      "doi": "10.15252/embj.2018100811",
+      "use": "CCA-adjusted cluster averages from the SAME donors; processing sensitivity, not replication."
+    }
+  ]
+}

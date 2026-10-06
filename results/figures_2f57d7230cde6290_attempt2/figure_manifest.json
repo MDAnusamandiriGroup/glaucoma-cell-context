@@ -1,0 +1,12 @@
+{
+  "analysis": "173e90345ea951f1",
+  "fingerprint": "2f57d7230cde6290",
+  "outputs": {
+    "01_evidence_rule_sensitivity.png": "f00cc8bd260701d11c604ffa37be4793aed21ea7dcbe5078065e4d40d1b15ff1",
+    "02_retinal_cell_context.png": "4e6c0cbfc912fa6cf850b76513e2fea580326175bd04e28e47619afe7b48fc2b",
+    "03_expression_matched_reference.png": "3d3394bded7d9f69458332a1e59c5a3c36707fa22e506126c85f42ba4ef3f26e",
+    "04_cca_processing_sensitivity.png": "10537c60c6305a5a3a9fbe2606b47740305fbd2761ed626b8e0853c18dd0245e",
+    "SUMMARY.md": "fbf94504914815dbfdacd276f3eb81bd3afed668cf68e994ba2e8069adbc4448"
+  },
+  "status": "complete"
+}

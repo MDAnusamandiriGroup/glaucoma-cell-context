@@ -1,0 +1,62 @@
+{
+  "analysis_type": "Secondary-data portfolio pilot; published GWAS-QTL results integrated with published single-cell cluster averages.",
+  "GWAS_loci_in_original_POAG_cross_ancestry_study": 127,
+  "atlas_cells_in_original_publication": 20009,
+  "atlas_donors_in_original_publication": 3,
+  "atlas_genes": 21963,
+  "atlas_primary_excluded_nontext_gene_labels": 26,
+  "atlas_CCA_excluded_nontext_gene_labels": 26,
+  "atlas_classes": 9,
+  "evidence_counts": [
+    {
+      "rule": "baseline_union",
+      "loci": 76,
+      "genes": 228,
+      "locus_gene_pairs": 228,
+      "qtl_tissue_contexts": 1364
+    },
+    {
+      "rule": "strict_union",
+      "loci": 39,
+      "genes": 93,
+      "locus_gene_pairs": 93,
+      "qtl_tissue_contexts": 434
+    },
+    {
+      "rule": "baseline_same_context_agreement",
+      "loci": 11,
+      "genes": 12,
+      "locus_gene_pairs": 12,
+      "qtl_tissue_contexts": 50
+    },
+    {
+      "rule": "strict_same_context_agreement",
+      "loci": 2,
+      "genes": 2,
+      "locus_gene_pairs": 2,
+      "qtl_tissue_contexts": 4
+    }
+  ],
+  "candidate_genes_atlas_matched": 162,
+  "candidate_genes_atlas_unmatched": 66,
+  "retina_supported_genes": 6,
+  "strict_retina_supported_genes": 1,
+  "retina_supported_unique_genes_used_in_reference": 6,
+  "retina_genes_used_in_reference": [
+    "COL8A2",
+    "DGKG",
+    "NPC2",
+    "PSMC3",
+    "RP11-466F5.8",
+    "SLC2A12"
+  ],
+  "exploratory_classes_with_BH_q_lt_0.05": [],
+  "CCA_processing_sensitivity": {
+    "n_genes": 6,
+    "n_highest_class_agrees": 5,
+    "RGC_share_spearman": -0.30425553170226594,
+    "note": "Same atlas donors; processing sensitivity, not independent replication. Both shares use the same seven classes."
+  },
+  "retina_enloc_results_available": false,
+  "retina_enloc_note": "The source result table contains no retina enloc rows. Method agreement here is assessable for listed GTEx contexts, not retina-specific validation."
+}

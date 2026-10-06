@@ -1,0 +1,7 @@
+gene,primary_RGC_share_common_7_classes,CCA_RGC_share_common_7_classes,primary_highest_class_common_7,CCA_highest_class_common_7,highest_class_agrees
+COL8A2,0.1305252821,0,Microglia,Microglia,True
+DGKG,0.258225218258,0,Muller glia,Muller glia,True
+NPC2,0.0248788601195,0.0315988413651,Microglia,Microglia,True
+PSMC3,0.138587121887,0.157584537717,Bipolar,Bipolar,True
+RP11-466F5.8,0.115704019909,0,Cone,Rod,False
+SLC2A12,0.176264723075,0,Muller glia,Muller glia,True

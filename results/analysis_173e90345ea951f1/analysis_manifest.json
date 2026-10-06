@@ -1,0 +1,86 @@
+{
+  "fingerprint": "173e90345ea951f1",
+  "outputs": {
+    "summary.json": "93c58707dbd01843af0436ac09a160b8581808a59f7adf4e364a0f2b5359f07d",
+    "tables/atlas_excluded_nontext_gene_labels.csv": "867ce12d64003b6373fe75fc4b374e0be608ee22bfebb2ffd60f82356e0e0b94",
+    "tables/cca_processing_sensitivity.csv": "5d91818f9811ab634c0e611508120294fb54cd4a2b75a201f935003df9305997",
+    "tables/colocalization_records.csv": "2856b707caf8f2d1086163782b693a3857dff0bd68e5913c87b4b36d2b98b918",
+    "tables/evidence_by_locus_gene_qtl_tissue.csv": "516f3956e7c99063477db7d30cb9dbc2831f1d196eb4aa93c8a8a3c095bdb5bd",
+    "tables/evidence_rule_counts.csv": "54e2bea6d7d060ad67dedab205aa6bd270709f21c11aa7005e51c042a1f60ea2",
+    "tables/exploratory_expression_matched_reference.csv": "76ccadc17a5d885db0aadc33d4ed8de37a2a1c58c9415ea3fc329423e9d19e6b",
+    "tables/expression_matching_audit.csv": "35e61afbf2cf5020a62f76a7f16ce972eac8660590dbf580dd88e80e62b65eaa",
+    "tables/gene_evidence_and_retinal_context.csv": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+    "tables/retina_supported_genes.csv": "303280534239007437d37f1b272fc8720f70dd1d780fe20d276013741ec71396",
+    "tables/retinal_class_average_expression.csv": "4025dde0c0f32c218071cc7384a8e1dd27a1f0d8694506d54519b9545a26110c",
+    "tables/source_record_audit.csv": "c7052c79c3877385167bfab82a5c1315aa5fb07309e58cdfd96f2a31d464bb63"
+  },
+  "provenance": {
+    "config": {
+      "expression_match_bins": 10,
+      "n_permutations": 10000,
+      "schema_version": 1,
+      "seed": 20261005,
+      "sensitivity_thresholds": {
+        "eCAVIAR": 0.5,
+        "enloc": 0.5
+      },
+      "sources": [
+        {
+          "doi": "10.1038/s41467-023-44380-y",
+          "file": "hamel2024_supplement.xlsx",
+          "sha256": "2bbf8007163920980d7f04b6663ff8f46d94b67c927d425b7f713cb70e2b1d2c",
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-44380-y/MediaObjects/41467_2023_44380_MOESM4_ESM.xlsx",
+          "use": "Published POAG cross-ancestry e/sQTL colocalization results; not freshly fitted colocalization."
+        },
+        {
+          "doi": "10.15252/embj.2018100811",
+          "file": "lukowski2019_EV1.xlsx",
+          "sha256": "97274c236e595736f5db501a1f30ffe032d05bb67cc5b66e6a1beb9af578674a",
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM3_ESM.xlsx",
+          "use": "Published average expression per retinal single-cell cluster; 20,009 cells from three healthy donors."
+        },
+        {
+          "doi": "10.15252/embj.2018100811",
+          "file": "lukowski2019_EV2.xlsx",
+          "sha256": "80f1e31afe3a4caa6ab7810ec92f0e9bbd5fa9d7869222b9c4cabd14c3a122e0",
+          "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM4_ESM.xlsx",
+          "use": "CCA-adjusted cluster averages from the SAME donors; processing sensitivity, not replication."
+        }
+      ],
+      "thresholds": {
+        "eCAVIAR": 0.01,
+        "enloc": 0.1
+      }
+    },
+    "inputs": {
+      "hamel2024_supplement.xlsx": {
+        "bytes": 9447514,
+        "doi": "10.1038/s41467-023-44380-y",
+        "sha256": "2bbf8007163920980d7f04b6663ff8f46d94b67c927d425b7f713cb70e2b1d2c",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41467-023-44380-y/MediaObjects/41467_2023_44380_MOESM4_ESM.xlsx"
+      },
+      "lukowski2019_EV1.xlsx": {
+        "bytes": 3986739,
+        "doi": "10.15252/embj.2018100811",
+        "sha256": "97274c236e595736f5db501a1f30ffe032d05bb67cc5b66e6a1beb9af578674a",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM3_ESM.xlsx"
+      },
+      "lukowski2019_EV2.xlsx": {
+        "bytes": 3005190,
+        "doi": "10.15252/embj.2018100811",
+        "sha256": "80f1e31afe3a4caa6ab7810ec92f0e9bbd5fa9d7869222b9c4cabd14c3a122e0",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.15252%2Fembj.2018100811/MediaObjects/44318_2019_BFEMBJ2018100811_MOESM4_ESM.xlsx"
+      }
+    },
+    "software": {
+      "matplotlib": "3.10.8",
+      "numpy": "2.3.5",
+      "openpyxl": "3.1.5",
+      "pandas": "2.2.3",
+      "python": "3.12.14",
+      "scipy": "1.17.0"
+    },
+    "workflow_sha256": "fbb18a31dcf749bac18f70fb573731e496317314b6abe2fdb84cbf885c473349"
+  },
+  "status": "complete"
+}

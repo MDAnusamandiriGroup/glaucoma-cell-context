@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the original datasets as well as this secondary-data software pilot."
+title: "Glaucoma cell context: an auditable GWAS-QTL and retinal expression pilot"
+type: software
+authors:
+  - family-names: Anasanti
+    given-names: Mila Desi
+    orcid: "https://orcid.org/0000-0002-1321-6295"
+version: 0.1.0
+date-released: 2026-10-05
+license: MIT
+abstract: "AI-assisted secondary analysis of published POAG colocalization results and healthy-human retinal single-cell cluster-average expression. No new GWAS, MR, colocalization, raw single-cell or spatial model is fitted."
