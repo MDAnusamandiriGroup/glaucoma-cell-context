@@ -1,10 +1,40 @@
 # Glaucoma genetic evidence and retinal cell context
 
-**A secondary-data portfolio pilot.**
+**An executed genetic-evidence and retinal cell-context pilot with donor-aware RNA and regulatory extensions.**
 
-Which glaucoma gene nominations remain supported under stricter evidence rules, and what retinal cell context do they show? This project integrates published primary open-angle glaucoma (POAG) GWAS–e/sQTL colocalization results with cluster-average expression from an independent healthy-human retinal single-cell atlas. It demonstrates statistical bioinformatics, transparent evidence handling and reproducible Python analysis.
+Which glaucoma gene nominations remain supported under stricter evidence rules, and what retinal cell context do they show? This project integrates published primary open-angle glaucoma (POAG) GWAS–e/sQTL colocalization results with cluster-average expression from an independent healthy-human retinal single-cell atlas. The completed extension also processes retinal UMI counts, computes QC, PCA/Leiden/UMAP and marker audits, and examines candidate expression across donors. It demonstrates statistical bioinformatics, transparent evidence handling and reproducible Python analysis.
 
 **[Read the completed report](results/figures_2f57d7230cde6290_attempt2/SUMMARY.md)** · **[Inspect the gene evidence table](results/analysis_173e90345ea951f1/tables/gene_evidence_and_retinal_context.csv)** · **[Inspect source and output checksums](results/analysis_173e90345ea951f1/analysis_manifest.json)**
+
+## Completed targeted Bayesian colocalisation extension
+
+**[Colocalisation methods and limitations](genetics_extension/README.md)** · **[PDF report](genetics_extension/published/report_08eb9809466be5fb/Glaucoma_coloc_pilot_report.pdf)** · **[Results workbook](genetics_extension/published/report_08eb9809466be5fb/Coloc_results_and_QC.xlsx)**
+
+A separately executed targeted Python approximate-Bayes-factor colocalisation analysis uses regional GWAS and bulk-retina eQTL summary statistics to compare **NPC2, LTBP2 and YLPM1**. Six gene–GWAS comparisons and **216 prespecified sensitivity settings** were completed. In the European GWAS the respective PP.H4 values are **0.631, 0.760 and 0.000358**. LTBP2 reaches **0.809** in the combined-ancestry analysis, which overlaps the European study and is not an independent replication. None is robust above 0.80 across all sensitivity settings. These findings do not demonstrate gene causality or a cell-type-specific eQTL mechanism.
+
+The extension reconstructs eQTL standard errors from rounded statistics and assumes a single causal variant per region, with results sensitive to priors and incomplete SNP overlap. **MR and SuSiE-coloc were not run.** The original V1 module continues to report previously published colocalisation nominations; it is not a newly fitted analysis.
+
+## Completed V2: cross-study RNA and regulatory triangulation
+
+**[V2 report](single_cell_v2/published/REPORT.md)** · **[V2 PDF](single_cell_v2/published/Glaucoma_V2_Report.pdf)** · **[228-gene evidence matrix](single_cell_v2/published/tables/candidate_evidence_matrix.csv)** · **[V2 code and methods](single_cell_v2/README.md)**
+
+The executed Python extension expands all **228 nominations**, performs **2,400 technical resampling draws**, and compares **19,865 whole-cell profiles from three donors** with **51,645 nuclear profiles from four donors** in a separate published study. In five fixed cell types, **78/139 jointly evaluable genes** retain the same top RNA context. Six predefined metabolic programs are assessed with identical shared panel/control genes; three retain the same relative top type across studies.
+
+![NPC2 locus and donor-level RNA evidence](single_cell_v2/published/figures/05_NPC2_locus_evidence.png)
+
+NPC2's RNA context is sampling-stable and concordant across studies. Its index variant overlaps a microglia ATAC peak, while published gene links remain ambiguous: retinal eQTL annotations include NPC2/LTBP2 and HiChIP points to YLPM1. The evidence matrix preserves competing links, negative predictions, sparse genes and missing symbols. The original retinal eQTL resources overlap across publications and are not counted as independent genetic replications. This V2 RNA/regulatory module does not itself fit colocalisation, MR, or disease effects; targeted newly fitted ABF colocalisation results are reported separately in `genetics_extension/`. No causal target is established.
+
+## Completed count-level single-cell extension
+
+**[Single-cell report](single_cell/published/REPORT.md)** · **[PDF report](single_cell/published/Glaucoma_Single_Cell_Pilot_Report.pdf)** · **[Code and reproducibility](single_cell/README.md)** · **[Donor robustness table](single_cell/published/tables/robustness_summary.csv)**
+
+The new module uses the original filtered UMI matrix from the same healthy-retina atlas: **20,009 cells, 21,989 genes, three donors and five libraries**. QC retains **19,865 cells**. Normalisation, library-aware feature selection, 30 PCs, Leiden clustering, UMAP and canonical-marker audits have been executed, with five additional figures and nine focused tests passed locally.
+
+![Completed retinal single-cell UMAP](single_cell/published/figures/02_retina_umap.png)
+
+Six nominated genes are summarised with donor/type pseudobulks and equal donor weighting. Five cell types have at least 20 cells in every donor. Among those types, **DGKG, NPC2 and SLC2A12** retain Muller glia as their highest expression context in all three leave-one-donor-out reaggregations. Five of six retain their highest context under stricter QC; COL8A2 is too sparse for that comparison. Small groups and alternative minimum-cell sensitivities are reported explicitly.
+
+This is descriptive analysis of three healthy donors. Published labels remain primary; the new clusters receive a provisional marker audit. Leave-one-donor-out reaggregates saved pseudobulks without refitting clusters. No disease/age effect, spatial mapping, or therapeutic validation is claimed for this single-cell module. The separate targeted ABF colocalisation analysis is documented in `genetics_extension/`. The original genetic-evidence analysis below is preserved.
 
 ## Completed findings
 
@@ -43,7 +73,7 @@ Full provenance, original authors and download URLs appear in [DATA_SOURCES.md](
 6. Computed expression-context summaries, an exploratory expression-matched reference calculation with FDR correction, and CCA-processing sensitivity.
 7. Produced four figures, auditable tables, checksum manifests, deterministic resumption and tests for scientific and checkpoint contracts.
 
-The pilot does **not** fit new GWAS, colocalization, MR, raw single-cell or spatial models. Original model results and primary-data collection belong to the cited source authors. The single-cell component uses processed cluster averages; donor-level modeling is future work.
+The original genetic-evidence module reuses published GWAS/QTL model results and cluster averages. The separate count-level extension fits QC, PCA, graph clustering and UMAP and computes descriptive donor-level summaries; it starts from a published filtered UMI matrix. No new GWAS, MR, FASTQ processing or spatial models are fitted in these modules. A separate targeted ABF colocalisation analysis was fitted in `genetics_extension/`. Original primary-data collection and published model results belong to the cited source authors.
 
 ## Reproduce
 
@@ -86,7 +116,7 @@ The result provides an evidence table for choosing follow-up studies. Healthy-re
 
 The exploratory reference does not adjust for LD, gene length, QTL ascertainment or locus-level gene correlation. A nominal cell-class P value is not a validated disease mechanism. The six-gene retina-supported set is too small to support a confident cell-class enrichment claim.
 
-Further work would use full regional GWAS/QTL statistics for allele harmonization and new colocalization, independent disease or injury cohorts, donor-aware single-cell analysis, spatial context, and experimental validation. These steps are proposed extensions, not completed achievements.
+Further work would include independent QTL cohorts, ancestry-matched LD-aware multi-signal colocalisation, independent disease or injury cohorts, donor-aware inferential modelling, spatial context, and experimental validation. These steps are proposed extensions, not completed achievements.
 
 ## Authorship and assistance
 
