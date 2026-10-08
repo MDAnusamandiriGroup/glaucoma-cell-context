@@ -1,0 +1,5 @@
+REUSE preprocess_e0082269e15ff422
+REUSE fit_b5a8e45b71c2f2b4
+INDEX /workspace/scratch/f719a41669b6/glaucoma-cell-context/genetics_extension/results/run_index_b5a8e45b71c2f2b4.json
+{"gene_study_pairs": 6, "posterior_sensitivity_settings": 216, "method": "Python unsigned Wakefield ABF / coloc uniform-prior equations", "SuSiE_coloc_run": false, "MR_run": false, "strong_primary_European_H4_genes": [], "robust_primary_European_H4_genes": []}
+CHECK: both stage manifests unchanged; no fit or preprocessing producer executed.

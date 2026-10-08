@@ -1,0 +1,56 @@
+{
+  "retrieval_date_UTC": "2026-10-06",
+  "sources": [
+    {
+      "name": "Ratnapriya et al. 2019 EyeGEx",
+      "doi": "10.1038/s41588-019-0351-9",
+      "url": "https://www.nature.com/articles/s41588-019-0351-9",
+      "role": "Original eQTL cohort and methods"
+    },
+    {
+      "name": "Author Supplementary Information (section 1.2.2 and 1.3.1)",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6441365.1/NIHMS1518564-supplement-1.docx",
+      "local_filename": "eyegex_supplement_notes.docx",
+      "md5": "3c1c979b8408709ae22c97f5ee958306",
+      "sha256": "3082246b791ce810ff4fa2bb1df3afa6e674d8652f11e4df08d5554b399ebce0",
+      "role": "TMM/log2 CPM and normal-quantile transformation for eQTL; 406 individuals"
+    },
+    {
+      "name": "EyeGEx author data replacement",
+      "doi": "10.5281/zenodo.18331341",
+      "url": "https://zenodo.org/records/18331341",
+      "license_from_api": {
+        "id": "cc-by-4.0"
+      },
+      "role": "Actual full nominal files and permutation degrees of freedom"
+    },
+    {
+      "name": "Gharahkhani et al. 2021",
+      "doi": "10.1038/s41467-020-20851-4",
+      "url": "https://www.nature.com/articles/s41467-020-20851-4",
+      "role": "European primary and overlapping combined-ancestry GWAS"
+    },
+    {
+      "name": "Giambartolomei et al. 2014",
+      "doi": "10.1371/journal.pgen.1004383",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383",
+      "role": "Single-causal-variant approximate Bayes factor hypotheses"
+    },
+    {
+      "name": "Official coloc data documentation",
+      "url": "https://chr1swallace.github.io/coloc/articles/a02_data.html",
+      "role": "Dense regional statistics, effect prior, and single-signal limitation"
+    },
+    {
+      "name": "Official QTLtools cis documentation",
+      "url": "https://qtltools.github.io/qtltools/pages/QTLtools-cis.1.html",
+      "role": "Nominal linear-regression test; dof1 is not optimized permutation dof2"
+    },
+    {
+      "name": "Hamel et al. 2024",
+      "doi": "10.1038/s41467-023-44380-y",
+      "url": "https://www.nature.com/articles/s41467-023-44380-y",
+      "role": "Prior genetic nomination using reused source cohorts; no independent genetic replication claim"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "complete",
+  "fingerprint": "e0082269e15ff422",
+  "contract": {
+    "schema_version": 1,
+    "stage": "preprocess",
+    "inputs": {
+      "data/processed/eyegex_target_nominal_raw.tsv": "3f4b37f7d5b4f3f97d5822392bf9be779c9b6b092f1f44377ae88d8feb9b5beb",
+      "data/processed/eyegex_target_permutations.tsv": "c29b4ba378d0a9fc0583cb875aad9bed7de6d35def44b168f40aa400dc67e9c7",
+      "data/processed/gwas_GCST90011766_NPC2_region.tsv": "6c53ed755b2dadaa8fe7256e29857b9f271493c33bc7c9f022ce2359c3e7d619",
+      "data/processed/gwas_GCST90011770_NPC2_region.tsv": "3442126e47c040a38b5087ea3a6920625ce0866ba71b6d9d68f80fb2f4bed21c"
+    },
+    "configuration": {
+      "genome_build": "GRCh38",
+      "index_variant": "rs754458",
+      "index_chromosome": "14",
+      "index_position": 74618126,
+      "genes": {
+        "NPC2": "ENSG00000119655",
+        "LTBP2": "ENSG00000119681",
+        "YLPM1": "ENSG00000119596"
+      },
+      "primary_gwas": "GCST90011766",
+      "sensitivity_gwas": "GCST90011770",
+      "primary_half_window_bp": 1000000,
+      "eqtl_se": "Derive abs(beta)/sqrt(F.isf(nominal_p,1,dof1)), equivalent to abs(beta)/t.isf(nominal_p/2,dof1). Use published nominal-test dof1, not optimized dof2; label SE as derived",
+      "variant_matching": "Exact GRCh38 chromosome, position and unordered literal allele pair. Align direct/swapped alleles; no rsID-only matching, strand rescue or invented proxies. Exact matching permits indels when allele representations agree",
+      "palindromic_policy": "Retain exact-coordinate/allele matched palindromic variants in the primary unsigned ABF calculation; record direction ambiguity and run exclusion sensitivity. No causal effect-direction interpretation",
+      "coverage": "Keep all matched regional variants regardless of p-value. Verify full nominal source gene row counts against n_var_in_cis"
+    },
+    "software": {
+      "python": "3.12.14",
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scipy": "1.17.0"
+    },
+    "code": {
+      "preprocess.py": "85e2051aa08ac9290120f86e967f97015e44ebd42f1cdc4d8e2b32810ade2b7c",
+      "coloc_core.py": "859c330f7fbeb25a0062f31b2821bd0ebc133ec7411d36b116302157bd44e987",
+      "cache.py": "31ebdb1c3326530dcba00874d5ad91aab05af35a5231bd77b4cb4207f1df5f65"
+    }
+  },
+  "outputs": {
+    "GCST90011766_LTBP2.tsv": "3d850477ec22ebf9a29c2875392bf4273a9c68dbdc6ae735353d91c74099ad01",
+    "GCST90011766_NPC2.tsv": "43a15cb046127d7b238c2801960bf6ce691db271dbdfba2c9712a6aaa1e0a811",
+    "GCST90011766_YLPM1.tsv": "911eab2720a481ec88305247e5dc94f60adfa886eca488f13cc6e985fa9a6412",
+    "GCST90011770_LTBP2.tsv": "ed8eb7491fb0ee56a7755ebdef12f1fcdf67d9e1bb933f98d375a270ef8f227a",
+    "GCST90011770_NPC2.tsv": "b313be3d60f50427f7b24a35ac0ef3a25f7b8d944b9e0daad0388a286f452c7c",
+    "GCST90011770_YLPM1.tsv": "da5583dfa9b087929fdf14a339b890906110b16dcc8fae6c69627b1367cccab7",
+    "eqtl_source_audit.csv": "f360e8e0adc19bb3f67cc0ebe0e03ec9540650e32d7efdc04de4ab6d877473cc",
+    "excluded_variants.csv": "06e448e4b4118442becdd44a563069717fce9cc4b7c479d91a5926fc7d577e74",
+    "shared_coverage_audit.csv": "e5d71cfc1516138287a98d52149bb596878da12dadab2ef61e6d4fe4c0802770",
+    "summary.json": "08b56b8df17a681a082b08da1326d23b5021a5a09d481eafdc035723d4adb077"
+  },
+  "summary": {
+    "genes": 3,
+    "gene_study_pairs": 6,
+    "all_nominal_gene_row_counts_match": true,
+    "eqtl_SE": "derived from beta, nominal p and published dof1; not a supplied native SE",
+    "p_value_significance_filter": false,
+    "exclusion_rows": 3793
+  }
+}

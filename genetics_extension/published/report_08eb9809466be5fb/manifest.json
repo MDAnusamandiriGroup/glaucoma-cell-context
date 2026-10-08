@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "contract": {
+    "fit_manifest_sha256": "d3ab4c8231b60ca3b85b1a345017bd83d5bef4616906a89925cc92fcb081e347",
+    "preprocess_manifest_sha256": "8962b2e2923ad19a2d02555630b59c830065736d9cd8c34dd321f1f7a424b7d7",
+    "report_code_sha256": "9ca3274c4c0ad1f0415a67e1a7d9a70251aafe2ada516acfb06d90339f69728d",
+    "validation_code_sha256": "8037d6d0ddf68b36070977a331bd0816045d778744f6175115d0cd8d7c2e1f7e",
+    "method_sources_sha256": "7599a308acd29f66660df666c546d7f1a9036df268c2ddf039c3f3c6be440cfc",
+    "report_software": {
+      "matplotlib": "3.10.8",
+      "reportlab": "4.4.9",
+      "openpyxl": "3.1.5"
+    }
+  },
+  "outputs": {
+    "Coloc_candidate_posteriors.png": "d6f65615bc72a2c53bb08ef929399c11d5818f0d5cbf5b17a9c56c18be0e3122",
+    "Coloc_primary_results.csv": "3fc9e431b64d1d040384d9b6340d67861493695a7a58e497210d5794e76ee775",
+    "Coloc_prior_sensitivity.png": "5f07b8cea3252fc12b4a8ded1b49c5c7ec58fcc24940c61f2ec0ab2512d5b269",
+    "Coloc_regional_associations.png": "9854cbee108bea33545667e5f5a962e4b357edd5412c8971826cb43802e85acb",
+    "Coloc_results_and_QC.xlsx": "7bc1a2b780e6e20169e1044c354c2fe87447e45e2c3ce3bfba562e38f63625e9",
+    "Coloc_sensitivity_results.csv": "1e0cd797ca2b32a8cf761626705abb4a0a187dc885479d7522c3fa31715a6c0d",
+    "Coloc_variant_coverage.csv": "e5d71cfc1516138287a98d52149bb596878da12dadab2ef61e6d4fe4c0802770",
+    "Glaucoma_coloc_pilot_report.pdf": "b5b6624179fe3dab02e35f675560b020fbc9f07d76a2f15cc27bde2be431ebdc",
+    "validation.json": "1c4bbb017d31ecda2f2513eada4042799da087a5652e12511225e2c74e864f35"
+  }
+}

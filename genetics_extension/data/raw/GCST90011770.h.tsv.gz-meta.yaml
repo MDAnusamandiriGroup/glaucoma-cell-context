@@ -1,0 +1,35 @@
+# Study meta-data
+gwas_id: GCST90011770
+author_notes: The third stage meta-analysis (combined ancestries) - a fixed-effect
+  meta-analysis of the results from stage 1 and 2 (34,179 cases vs 349,321 controls
+  of European, Asian, and African descent)
+gwas_catalog_api: https://www.ebi.ac.uk/gwas/rest/api/studies/GCST90011770
+date_metadata_last_modified: 2025-01-05
+
+# Trait Information
+trait_description:
+  - Primary open-angle glaucoma in Europeans, Asians, and Africans
+ontology_mapping:
+  - ''
+
+# Genotyping Information
+genome_assembly: GRCh38
+coordinate_system: 1-based
+genotyping_technology:
+  - Genome-wide genotyping array
+
+# Sample Information
+samples:
+  - sample_ancestry_category:
+      - Other admixed ancestry
+    sample_size: 383500
+
+# Summary Statistic information
+data_file_name: GCST90011770.h.tsv.gz
+file_type: pre-GWAS-SSF
+data_file_md5sum: d56e70bbaff73ada41e71fb95ea3a3b1
+
+# Harmonization status
+is_harmonised: true
+is_sorted: true
+harmonisation_reference: ftp://ftp.ensembl.org/pub/release-95/fasta/homo_sapiens/dna/

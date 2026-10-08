@@ -1,0 +1,23 @@
+author_notes: The first stage meta-analysis - a fixed-effect meta-analysis of 16,677
+  POAG cases and 199,580 controls of European descent
+coordinate_system: 1-based
+data_file_md5sum: 9d87009f4a75ba475b012ae84b0d3335
+data_file_name: GCST90011766.h.tsv.gz
+date_metadata_last_modified: 2024-08-08
+file_type: pre-GWAS-SSF
+genome_assembly: GRCh38
+genotyping_technology:
+- Genome-wide genotyping array
+gwas_catalog_api: https://www.ebi.ac.uk/gwas/rest/api/studies/GCST90011766
+gwas_id: GCST90011766
+harmonisation_reference: ftp://ftp.ensembl.org/pub/release-95/fasta/homo_sapiens/dna/
+is_harmonised: true
+is_sorted: true
+ontology_mapping:
+- EFO_0004190
+samples:
+- sample_ancestry_category:
+  - European
+  sample_size: 216257
+trait_description:
+- Glaucoma (primary open-angle)

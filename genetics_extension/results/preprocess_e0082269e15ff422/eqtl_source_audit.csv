@@ -1,0 +1,4 @@
+gene,gene_id,nominal_source_rows,reported_n_var_in_cis,nominal_df_dof1,optimized_df_dof2_NOT_USED,source_nominal_p_min,source_nominal_p_max,source_nominal_p_gt_005,source_nominal_p_gt_05,gene_start_source_GRCh38,source_full_row_count_validated
+NPC2,ENSG00000119655,5995,5995,404.0,351.37,1.65534e-06,0.999918,5254,2273,74494178,True
+LTBP2,ENSG00000119681,5870,5870,404.0,345.886,0.000211758,0.999965,5584,3556,74612379,True
+YLPM1,ENSG00000119596,5642,5642,404.0,349.851,6.6422e-12,0.998838,4595,2151,74763367,True

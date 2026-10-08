@@ -1,0 +1,63 @@
+{
+  "status": "complete",
+  "fingerprint": "b5a8e45b71c2f2b4",
+  "contract": {
+    "schema_version": 1,
+    "stage": "fit",
+    "inputs": {
+      "preprocess_manifest": "8962b2e2923ad19a2d02555630b59c830065736d9cd8c34dd321f1f7a424b7d7"
+    },
+    "configuration": {
+      "primary_half_window_bp": 1000000,
+      "sensitivity_half_window_bp": 500000,
+      "primary_gwas": "GCST90011766",
+      "primary_p1": 0.0001,
+      "primary_p2": 0.0001,
+      "primary_p12": 1e-05,
+      "p12_grid": [
+        1e-06,
+        1e-05,
+        0.0001
+      ],
+      "gwas_prior_sd_log_odds": 0.2,
+      "primary_eqtl_prior_sd": 0.15,
+      "eqtl_prior_sd_grid": [
+        0.075,
+        0.15,
+        0.3
+      ],
+      "decision_reference_H4": 0.8
+    },
+    "software": {
+      "python": "3.12.14",
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scipy": "1.17.0"
+    },
+    "code": {
+      "fit.py": "82769a9a541817f279bb349c96106851aaef6e052e432b402884e645948efb2d",
+      "coloc_core.py": "859c330f7fbeb25a0062f31b2821bd0ebc133ec7411d36b116302157bd44e987",
+      "cache.py": "31ebdb1c3326530dcba00874d5ad91aab05af35a5231bd77b4cb4207f1df5f65"
+    }
+  },
+  "outputs": {
+    "GCST90011766_LTBP2_snp_posteriors.csv": "5f6c44df46e3e6187f1fe5f943a47e17e6b549ab4d09170de281e67d413f04c1",
+    "GCST90011766_NPC2_snp_posteriors.csv": "98fcb6ea37c07bd6b13ce9ca604c7db1b81ace4ebab9996edd7d65557e5968b4",
+    "GCST90011766_YLPM1_snp_posteriors.csv": "03153e5f2c8e002ba19c2ae3509cc7fd80aa246c02192d9c4f751ec96df4bf4c",
+    "GCST90011770_LTBP2_snp_posteriors.csv": "6a570dd4267959460a888187622bf185a00e8ad54eea1f950586d048b112976d",
+    "GCST90011770_NPC2_snp_posteriors.csv": "d604954e4c8be42d787401114204001f4a1e363359840ac54b270803c487ea12",
+    "GCST90011770_YLPM1_snp_posteriors.csv": "8e04657ffe38bde84b2050e3c883a11128224984e63d4c76c0a15907404ee5de",
+    "all_sensitivity_posteriors.csv": "1e0cd797ca2b32a8cf761626705abb4a0a187dc885479d7522c3fa31715a6c0d",
+    "primary_settings_posteriors.csv": "3fc9e431b64d1d040384d9b6340d67861493695a7a58e497210d5794e76ee775",
+    "summary.json": "2b479adfdcc8b7d2d1d00ceba6705e6b265e4a4e0db6fd30fc9f0e496117d7a3"
+  },
+  "summary": {
+    "gene_study_pairs": 6,
+    "posterior_sensitivity_settings": 216,
+    "method": "Python unsigned Wakefield ABF / coloc uniform-prior equations",
+    "SuSiE_coloc_run": false,
+    "MR_run": false,
+    "strong_primary_European_H4_genes": [],
+    "robust_primary_European_H4_genes": []
+  }
+}

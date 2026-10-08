@@ -1,0 +1,6 @@
+{
+  "preprocess": "results/preprocess_e0082269e15ff422",
+  "fit": "results/fit_b5a8e45b71c2f2b4",
+  "preprocess_manifest_sha256": "8962b2e2923ad19a2d02555630b59c830065736d9cd8c34dd321f1f7a424b7d7",
+  "fit_manifest_sha256": "d3ab4c8231b60ca3b85b1a345017bd83d5bef4616906a89925cc92fcb081e347"
+}

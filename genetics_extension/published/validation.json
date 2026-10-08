@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "gene_study_pairs": 6,
+  "sensitivity_settings": 216,
+  "source_nominal_gene_rows": 17507,
+  "all_input_and_stage_output_hashes_match": true,
+  "posterior_normalization": "passed",
+  "conditional_H4_sets": "passed",
+  "effect_allele_orientation": "passed",
+  "native_vs_derived_SE_labels": "passed",
+  "independent_primary_posterior_reference_max_absolute_error": 1.887379141862766e-15,
+  "R_coloc_package_comparison_performed": false
+}

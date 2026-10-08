@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "retrieval_date_UTC": "2026-10-06",
+  "genome_build": "GRCh38",
+  "local_sources": [
+    {
+      "file": "data/raw/eyegex_chr14_nominal.tsv.gz",
+      "url": "https://zenodo.org/records/18331341/files/new_nominal.eQTL.chr14.with_thresholds.txt.gz?download=1",
+      "publisher_md5": "e23894c240705f7fd48b175de7eef9b6",
+      "sha256": "d4a3c968447ae0eb266e048b93aa32ea8ae6f1be4a21be07aa6b4dffcac96c7b",
+      "bytes": 113356961
+    },
+    {
+      "file": "data/raw/eyegex_permutations.tsv",
+      "url": "https://zenodo.org/records/18331341/files/new_perms_full.txt?download=1",
+      "publisher_md5": "a0cdb73cacf67dcbdd8ac61bcf65e614",
+      "sha256": "98af79f3c4ab18cbe9b5b0cce3571837842fdc7b414b0cb748a19f74434279d2",
+      "bytes": 3022816
+    },
+    {
+      "file": "data/raw/eyegex_README.txt",
+      "url": "https://zenodo.org/records/18331341/files/README_Retina_eQTL_files_021125.txt?download=1",
+      "publisher_md5": "848bec73de0876d7e1df6a26f08a9c6e",
+      "sha256": "08329e4dbf86aa322352ccf16897fde82a565afa7f393bf48906a8783a93e558",
+      "bytes": 3758
+    },
+    {
+      "file": "data/raw/GCST90011766.h.tsv.gz-meta.yaml",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011766/harmonised/GCST90011766.h.tsv.gz-meta.yaml",
+      "sha256": "0228bee367cb0196cf7c6b6e3144651df5e568c8ebb4b774e2a12723227c78c4",
+      "bytes": 771
+    },
+    {
+      "file": "data/raw/GCST90011766_md5sum.txt",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011766/harmonised/md5sum.txt",
+      "sha256": "57ba6e5f211668e2ce2e4586cbaf3eaa98e14de4840cb1e8b2b82f324ecfc87b",
+      "bytes": 116
+    },
+    {
+      "file": "data/raw/GCST90011766.h.tsv.gz.tbi",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011766/harmonised/GCST90011766.h.tsv.gz.tbi",
+      "sha256": "93d80245638f34a385d4cf8d8f19c9cd249e9206c630c4a6fa761bf8b1b658de",
+      "bytes": 1598621
+    },
+    {
+      "file": "data/raw/GCST90011770.h.tsv.gz-meta.yaml",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011770/harmonised/GCST90011770.h.tsv.gz-meta.yaml",
+      "sha256": "d576de7afa1bf351907e42495dfd032704d1370e48068529e0796ecaffd1ac11",
+      "bytes": 1038
+    },
+    {
+      "file": "data/raw/GCST90011770_md5sum.txt",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011770/harmonised/md5sum.txt",
+      "sha256": "6f85faa7d012e41d1183e0e1afe40c8dc7b7bf574fcfb2c0ae91f18788e51ab5",
+      "bytes": 281
+    },
+    {
+      "file": "data/raw/GCST90011770.h.tsv.gz.tbi",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011770/harmonised/GCST90011770.h.tsv.gz.tbi",
+      "sha256": "b5e51cb95e7ab0b9b7a8a0e236b8e0738d9720bf10d4d46028ad7a658a036de5",
+      "bytes": 1603139
+    }
+  ],
+  "derived_inputs": [
+    {
+      "file": "data/processed/eyegex_target_nominal_raw.tsv",
+      "sha256": "3f4b37f7d5b4f3f97d5822392bf9be779c9b6b092f1f44377ae88d8feb9b5beb",
+      "bytes": 2705048
+    },
+    {
+      "file": "data/processed/eyegex_target_permutations.tsv",
+      "sha256": "c29b4ba378d0a9fc0583cb875aad9bed7de6d35def44b168f40aa400dc67e9c7",
+      "bytes": 632
+    },
+    {
+      "file": "data/processed/gwas_GCST90011766_NPC2_region.tsv",
+      "sha256": "6c53ed755b2dadaa8fe7256e29857b9f271493c33bc7c9f022ce2359c3e7d619",
+      "bytes": 635812
+    },
+    {
+      "file": "data/processed/gwas_GCST90011770_NPC2_region.tsv",
+      "sha256": "3442126e47c040a38b5087ea3a6920625ce0866ba71b6d9d68f80fb2f4bed21c",
+      "bytes": 631663
+    }
+  ],
+  "gwas": {
+    "GCST90011766": {
+      "full_md5": "9d87009f4a75ba475b012ae84b0d3335",
+      "index_md5": "286a6c863595dd98d05633d03a815c2e",
+      "n_cases": 16677,
+      "n_controls": 199580,
+      "ancestry": "European",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011766/harmonised/GCST90011766.h.tsv.gz",
+      "metadata_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011766/harmonised/GCST90011766.h.tsv.gz-meta.yaml",
+      "verification": "Published full-file checksum retained; local index MD5 verified; full GWAS file not downloaded. HTTPS Tabix regional extraction has local SHA256 below",
+      "region_start_1based": 73618126,
+      "region_end_1based": 75618126
+    },
+    "GCST90011770": {
+      "full_md5": "d56e70bbaff73ada41e71fb95ea3a3b1",
+      "index_md5": "793ee33d62975d044a29b687cb6fb250",
+      "n_cases": 34179,
+      "n_controls": 349321,
+      "ancestry": "Combined European, Asian and African",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011770/harmonised/GCST90011770.h.tsv.gz",
+      "metadata_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90011001-GCST90012000/GCST90011770/harmonised/GCST90011770.h.tsv.gz-meta.yaml",
+      "verification": "Published full-file checksum retained; local index MD5 verified; full GWAS file not downloaded. HTTPS Tabix regional extraction has local SHA256 below",
+      "region_start_1based": 73618126,
+      "region_end_1based": 75618126
+    }
+  }
+}

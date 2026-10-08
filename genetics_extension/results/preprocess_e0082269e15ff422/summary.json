@@ -1,0 +1,8 @@
+{
+  "genes": 3,
+  "gene_study_pairs": 6,
+  "all_nominal_gene_row_counts_match": true,
+  "eqtl_SE": "derived from beta, nominal p and published dof1; not a supplied native SE",
+  "p_value_significance_filter": false,
+  "exclusion_rows": 3793
+}
