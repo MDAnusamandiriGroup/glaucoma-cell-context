@@ -1,0 +1,31 @@
+{
+  "LODO_stable_all3": 94,
+  "QC_same_top": 150,
+  "candidates": 228,
+  "cells": 19865,
+  "donors": [
+    "Retina 1",
+    "Retina 2",
+    "Retina 3"
+  ],
+  "exact_mapped": 163,
+  "extended_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "Horizontal",
+    "RGC",
+    "Muller glia",
+    "Microglia"
+  ],
+  "genes": 21989,
+  "missing_symbols": 65,
+  "primary_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "RGC",
+    "Muller glia"
+  ],
+  "scope": "Descriptive healthy-donor cell context, not disease or causal effects"
+}

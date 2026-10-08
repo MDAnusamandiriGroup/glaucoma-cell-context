@@ -1,0 +1,112 @@
+{
+  "elapsed_seconds": 1.393,
+  "fingerprint": "71decd6b6c807a8f",
+  "outputs": {
+    "Yuan2026_interval_convention_audit.csv": "fc685ca6d78243ebc0daac9ccb4a85631b2db1bbc95b6549cf3958c36c165538",
+    "candidate_evidence_matrix.csv": "85791e7d38ba4a4d9f868242be22a7c4eee78e82fe9a285b5b72d130900d1425",
+    "computed_index_HiChIP_gene_anchor_overlaps.csv": "1cbf886769ed113f036744e05ad59a8f9d4065bb7ba5cdc2708c20a4459ce00c",
+    "cross_study_program_context.csv": "b6864b3ea9d0a4d51d7406fab92b14eb8510b913c927deeedaea1d08646b1a40",
+    "descriptive_context_shortlist.csv": "24d66800fdeacb7074760e8f3c978abda92d24d4d372654488835027cb5d4147",
+    "external_pseudobulks_portable.npz": "1c297e678a07b6f90f1ec17fd9d7ef70b9c74d738094d2237380b2e2de350761",
+    "harmonized_donor_program_scores.csv": "69647cf1f89e1a838411e27baf08697e9d94ac0cf7ef64763e55c12cd47b4dea",
+    "program_concordance.csv": "4b15a72f1a76026302e8c5cfef7b5b2d630b8948ae951972bdce49ea44bf0a85",
+    "shared_program_mapping.csv": "6328ec316ee0a1b5b34233b1da1e2bbae95ee6ddd6e063856d22dc81bec5b92c",
+    "six_gene_case_studies.csv": "40ca57af3ef0854a2db82694b25270e66e41f97c4d5637289556797f10feef03",
+    "summary.json": "7930db44ed6c0d6d8e4a29c3925e7d9ecf1bdd919ac4322b80e0980eb9fa35b4"
+  },
+  "provenance": {
+    "HiChIP_loops_sha256": "fa8afbdebfb9c1aca5951944590fcd415078a94a94c6fbbea61eed267e5cdf05",
+    "cache_code_sha256": "0bc6903b3214166831d3bb68212edd7761dd9f64dea09374c570e7d3ad720f2a",
+    "config": {
+      "all_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Amacrine",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "cell_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ],
+      "donors": [
+        "Retina 1",
+        "Retina 2",
+        "Retina 3"
+      ],
+      "estimand": "Equal-donor mean log1p pseudobulk CPM with the same fixed cell-type set in each scenario",
+      "extended_min_cells": 10,
+      "extended_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Microglia"
+      ],
+      "external_replication": "Wang et al. 2022 GSE196235/SCP1755, subject to verified count matrix, labels, donor metadata and provenance",
+      "hallmark_release": "2025.1.Hs",
+      "mapping": "Exact gene symbols; missing genes retained as missing; no inferred aliases",
+      "primary_min_cells": 20,
+      "primary_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "RGC",
+        "Muller glia"
+      ],
+      "program_min_fraction": 0.5,
+      "program_min_genes": 10,
+      "programs": [
+        "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+        "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+        "HALLMARK_GLYCOLYSIS",
+        "HALLMARK_FATTY_ACID_METABOLISM",
+        "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+        "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY"
+      ],
+      "reference_bins": 20,
+      "references_per_gene": 20,
+      "replicates": 300,
+      "sampling_scope": "Technical resampling conditional on the observed healthy-donor dataset, not population confidence intervals",
+      "schema_version": 1,
+      "seed": 20261006,
+      "source_candidates": "../single_cell/inputs/published_candidates.csv",
+      "source_v1_index": "../single_cell/published/provenance/run_index.json",
+      "source_v1_normalized": "../single_cell/results/02_preprocess_def2df65455d7074/normalized.h5ad",
+      "umi_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ]
+    },
+    "dependencies": {
+      "expanded": "9032a6b1a2dc4a073d41b3d49f70a7bae201da2f409a5d9838cd575b075abc38",
+      "programs": "d992305e363fccbcf9e1918036cc53e5add6f8c2de52965dae8f1fcd036e42d7",
+      "regulatory": "e1beb804aa6a68845806756c381cf3af1a0c227698af68d49be76406717955ae",
+      "replication": "5d305793534ad51ed828a91a477fb207057252a46e4aecb0cefc505d9b525fea",
+      "sampling": "105c38b54560f0369f7abd0f49cfebf47a009dc9725cef241155a8179c3257c4"
+    },
+    "module_sha256": "c1d19c60a741b01e6f8e05c385dc9cdb096ccc695c21b48db1e390b350144be3",
+    "software": {
+      "anndata": "0.13.4",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scipy": "1.18.1"
+    },
+    "source": {
+      "candidates": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+      "counts": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+      "v1_index": "70abe54a52c31932c3843ea0614ae7485f61b55dcb4a7b91d47a40f2992307f9"
+    }
+  },
+  "stage": "triangulation",
+  "status": "complete"
+}

@@ -1,0 +1,4 @@
+gene,chromosome,start_0based,end_exclusive,strand,source
+NPC2,chr14,74476191,74494177,-,"GENCODE v32 GRCh38; gene body, not enhancer assignment"
+LTBP2,chr14,74498182,74612378,-,"GENCODE v32 GRCh38; gene body, not enhancer assignment"
+YLPM1,chr14,74763315,74859435,+,"GENCODE v32 GRCh38; gene body, not enhancer assignment"

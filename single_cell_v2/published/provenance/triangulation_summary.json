@@ -1,0 +1,10 @@
+{
+  "Yuan2026_boundary_robust_intersections": 4,
+  "computed_HiChIP_gene_anchor_pairs": 2,
+  "context_flag_definition": "All 3 V1 LODO folds agree; strict QC agrees; >=90% baseline agreement in all seven primary technical scenarios; external RNA context agrees in all four external LODO folds",
+  "context_flag_scope": "Descriptive screening rule, not a p-value, causal posterior or clinical decision threshold",
+  "descriptive_primary_context_flag_genes": 16,
+  "primary_program_top_concordance": 3,
+  "primary_programs_evaluable": 6,
+  "shared_program_scope": "Same intersected gene/control pairs in both studies; relative transcriptional contrasts, not metabolic flux or disease-specific activation"
+}

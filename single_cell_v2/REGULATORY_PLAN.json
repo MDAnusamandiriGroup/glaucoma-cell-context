@@ -1,0 +1,13 @@
+{
+  "scope": "Reanalysis of published regulatory resources, with exact candidate/variant matching; no newly trained regulatory model or new colocalization/MR",
+  "genetic_pairs": "Frozen Hamel pilot baseline-passing locus-rsID-gene pairs",
+  "index_variants": "Original index rsIDs only; no invented LD proxies or rsID aliases",
+  "genome": "GRCh38 variant mappings from the retained Ensembl response; source intervals converted to 0-based half-open BED comparisons",
+  "primary_ATAC": "Wang 2022 Data S2 all reproducible peaks; Data S3 nearest-gene marker annotations are a separate, weaker evidence layer",
+  "target_gene_evidence": "Wang 2022 Data S6: predicted targets, co-accessible promoters, HiChIP links and retina eQTL links retained as separate categories",
+  "deep_learning": "Import Wang Data S8 original scores and high-effect calls, including negative results; no retraining or newly calibrated effect probabilities",
+  "additional_ATAC": "Yuan 2026 Table S6 source-listed human retina/macula cCREs; source nominal p-values are not new significance tests; microglia absent from the supplied table",
+  "ABC_pair_policy": "Do not infer peak-gene pairs by row order in separate peak and gene matrices without an explicit pair identifier or author-confirmed pairing",
+  "independence": "Wang RNA/ATAC are from the same multiome study; reused retinal eQTL evidence is not counted as independent genetic replication",
+  "status": "Specification frozen before module execution; not an externally registered preregistration"
+}

@@ -1,0 +1,55 @@
+qc,donor,cell_type,n_cells,sum_all_UMIs
+primary,Retina 1,Rod,1341,2312869
+primary,Retina 1,Cone,30,142151
+primary,Retina 1,Bipolar,295,909786
+primary,Retina 1,Amacrine,2,6284
+primary,Retina 1,Horizontal,11,52852
+primary,Retina 1,RGC,54,106555
+primary,Retina 1,Muller glia,106,326592
+primary,Retina 1,Astrocyte,5,13625
+primary,Retina 1,Microglia,18,34656
+primary,Retina 2,Rod,7403,18504244
+primary,Retina 2,Cone,159,1250336
+primary,Retina 2,Bipolar,674,2636566
+primary,Retina 2,Amacrine,34,181849
+primary,Retina 2,Horizontal,16,83851
+primary,Retina 2,RGC,70,285450
+primary,Retina 2,Muller glia,373,1359213
+primary,Retina 2,Astrocyte,19,61727
+primary,Retina 2,Microglia,60,269539
+primary,Retina 3,Rod,5957,7604540
+primary,Retina 3,Cone,348,1385156
+primary,Retina 3,Bipolar,1097,2915273
+primary,Retina 3,Amacrine,5,16137
+primary,Retina 3,Horizontal,19,68839
+primary,Retina 3,RGC,180,424450
+primary,Retina 3,Muller glia,179,453474
+primary,Retina 3,Astrocyte,18,27756
+primary,Retina 3,Microglia,107,225576
+strict,Retina 1,Rod,931,2094286
+strict,Retina 1,Cone,21,109455
+strict,Retina 1,Bipolar,277,885735
+strict,Retina 1,Amacrine,2,6284
+strict,Retina 1,Horizontal,10,51880
+strict,Retina 1,RGC,35,96798
+strict,Retina 1,Muller glia,99,322763
+strict,Retina 1,Astrocyte,5,13625
+strict,Retina 1,Microglia,10,30673
+strict,Retina 2,Rod,7338,18388218
+strict,Retina 2,Cone,28,215082
+strict,Retina 2,Bipolar,479,1867552
+strict,Retina 2,Amacrine,34,181849
+strict,Retina 2,Horizontal,14,73636
+strict,Retina 2,RGC,68,277816
+strict,Retina 2,Muller glia,372,1352158
+strict,Retina 2,Astrocyte,18,60011
+strict,Retina 2,Microglia,59,268067
+strict,Retina 3,Rod,3002,5732927
+strict,Retina 3,Cone,248,1059310
+strict,Retina 3,Bipolar,910,2451020
+strict,Retina 3,Amacrine,5,16137
+strict,Retina 3,Horizontal,12,36366
+strict,Retina 3,RGC,122,350004
+strict,Retina 3,Muller glia,161,423028
+strict,Retina 3,Astrocyte,11,23798
+strict,Retina 3,Microglia,62,192604

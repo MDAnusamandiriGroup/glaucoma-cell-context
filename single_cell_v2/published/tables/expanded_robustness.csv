@@ -1,0 +1,229 @@
+gene,gene_in_matrix,primary_top_type,primary_status,LODO_agree,LODO_evaluable,LODO_all3,strict_top_type,strict_status,extended_top_type,extended_status,QC_same_top,assigned_cell_UMIs,assigned_donors_detected,sparse_UMI_flag_lt50
+DGKG,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,31.0,3,True
+SLC2A12,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,19.0,3,True
+COL8A2,True,RGC,unique,2.0,2.0,False,,no_UMIs,Microglia,unique,False,6.0,2,True
+NPC2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,3642.0,3,False
+PSMC3,True,RGC,unique,1.0,3.0,False,RGC,unique,Horizontal,unique,True,3662.0,3,False
+RP11-466F5.8,True,Rod,unique,2.0,3.0,False,Rod,unique,Rod,unique,True,103.0,3,False
+LPP,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,294.0,3,False
+RP11-121M22.1,True,RGC,unique,2.0,3.0,False,Cone,unique,RGC,unique,False,53.0,3,False
+ABO,True,RGC,unique,2.0,2.0,False,RGC,unique,RGC,unique,True,1.0,1,True
+ADAMTS8,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,3.0,3,True
+CALD1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,1686.0,3,False
+CHEK2,True,RGC,unique,2.0,3.0,False,RGC,unique,Microglia,unique,True,28.0,2,True
+GAS7,True,Cone,unique,2.0,3.0,False,Cone,unique,Cone,unique,True,1895.0,3,False
+LMX1B,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+TCF12,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,867.0,3,False
+TMCO1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,7455.0,3,False
+TRIB2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,2349.0,3,False
+AC000078.5,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+AC002066.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+AC012066.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+AC091132.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+ACBD4,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,830.0,3,False
+AFAP1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,52.0,3,False
+ALDH2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,2780.0,3,False
+AP003068.23,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,89.0,3,False
+AP5B1,True,Rod,unique,2.0,3.0,False,Rod,unique,Rod,unique,True,148.0,3,False
+AREL1,True,RGC,unique,1.0,3.0,False,RGC,unique,RGC,unique,True,287.0,3,False
+ARHGAP27,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Microglia,unique,True,94.0,3,False
+ARHGEF12,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,2831.0,3,False
+ARL17A,True,RGC,unique,1.0,3.0,False,RGC,unique,Horizontal,unique,True,947.0,3,False
+ATP5J,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,24308.0,3,False
+BICC1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,80.0,3,False
+BORA,True,Bipolar,unique,2.0,3.0,False,Cone,unique,Bipolar,unique,False,158.0,3,False
+C1orf109,True,RGC,unique,2.0,3.0,False,RGC,unique,Horizontal,unique,True,741.0,3,False
+C1orf122,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,9180.0,3,False
+C22orf29,True,RGC,unique,3.0,3.0,True,RGC,unique,Horizontal,unique,True,469.0,3,False
+C6orf15,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+CADM1,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,23490.0,3,False
+CADM2,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,21888.0,3,False
+CAV2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,654.0,3,False
+CCDC117,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,547.0,3,False
+CDC14A,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,147.0,3,False
+CDKN2A,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Microglia,unique,True,21.0,3,True
+CDKN2B-AS1,True,Cone,unique,2.0,3.0,False,Bipolar,unique,Microglia,unique,False,6.0,2,True
+CELF1,True,RGC,unique,2.0,3.0,False,RGC,unique,Horizontal,unique,True,1951.0,3,False
+CLIC5,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,191.0,3,False
+CMB9-22P13.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+COL11A1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,186.0,3,False
+CRHR1,True,Bipolar,unique,2.0,2.0,False,Bipolar,unique,Bipolar,unique,True,2.0,1,True
+CTA-292E10.6,True,Rod,unique,3.0,3.0,True,Rod,unique,Microglia,unique,True,535.0,3,False
+CTB-39G8.3,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+CTD-2005H7.1,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,10.0,3,True
+CTD-2020K17.1,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,38.0,3,True
+CTD-2020K17.3,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,67.0,3,False
+CTTNBP2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Horizontal,unique,True,812.0,3,False
+DDX39BP2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+DIO1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+DND1P1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+DYSF,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Bipolar,unique,True,13.0,3,True
+EFCAB13,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,105.0,3,False
+EFEMP1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,239.0,3,False
+EHBP1L1,True,RGC,unique,2.0,3.0,False,RGC,unique,Microglia,unique,True,21.0,3,True
+FAM215B,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Horizontal,unique,True,2281.0,3,False
+FAM83A,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+FAM83A-AS1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+FAM89B,True,RGC,unique,3.0,3.0,True,RGC,unique,Horizontal,unique,True,126.0,3,False
+FHL3,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Microglia,unique,True,25.0,3,True
+FLOT1,True,RGC,unique,3.0,3.0,True,RGC,unique,Microglia,unique,True,1403.0,3,False
+FLVCR2,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Microglia,unique,True,10.0,3,True
+FMNL1,True,RGC,unique,3.0,3.0,True,RGC,unique,Microglia,unique,True,62.0,3,False
+FNDC4,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,529.0,3,False
+GALR3,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+GCAT,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Muller glia,unique,True,147.0,3,False
+GLIS1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,5.0,2,True
+H1F0,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,1534.0,3,False
+HCG4,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HCG4B,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HCG4P5,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HCG4P7,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HCG9,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,3.0,2,True
+HCP5B,True,RGC,unique,2.0,2.0,False,RGC,unique,RGC,unique,True,2.0,1,True
+HECTD4,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,861.0,3,False
+HLA-A,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,2183.0,3,False
+HLA-C,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,2470.0,3,False
+HLA-F,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,62.0,3,False
+HLA-F-AS1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-G,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Microglia,unique,True,5.0,2,True
+HLA-H,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-J,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-L,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-T,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-U,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-V,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HLA-W,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+HSCB,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Microglia,unique,True,605.0,3,False
+HTRA3,True,Muller glia,unique,2.0,2.0,False,Muller glia,unique,Muller glia,unique,True,3.0,1,True
+IFITM4P,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+IFT172,True,Rod,unique,2.0,3.0,False,Rod,unique,Rod,unique,True,1060.0,3,False
+INPP5B,True,RGC,unique,3.0,3.0,True,RGC,unique,Horizontal,unique,True,267.0,3,False
+ITGB3,True,,no_UMIs,0.0,0.0,False,,no_UMIs,Microglia,unique,False,4.0,2,True
+KANSL1,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,5097.0,3,False
+KANSL1-AS1,True,Rod,unique,1.0,3.0,False,Rod,unique,Rod,unique,True,926.0,3,False
+KHK,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,220.0,3,False
+KLF5,True,Rod,unique,2.0,3.0,False,Rod,unique,Horizontal,unique,True,6.0,3,True
+KRT8P26,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+LHPP,True,RGC,unique,3.0,3.0,True,RGC,unique,Horizontal,unique,True,563.0,3,False
+LINC01948,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,3.0,2,True
+LINC02052,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+LINC02210,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+LMO4,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,2962.0,3,False
+LMO7,True,Rod,unique,2.0,3.0,False,Rod,unique,Rod,unique,True,251.0,3,False
+LOXL1,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,44.0,3,True
+LOXL1-AS1,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,16.0,3,True
+LRRC37A,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,134.0,3,False
+LRRC37A17P,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+LRRC37A2,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Bipolar,unique,True,380.0,3,False
+LRRC37A4P,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+LRWD1,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,596.0,3,False
+LTBP2,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,22.0,3,True
+LTBP3,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,340.0,3,False
+MADD,True,Cone,unique,3.0,3.0,True,Cone,unique,Horizontal,unique,True,2032.0,3,False
+MAPK8IP1P1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+MAPK8IP1P2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+MAPT,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,2473.0,3,False
+MAPT-AS1,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,186.0,3,False
+MAPT-IT1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+ME3,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,244.0,3,False
+MICE,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+MOV10,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,60.0,3,False
+MRPL33,True,Cone,unique,1.0,3.0,False,Cone,unique,Horizontal,unique,True,12696.0,3,False
+MTCH2,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,3277.0,3,False
+MVB12B,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,198.0,3,False
+Metazoa_SRP,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+NEAT1,True,Muller glia,unique,2.0,3.0,False,RGC,unique,Microglia,unique,False,6680.0,3,False
+NMT1,True,Cone,unique,2.0,3.0,False,Rod,unique,Cone,unique,False,5089.0,3,False
+NPEPPS,True,Cone,unique,2.0,3.0,False,Cone,unique,Cone,unique,True,3630.0,3,False
+NRBP1,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,2161.0,3,False
+NSF,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,4477.0,3,False
+NUCB2,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,6721.0,3,False
+NUDT7,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,541.0,3,False
+PDE6C,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,334.0,3,False
+PGAM1P8,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+PIBF1,True,Rod,unique,2.0,3.0,False,Rod,unique,Horizontal,unique,True,1091.0,3,False
+PIGC,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,1519.0,3,False
+PKIB,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,9076.0,3,False
+PLCE1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,695.0,3,False
+PLCE1-AS1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+PLEKHA7,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,376.0,3,False
+PLEKHM1,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Microglia,unique,True,184.0,3,False
+PPP1R18,True,Rod,unique,2.0,3.0,False,Cone,unique,Microglia,unique,False,242.0,3,False
+PRKCE,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,647.0,3,False
+PROX2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+PRSS23,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,56.0,3,False
+PSORS1C3,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RAPSN,True,Muller glia,unique,2.0,2.0,False,Muller glia,unique,Muller glia,unique,True,2.0,1,True
+RERE,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Bipolar,unique,True,3856.0,3,False
+RIC8B,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,1602.0,3,False
+RORA,True,Cone,unique,3.0,3.0,True,Cone,unique,Cone,unique,True,7462.0,3,False
+RP11-123K19.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-136H19.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-149I2.4,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-162I7.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-17G12.2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-205K6.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-217B7.2,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,10.0,2,True
+RP11-259A24.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-259G18.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-259G18.3,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-293E1.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-293E1.2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-302L19.3,True,Cone,unique,2.0,2.0,False,Cone,unique,Cone,unique,True,2.0,1,True
+RP11-403A3.3,True,RGC,unique,2.0,2.0,False,,no_UMIs,RGC,unique,False,7.0,2,True
+RP11-412D9.4,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,1316.0,3,False
+RP11-507B12.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-507B12.2,True,Muller glia,unique,2.0,2.0,False,Muller glia,unique,Muller glia,unique,True,1.0,1,True
+RP11-669E14.6,True,RGC,unique,3.0,3.0,True,RGC,unique,RGC,unique,True,25.0,3,True
+RP11-707O23.1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-750H9.5,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-755F10.1,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,8.0,2,True
+RP11-762L8.6,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-770G2.2,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP11-798G7.6,True,Rod,unique,1.0,3.0,False,Rod,unique,Rod,unique,True,88.0,3,False
+RP11-798G7.8,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+RP5-1115A15.1,True,Rod,unique,2.0,2.0,False,Rod,unique,Rod,unique,True,1.0,1,True
+RPS26P8,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+SCRN2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,1034.0,3,False
+SEMA3E,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,1014.0,3,False
+SEPT7,True,RGC,unique,3.0,3.0,True,RGC,unique,Horizontal,unique,True,11658.0,3,False
+SF3A3,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,1944.0,3,False
+SFTA1P,True,Muller glia,unique,2.0,2.0,False,Muller glia,unique,Muller glia,unique,True,2.0,1,True
+SGSM2,True,Cone,unique,2.0,3.0,False,Bipolar,unique,Cone,unique,False,621.0,3,False
+SLC25A45,True,RGC,unique,2.0,3.0,False,RGC,unique,Microglia,unique,True,67.0,3,False
+SLC39A13,True,RGC,unique,1.0,3.0,False,Muller glia,unique,Horizontal,unique,False,464.0,3,False
+SMAD6,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,17.0,2,True
+SNORD14A,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+SSSCA1-AS1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+TARID,True,Cone,unique,2.0,3.0,False,Bipolar,unique,Cone,unique,False,2.0,2,True
+TBC1D31,True,RGC,unique,2.0,3.0,False,RGC,unique,RGC,unique,True,251.0,3,False
+TBKBP1,True,Bipolar,unique,1.0,3.0,False,Bipolar,unique,Bipolar,unique,True,201.0,3,False
+TBPL1,True,RGC,unique,1.0,3.0,False,RGC,unique,RGC,unique,True,1844.0,3,False
+TGFB3,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,39.0,3,True
+THCAT158,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Muller glia,unique,True,3.0,2,True
+THSD7A,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Horizontal,unique,True,1328.0,3,False
+TIGD3,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Bipolar,unique,True,176.0,3,False
+TMEM116,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,825.0,3,False
+TMEM136,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,6443.0,3,False
+TMEM181,True,RGC,unique,1.0,3.0,False,RGC,unique,Horizontal,unique,True,438.0,3,False
+TMEM263,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,1075.0,3,False
+TRIM26,True,Rod,unique,3.0,3.0,True,Rod,unique,Horizontal,unique,True,785.0,3,False
+TRIOBP,True,Bipolar,unique,1.0,3.0,False,Bipolar,unique,Bipolar,unique,True,226.0,3,False
+TSC22D2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,772.0,3,False
+TTC28,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Bipolar,unique,True,809.0,3,False
+TTLL5,True,Rod,unique,3.0,3.0,True,Rod,unique,Rod,unique,True,1418.0,3,False
+TXNDC8,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+TXNRD2,True,Bipolar,unique,3.0,3.0,True,Bipolar,unique,Bipolar,unique,True,608.0,3,False
+UTP11,True,RGC,unique,1.0,3.0,False,RGC,unique,Horizontal,unique,True,1142.0,3,False
+VARS2,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,192.0,3,False
+VCAM1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,9.0,3,True
+WLS,True,Rod,unique,2.0,3.0,False,Cone,unique,Rod,unique,False,5293.0,3,False
+WNT2B,True,Muller glia,unique,2.0,3.0,False,Muller glia,unique,Muller glia,unique,True,942.0,3,False
+XRCC6P1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+XXbac-BPG170G13.32,True,Muller glia,unique,2.0,2.0,False,Muller glia,unique,Microglia,unique,True,2.0,1,True
+XXbac-BPG283O16.9,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False
+YAP1,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,82.0,3,False
+YIF1A,True,Muller glia,unique,3.0,3.0,True,Muller glia,unique,Muller glia,unique,True,2802.0,3,False
+ZNF280D,True,Bipolar,unique,2.0,3.0,False,Bipolar,unique,Horizontal,unique,True,2364.0,3,False
+ZNF638,True,RGC,unique,1.0,3.0,False,RGC,unique,RGC,unique,True,5450.0,3,False
+ZNF638-IT1,False,,missing_symbol,,,,,missing_symbol,,missing_symbol,False,,0,False

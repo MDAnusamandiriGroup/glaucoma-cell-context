@@ -1,0 +1,15 @@
+{
+  "V1_cells": 19865,
+  "V1_donors": 3,
+  "V1_mapped": 163,
+  "candidates": 228,
+  "external_donors": 4,
+  "external_profiles": 51645,
+  "predefined_programs": 6,
+  "primary_context_concordant": 78,
+  "primary_evaluable": 139,
+  "program_top_concordance": 3,
+  "regulatory_gene_links": 14,
+  "screening_flag_genes": 16,
+  "technical_draws": 2400
+}

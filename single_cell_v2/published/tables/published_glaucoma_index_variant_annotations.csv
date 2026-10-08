@@ -1,0 +1,51 @@
+ID,Chr,Pos,Ref,Alt,Nearest gene(s),Index SNP (noncoding only)?,Intersects cell-type peak?,Accessible cell types,Co-accessible with promoter peak?,Co-accessible promoter(s),Has predicted target gene?,Predicted target gene(s),Linked to gene by HiChIP?,Linked gene(s),Significantly associated with gene by retina eQTL?,Significantly associated gene(s),High effect SNP by deep learning?,High effect cell types,Prioritization criteria met
+rs172531,chr1,8435530,A,G,RERE,1.0,,,,,,,,,,,,,
+rs4652902,chr1,36147354,C,A,TRAPPC3,1.0,,,,,,,,,,,,,
+rs10908363,chr1,37611020,C,T,RSPO1,1.0,,,,,,,,,,,,,
+rs941125,chr1,53658200,G,T,GLIS1,1.0,,,,,,,,,,,,,
+rs4076000,chr1,68371486,A,C,RPE65,1.0,,,,,,,,,,,,,
+rs12139208,chr1,87747331,T,C,LINC01364,1.0,,,,,,,,,,,,,
+rs12566440,chr1,100629646,A,G,LINC01349,1.0,,,,,,,,,,,,,
+rs1106287,chr1,112699500,T,G,MOV10,1.0,1.0,Muller.glia,1.0,MOV10,1.0,"AL603832.1, CAPZA1, MOV10, RHOC",1.0,"WNT2B, ST7L",1.0,"CAPZA1, MOV10",,,4.0
+rs2790053,chr1,165768467,C,G,TMCO1,1.0,,,,,,,,,,,,,
+rs2627761,chr2,55705879,C,T,PNPT1,1.0,,,,,,,,,,,,,
+rs1579050,chr2,152508013,A,G,FMNL2,1.0,,,,,,,,,,,,,
+rs13101042,chr3,85123214,G,C,CADM2,1.0,,,,,,,,,,,,,
+rs11710845,chr3,150347493,C,T,LINC01214,1.0,1.0,Muller.glia,,,,,,,,,,,0.0
+rs56233426,chr3,186411027,A,G,LINC02052,1.0,,,,,,,,,,,,,
+rs6787621,chr3,188349165,T,G,LPP,1.0,1.0,"Astrocyte, GABA.amacrine, Muller.glia",,,1.0,"LPP-AS1, LPP-AS2",,,,,,,1.0
+rs938604,chr4,7902636,G,A,AFAP1,1.0,1.0,"Muller.glia, OFF.cone.bipolar",,,,,,,,,,,0.0
+rs112142644,chr5,56487851,G,A,LINC01948,1.0,,,,,,,,,,,,,
+rs2935057,chr6,170139691,A,G,LOC102724511,1.0,,,,,,,,,,,,,
+rs12699251,chr7,11639486,A,G,THSD7A,1.0,,,,,,,,,,,,,
+rs6957752,chr7,35921527,C,T,SEPT7,1.0,,,,,,,,,,,,,
+rs10257125,chr7,116522252,A,T,CAV1,1.0,1.0,Muller.glia,1.0,CAV1,1.0,"AC002066.1, AC073130.2, CAV1, CAV2, MET",,,,,,,2.0
+rs10230941,chr7,117996057,C,G,CTTNBP2,1.0,,,,,,,,,,,,,
+rs10237321,chr7,134835770,C,A,CALD1,1.0,,,,,,,,,,,,,
+rs62521288,chr8,123542077,A,T,FBXO32,1.0,1.0,"Gly.amacrine, GABA.amacrine, Muller.glia, Rod, Retinal.ganglion.cell, ON.cone.bipolar",1.0,FBXO32,1.0,"ANXA13, FBXO32",1.0,ANXA13,,,,,3.0
+rs944801,chr9,22051671,G,C,CDKN2B-AS1,1.0,,,,,,,,,,,,,
+rs2472494,chr9,104933258,T,C,ABCA1,1.0,1.0,Horizontal,,,,,,,,,,,0.0
+rs3829849,chr9,126628521,C,T,LMX1B,1.0,,,,,,,,,,,,,
+rs6602453,chr10,10798886,A,C,SFTA1P,1.0,,,,,,,,,,,,,
+rs1658436,chr10,58567150,G,A,BICC1,1.0,,,,,,,,,,,,,
+rs10882167,chr10,93169359,C,T,CYP26A1,1.0,,,,,,,,,,,,,
+rs57866767,chr10,94263320,T,C,PLCE1,1.0,,,,,,,,,,,,,
+rs4141194,chr11,16989629,C,A,PLEKHA7,1.0,1.0,"Microglia, Astrocyte, GABA.amacrine, ON.cone.bipolar, Muller.glia, Cone, Rod, OFF.cone.bipolar, Retinal.ganglion.cell, Rod.bipolar, AII.amacrine, Gly.amacrine, Horizontal",1.0,PLEKHA7,1.0,PLEKHA7,,,1.0,"PLEKHA7, OR7E14P, NCR3LG1",,,3.0
+rs1346,chr11,65569780,A,T,SSSCA1-AS1,1.0,1.0,"Gly.amacrine, Rod, Microglia, Muller.glia, Retinal.ganglion.cell, Horizontal, OFF.cone.bipolar, ON.cone.bipolar, Rod.bipolar, Cone, GABA.amacrine, Astrocyte, AII.amacrine",1.0,"SSSCA1-AS1, SSSCA1, FAM89B",,,,,1.0,"SNX32, NEAT1",,,2.0
+rs10792871,chr11,86657064,T,C,ME3,1.0,,,,,,,,,,,,,
+rs2875238,chr11,130412183,T,C,ADAMTS8,1.0,,,,,,,,,,,,,
+rs7137828,chr12,111494996,C,T,ATXN2,1.0,,,,,,,,,,,,,
+rs9530143,chr13,73065233,G,A,KLF5,1.0,1.0,GABA.amacrine,,,,,,,,,,,0.0
+rs9544024,chr13,75684584,A,G,LMO7,1.0,,,,,,,,,,,,,
+rs754458,chr14,74618126,G,A,LTBP2,1.0,1.0,Microglia,,,,,1.0,YLPM1,1.0,"NPC2, LTBP2",,,2.0
+rs2431023,chr15,57261634,A,T,TCF12,1.0,1.0,ON.cone.bipolar,,,,,,,1.0,LINC00926,,,1.0
+rs12438742,chr15,61655081,C,G,VPS13C,1.0,1.0,Astrocyte,,,,,,,,,,,0.0
+rs2439386,chr15,66733065,C,T,SMAD6,1.0,1.0,Muller.glia,1.0,SMAD6,,,,,,,,,1.0
+rs1550437,chr15,73928957,C,T,LOXL1,1.0,1.0,"Muller.glia, Gly.amacrine, GABA.amacrine",1.0,LOXL1,1.0,"INSYN1, LOXL1, LOXL1-AS1",,,,,,,2.0
+rs280875,chr16,77627835,C,T,NUDT7,1.0,,,,,,,,,,,,,
+rs216197,chr17,2298650,A,G,SMG6,1.0,,,,,,,,,,,,,
+rs9913911,chr17,10127866,A,G,GAS7,1.0,1.0,"Gly.amacrine, OFF.cone.bipolar, ON.cone.bipolar, Rod.bipolar, Astrocyte, Muller.glia",,,,,,,1.0,GAS7,,,1.0
+rs13049669,chr21,25844528,T,A,"CBS, U2AF1, U2AF1L5, CRYAA, CRYAA2, SMIM11B",1.0,,,,,,,,,,,,,
+rs8141610,chr22,19882624,C,T,TXNRD2,1.0,,,,,,,,,,,,,
+rs5752776,chr22,28712241,A,G,CHEK2,1.0,1.0,OFF.cone.bipolar,,,,,,,,,,,0.0
+rs5750494,chr22,37780972,T,G,TRIOBP,1.0,,,,,,,,,,,,,

@@ -1,0 +1,652 @@
+gene,cell_type,n_nearest_gene_marker_peaks
+ABO,Amacrine,4
+ABO,Cone,1
+ABO,RGC,1
+ACBD4,Astrocyte,3
+ACBD4,Muller glia,2
+ADAMTS8,Amacrine,13
+ADAMTS8,Bipolar,3
+ADAMTS8,Cone,2
+ADAMTS8,Horizontal,1
+ADAMTS8,RGC,1
+AFAP1,Amacrine,8
+AFAP1,Astrocyte,3
+AFAP1,Bipolar,6
+AFAP1,Cone,3
+AFAP1,Horizontal,1
+AFAP1,Muller glia,54
+AFAP1,RGC,4
+AFAP1,Rod,1
+ALDH2,Bipolar,2
+ALDH2,Microglia,2
+ALDH2,Rod,2
+AP5B1,Amacrine,1
+AP5B1,Horizontal,1
+AP5B1,Microglia,1
+AREL1,Amacrine,5
+AREL1,Bipolar,2
+AREL1,Horizontal,4
+AREL1,Muller glia,3
+AREL1,RGC,8
+ARHGAP27,Amacrine,7
+ARHGAP27,Astrocyte,1
+ARHGAP27,Bipolar,7
+ARHGAP27,Cone,1
+ARHGAP27,Horizontal,1
+ARHGAP27,Microglia,2
+ARHGAP27,Muller glia,3
+ARHGAP27,RGC,3
+ARHGEF12,Amacrine,3
+ARHGEF12,Astrocyte,1
+ARHGEF12,Bipolar,6
+ARHGEF12,Muller glia,1
+ARHGEF12,RGC,1
+ARHGEF12,Rod,1
+ARL17A,Bipolar,1
+BICC1,Amacrine,21
+BICC1,Astrocyte,4
+BICC1,Bipolar,6
+BICC1,Muller glia,12
+BICC1,RGC,10
+BORA,Horizontal,1
+C1orf109,Amacrine,1
+C1orf109,Muller glia,1
+C1orf122,Bipolar,1
+C6orf15,Horizontal,1
+CADM1,Amacrine,8
+CADM1,Astrocyte,4
+CADM1,Bipolar,45
+CADM1,Cone,4
+CADM1,Muller glia,10
+CADM1,RGC,19
+CADM1,Rod,6
+CADM2,Amacrine,14
+CADM2,Bipolar,13
+CADM2,Cone,3
+CADM2,Horizontal,1
+CADM2,Muller glia,3
+CADM2,RGC,14
+CADM2,Rod,3
+CALD1,Amacrine,9
+CALD1,Astrocyte,2
+CALD1,Bipolar,6
+CALD1,Cone,1
+CALD1,Horizontal,3
+CALD1,Microglia,1
+CALD1,Muller glia,8
+CALD1,RGC,3
+CAV2,Amacrine,16
+CAV2,Astrocyte,6
+CAV2,Horizontal,1
+CAV2,Muller glia,12
+CAV2,RGC,4
+CDC14A,Amacrine,1
+CDC14A,Astrocyte,1
+CDC14A,Bipolar,1
+CDC14A,Cone,2
+CDC14A,Muller glia,10
+CDKN2A,Bipolar,1
+CDKN2A,Microglia,1
+CDKN2A,Muller glia,2
+CDKN2B-AS1,Astrocyte,3
+CDKN2B-AS1,Bipolar,7
+CDKN2B-AS1,Cone,1
+CDKN2B-AS1,Microglia,2
+CDKN2B-AS1,Muller glia,7
+CDKN2B-AS1,RGC,1
+CDKN2B-AS1,Rod,1
+CELF1,Amacrine,2
+CELF1,Astrocyte,2
+CELF1,Bipolar,1
+CELF1,Cone,2
+CELF1,Horizontal,7
+CELF1,Muller glia,5
+CELF1,RGC,4
+CHEK2,Astrocyte,1
+CHEK2,Muller glia,1
+CLIC5,Amacrine,4
+CLIC5,Astrocyte,1
+CLIC5,Bipolar,3
+CLIC5,Horizontal,3
+CLIC5,Muller glia,19
+CLIC5,RGC,2
+COL11A1,Amacrine,12
+COL11A1,Astrocyte,2
+COL11A1,Horizontal,1
+COL11A1,Muller glia,6
+COL11A1,RGC,1
+COL8A2,Astrocyte,1
+COL8A2,Microglia,1
+COL8A2,Muller glia,3
+CRHR1,Amacrine,1
+CRHR1,Astrocyte,1
+CRHR1,Bipolar,17
+CRHR1,Cone,1
+CRHR1,Horizontal,2
+CRHR1,Muller glia,1
+CTTNBP2,Amacrine,13
+CTTNBP2,Astrocyte,4
+CTTNBP2,Bipolar,13
+CTTNBP2,Cone,5
+CTTNBP2,Horizontal,17
+CTTNBP2,Microglia,2
+CTTNBP2,Muller glia,18
+CTTNBP2,RGC,5
+DGKG,Amacrine,5
+DGKG,Astrocyte,13
+DGKG,Microglia,5
+DGKG,Muller glia,6
+DGKG,RGC,6
+DIO1,Horizontal,1
+DIO1,Microglia,1
+DIO1,Muller glia,1
+DYSF,Amacrine,5
+DYSF,Astrocyte,5
+DYSF,Bipolar,3
+DYSF,Muller glia,17
+DYSF,RGC,6
+DYSF,Rod,1
+EFEMP1,Amacrine,1
+EFEMP1,Astrocyte,1
+EFEMP1,Bipolar,1
+EFEMP1,Muller glia,10
+EFEMP1,RGC,1
+EHBP1L1,Amacrine,2
+EHBP1L1,Horizontal,1
+EHBP1L1,Microglia,1
+EHBP1L1,Muller glia,1
+FAM83A,Amacrine,5
+FAM83A,Bipolar,1
+FAM83A,Horizontal,9
+FAM83A,RGC,2
+FAM89B,Astrocyte,1
+FAM89B,Microglia,1
+FAM89B,Muller glia,1
+FHL3,Amacrine,3
+FHL3,Bipolar,2
+FHL3,Horizontal,1
+FHL3,Microglia,1
+FHL3,Muller glia,1
+FLVCR2,Amacrine,1
+FLVCR2,Astrocyte,5
+FLVCR2,Horizontal,1
+FLVCR2,Microglia,1
+FLVCR2,Muller glia,6
+FLVCR2,RGC,1
+FMNL1,Amacrine,6
+FMNL1,Bipolar,3
+FMNL1,Microglia,2
+FMNL1,RGC,5
+GALR3,Amacrine,1
+GALR3,Muller glia,1
+GAS7,Amacrine,24
+GAS7,Astrocyte,13
+GAS7,Bipolar,13
+GAS7,Cone,6
+GAS7,Horizontal,1
+GAS7,Microglia,6
+GAS7,Muller glia,17
+GAS7,Rod,7
+GCAT,Amacrine,4
+GCAT,Bipolar,2
+GCAT,Horizontal,1
+GCAT,Microglia,1
+GCAT,Muller glia,1
+GCAT,RGC,1
+GLIS1,Amacrine,11
+GLIS1,Bipolar,20
+GLIS1,Horizontal,2
+GLIS1,Muller glia,6
+GLIS1,RGC,1
+H1F0,Amacrine,3
+H1F0,Bipolar,12
+H1F0,Horizontal,4
+H1F0,Muller glia,3
+H1F0,RGC,2
+HCG9,Amacrine,5
+HCG9,Bipolar,5
+HCG9,Microglia,1
+HCG9,Muller glia,5
+HCG9,RGC,7
+HECTD4,Astrocyte,1
+HECTD4,Bipolar,2
+HECTD4,Cone,4
+HECTD4,Horizontal,1
+HECTD4,Muller glia,3
+HECTD4,RGC,4
+HLA-A,Amacrine,5
+HLA-A,Astrocyte,2
+HLA-A,Bipolar,2
+HLA-A,Horizontal,2
+HLA-A,Microglia,2
+HLA-A,Muller glia,6
+HLA-A,RGC,1
+HLA-C,Amacrine,3
+HLA-C,Horizontal,3
+HLA-C,Muller glia,2
+HLA-F,Amacrine,1
+HLA-F,Astrocyte,1
+HLA-F,Horizontal,3
+HLA-F,Microglia,1
+HLA-F,Muller glia,2
+HLA-F-AS1,Amacrine,4
+HLA-F-AS1,Astrocyte,1
+HLA-F-AS1,Bipolar,1
+HLA-F-AS1,Cone,5
+HLA-F-AS1,Horizontal,3
+HLA-F-AS1,Microglia,1
+HLA-F-AS1,Muller glia,5
+HLA-F-AS1,RGC,4
+HLA-G,Amacrine,3
+HLA-G,Bipolar,3
+HLA-G,Cone,7
+HLA-G,Horizontal,2
+HLA-G,Muller glia,2
+HLA-G,RGC,1
+HSCB,Astrocyte,1
+HTRA3,Amacrine,15
+HTRA3,Astrocyte,2
+HTRA3,Bipolar,2
+HTRA3,Horizontal,1
+HTRA3,Muller glia,1
+HTRA3,RGC,2
+IFT172,Amacrine,1
+IFT172,Cone,1
+INPP5B,Amacrine,2
+INPP5B,Bipolar,1
+INPP5B,Horizontal,2
+INPP5B,RGC,2
+INPP5B,Rod,1
+ITGB3,Amacrine,1
+ITGB3,Astrocyte,6
+ITGB3,Bipolar,1
+ITGB3,Horizontal,1
+ITGB3,Microglia,2
+ITGB3,Muller glia,3
+ITGB3,RGC,1
+KANSL1,Amacrine,1
+KANSL1,Bipolar,5
+KANSL1,Cone,3
+KANSL1,Horizontal,3
+KANSL1,Muller glia,5
+KANSL1,RGC,3
+KANSL1-AS1,Bipolar,1
+KHK,Amacrine,3
+KHK,RGC,1
+KLF5,Amacrine,5
+KLF5,Bipolar,1
+KLF5,Horizontal,12
+KLF5,Muller glia,1
+LHPP,Amacrine,4
+LHPP,Astrocyte,1
+LHPP,Bipolar,3
+LHPP,Horizontal,19
+LHPP,Microglia,1
+LHPP,RGC,2
+LINC01948,Amacrine,3
+LINC01948,Astrocyte,3
+LINC01948,Bipolar,7
+LINC01948,Cone,3
+LINC01948,Horizontal,5
+LINC01948,Microglia,1
+LINC01948,Muller glia,12
+LINC01948,RGC,6
+LINC01948,Rod,2
+LINC02052,Amacrine,3
+LINC02052,Astrocyte,4
+LINC02052,Bipolar,2
+LINC02052,Cone,1
+LINC02052,Horizontal,1
+LINC02052,Muller glia,2
+LINC02052,RGC,1
+LINC02210,Bipolar,1
+LMO4,Amacrine,4
+LMO4,Astrocyte,3
+LMO4,Bipolar,10
+LMO4,Cone,2
+LMO4,Horizontal,6
+LMO4,Muller glia,4
+LMO4,RGC,1
+LMO7,Amacrine,2
+LMO7,RGC,1
+LMO7,Rod,1
+LMX1B,Amacrine,5
+LMX1B,Astrocyte,1
+LMX1B,Bipolar,6
+LMX1B,Horizontal,1
+LMX1B,Microglia,1
+LMX1B,Muller glia,4
+LOXL1,Amacrine,8
+LOXL1,Astrocyte,3
+LOXL1,Bipolar,3
+LOXL1,Cone,1
+LOXL1,Horizontal,1
+LOXL1,Muller glia,6
+LOXL1-AS1,Amacrine,10
+LOXL1-AS1,Astrocyte,3
+LOXL1-AS1,Muller glia,4
+LOXL1-AS1,RGC,3
+LPP,Amacrine,12
+LPP,Astrocyte,11
+LPP,Bipolar,9
+LPP,Cone,3
+LPP,Horizontal,2
+LPP,Microglia,4
+LPP,Muller glia,34
+LPP,RGC,27
+LPP,Rod,1
+LRWD1,Bipolar,1
+LTBP2,Amacrine,14
+LTBP2,Astrocyte,1
+LTBP2,Bipolar,11
+LTBP2,Horizontal,4
+LTBP2,Microglia,1
+LTBP2,Muller glia,5
+LTBP2,RGC,2
+LTBP2,Rod,1
+LTBP3,Amacrine,1
+LTBP3,Astrocyte,3
+LTBP3,Bipolar,1
+LTBP3,Horizontal,1
+LTBP3,Muller glia,5
+MADD,Amacrine,2
+MADD,Cone,2
+MADD,Horizontal,4
+MADD,Muller glia,1
+MADD,RGC,5
+MAPT,Amacrine,22
+MAPT,Astrocyte,5
+MAPT,Bipolar,38
+MAPT,Cone,2
+MAPT,Horizontal,51
+MAPT,Muller glia,13
+MAPT,RGC,23
+MAPT-AS1,Amacrine,7
+MAPT-AS1,Astrocyte,1
+MAPT-AS1,Bipolar,19
+MAPT-AS1,Cone,1
+MAPT-AS1,Horizontal,8
+MAPT-AS1,Muller glia,4
+MAPT-IT1,Amacrine,3
+MAPT-IT1,Astrocyte,1
+MAPT-IT1,Bipolar,8
+MAPT-IT1,Horizontal,3
+MAPT-IT1,Muller glia,2
+MAPT-IT1,RGC,1
+ME3,Amacrine,3
+ME3,Astrocyte,2
+ME3,Bipolar,15
+ME3,Cone,1
+ME3,Horizontal,20
+ME3,Microglia,1
+ME3,Muller glia,10
+ME3,RGC,4
+MOV10,Astrocyte,4
+MOV10,Microglia,2
+MOV10,Muller glia,9
+MRPL33,Amacrine,1
+MRPL33,Horizontal,1
+MRPL33,Muller glia,1
+MTCH2,Amacrine,1
+MTCH2,Bipolar,1
+MTCH2,Muller glia,1
+MVB12B,Amacrine,12
+MVB12B,Astrocyte,3
+MVB12B,Bipolar,15
+MVB12B,Horizontal,10
+MVB12B,Microglia,1
+MVB12B,Muller glia,16
+MVB12B,RGC,3
+NEAT1,Amacrine,7
+NEAT1,Astrocyte,3
+NEAT1,Bipolar,3
+NEAT1,Horizontal,6
+NEAT1,Microglia,4
+NEAT1,Muller glia,27
+NEAT1,RGC,16
+NMT1,Astrocyte,4
+NMT1,Horizontal,1
+NMT1,Muller glia,1
+NMT1,RGC,1
+NMT1,Rod,2
+NPC2,Amacrine,4
+NPC2,Bipolar,4
+NPC2,Cone,3
+NPC2,RGC,1
+NPEPPS,Amacrine,2
+NPEPPS,Bipolar,2
+NPEPPS,Cone,3
+NPEPPS,RGC,7
+NSF,Amacrine,1
+NSF,Bipolar,1
+NSF,Cone,1
+NSF,Horizontal,1
+NUCB2,Bipolar,1
+NUCB2,Cone,4
+NUCB2,Rod,1
+NUDT7,Amacrine,12
+NUDT7,Bipolar,10
+NUDT7,Horizontal,15
+NUDT7,Muller glia,2
+NUDT7,RGC,1
+PDE6C,Cone,12
+PDE6C,Horizontal,1
+PIBF1,Amacrine,2
+PIBF1,Bipolar,2
+PIGC,Amacrine,1
+PIGC,Astrocyte,1
+PIGC,Microglia,1
+PIGC,Muller glia,4
+PIGC,RGC,3
+PKIB,Amacrine,1
+PKIB,Bipolar,2
+PKIB,Cone,1
+PKIB,RGC,2
+PKIB,Rod,5
+PLCE1,Amacrine,19
+PLCE1,Astrocyte,6
+PLCE1,Bipolar,5
+PLCE1,Cone,1
+PLCE1,Muller glia,29
+PLCE1,RGC,1
+PLCE1,Rod,1
+PLEKHA7,Amacrine,8
+PLEKHA7,Astrocyte,2
+PLEKHA7,Bipolar,15
+PLEKHA7,Cone,11
+PLEKHA7,Horizontal,2
+PLEKHA7,Microglia,1
+PLEKHA7,Muller glia,16
+PLEKHA7,Rod,8
+PLEKHM1,Horizontal,1
+PLEKHM1,Muller glia,1
+PLEKHM1,RGC,1
+PPP1R18,Astrocyte,2
+PPP1R18,Rod,2
+PRKCE,Amacrine,14
+PRKCE,Astrocyte,9
+PRKCE,Bipolar,66
+PRKCE,Cone,4
+PRKCE,Horizontal,21
+PRKCE,Microglia,1
+PRKCE,Muller glia,19
+PRKCE,RGC,21
+PRKCE,Rod,2
+PROX2,Amacrine,4
+PROX2,Horizontal,1
+PROX2,RGC,3
+PRSS23,Amacrine,2
+PRSS23,Bipolar,8
+PRSS23,Horizontal,8
+PRSS23,Muller glia,1
+PRSS23,RGC,1
+RAPSN,Amacrine,1
+RAPSN,Astrocyte,2
+RAPSN,Muller glia,4
+RERE,Amacrine,14
+RERE,Astrocyte,2
+RERE,Bipolar,19
+RERE,Cone,8
+RERE,Horizontal,14
+RERE,Muller glia,11
+RERE,RGC,8
+RERE,Rod,2
+RIC8B,Amacrine,2
+RIC8B,Bipolar,1
+RIC8B,Horizontal,1
+RIC8B,Muller glia,1
+RORA,Amacrine,27
+RORA,Astrocyte,11
+RORA,Bipolar,57
+RORA,Cone,28
+RORA,Horizontal,29
+RORA,Muller glia,34
+RORA,RGC,29
+RORA,Rod,2
+SEMA3E,Amacrine,10
+SEMA3E,Astrocyte,1
+SEMA3E,Bipolar,17
+SEMA3E,Muller glia,4
+SEMA3E,RGC,3
+SFTA1P,Amacrine,10
+SFTA1P,Bipolar,5
+SFTA1P,Horizontal,2
+SFTA1P,Muller glia,6
+SFTA1P,RGC,7
+SGSM2,Amacrine,1
+SGSM2,Bipolar,11
+SGSM2,Muller glia,2
+SGSM2,RGC,1
+SGSM2,Rod,1
+SLC25A45,Amacrine,2
+SLC25A45,Astrocyte,1
+SLC25A45,Bipolar,1
+SLC25A45,Horizontal,1
+SLC25A45,Microglia,2
+SLC25A45,Muller glia,1
+SLC2A12,Amacrine,1
+SLC2A12,Astrocyte,2
+SLC2A12,Bipolar,1
+SLC2A12,Muller glia,8
+SLC39A13,Amacrine,2
+SMAD6,Astrocyte,15
+SMAD6,Bipolar,4
+SMAD6,Cone,1
+SMAD6,Horizontal,2
+SMAD6,Microglia,5
+SMAD6,Muller glia,39
+SMAD6,RGC,3
+TARID,Amacrine,9
+TARID,Bipolar,3
+TARID,Horizontal,2
+TARID,Muller glia,3
+TARID,RGC,5
+TBC1D31,Amacrine,6
+TBC1D31,Bipolar,2
+TBC1D31,Cone,1
+TBC1D31,Horizontal,8
+TBC1D31,Muller glia,2
+TBC1D31,RGC,6
+TBKBP1,Amacrine,2
+TBKBP1,Bipolar,3
+TBKBP1,Horizontal,1
+TBKBP1,Muller glia,1
+TBPL1,Amacrine,2
+TBPL1,Bipolar,2
+TCF12,Amacrine,9
+TCF12,Astrocyte,1
+TCF12,Bipolar,2
+TCF12,Cone,6
+TCF12,Muller glia,6
+TCF12,RGC,4
+TCF12,Rod,1
+TGFB3,Horizontal,1
+TGFB3,Muller glia,3
+THSD7A,Amacrine,22
+THSD7A,Bipolar,28
+THSD7A,Cone,10
+THSD7A,Horizontal,25
+THSD7A,Muller glia,3
+THSD7A,RGC,1
+TMCO1,Cone,1
+TMCO1,Muller glia,1
+TMEM116,Amacrine,1
+TMEM116,Bipolar,1
+TMEM116,Cone,1
+TMEM116,Muller glia,1
+TMEM136,Rod,4
+TMEM181,Amacrine,3
+TMEM181,Astrocyte,1
+TMEM181,Bipolar,2
+TMEM181,Horizontal,5
+TMEM181,Muller glia,1
+TMEM181,RGC,1
+TRIB2,Amacrine,7
+TRIB2,Astrocyte,4
+TRIB2,Bipolar,4
+TRIB2,Horizontal,1
+TRIB2,Muller glia,7
+TRIB2,RGC,6
+TRIB2,Rod,2
+TRIM26,Bipolar,1
+TRIOBP,Amacrine,8
+TRIOBP,Astrocyte,1
+TRIOBP,Bipolar,12
+TRIOBP,Cone,1
+TRIOBP,Horizontal,11
+TRIOBP,Microglia,3
+TRIOBP,Muller glia,7
+TRIOBP,RGC,7
+TSC22D2,Amacrine,2
+TSC22D2,Astrocyte,1
+TSC22D2,Cone,3
+TSC22D2,Horizontal,1
+TSC22D2,Muller glia,9
+TSC22D2,RGC,3
+TSC22D2,Rod,2
+TTC28,Amacrine,34
+TTC28,Astrocyte,6
+TTC28,Bipolar,35
+TTC28,Horizontal,12
+TTC28,Muller glia,10
+TTC28,RGC,17
+TTC28,Rod,1
+TTLL5,Amacrine,7
+TTLL5,Astrocyte,4
+TTLL5,Bipolar,3
+TTLL5,Cone,5
+TTLL5,Horizontal,2
+TTLL5,Microglia,1
+TTLL5,Muller glia,9
+TTLL5,RGC,3
+TTLL5,Rod,4
+TXNDC8,Amacrine,4
+TXNDC8,RGC,2
+TXNRD2,Amacrine,5
+TXNRD2,Bipolar,3
+TXNRD2,Microglia,1
+TXNRD2,Muller glia,3
+UTP11,Bipolar,1
+UTP11,Muller glia,1
+VCAM1,Muller glia,1
+WLS,Amacrine,2
+WLS,Bipolar,5
+WLS,Cone,1
+WLS,Muller glia,2
+WLS,RGC,1
+WLS,Rod,8
+WNT2B,Astrocyte,1
+WNT2B,Rod,3
+YAP1,Amacrine,2
+YAP1,Astrocyte,4
+YAP1,Bipolar,3
+YAP1,Microglia,1
+YAP1,Muller glia,8
+ZNF280D,Amacrine,3
+ZNF280D,Astrocyte,1
+ZNF280D,Bipolar,2
+ZNF280D,Muller glia,1
+ZNF638,Bipolar,3
+ZNF638,Cone,1
+ZNF638,Muller glia,1
+ZNF638,RGC,1

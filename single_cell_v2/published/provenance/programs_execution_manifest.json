@@ -1,0 +1,106 @@
+{
+  "elapsed_seconds": 0.858,
+  "fingerprint": "d6209823c416a80c",
+  "outputs": {
+    "candidate_mitocarta_annotation.csv": "7471471d57cfe052f55979ca845109ce7e9c306405360c52b4819d2cb312afdf",
+    "candidate_program_membership.csv": "4b1a795aaa9434dc38c0687a0a1e31b51e74bc055efb0283dc82a9542f79ca97",
+    "donor_program_scores.csv": "eb6f4e2fd6243e6228806fd70a25e89c7843c5b21e3d2d76736ab838ca5279ff",
+    "matched_reference_genes.csv": "95ffe6ac36d440072ff9117f21ae2cb1357db9697f6aef5ad921f744db51ccc3",
+    "program_context_summary.csv": "76cbd929e57902701b529a8117725943f0e7d028e938a6853c298653cdbd1c0b",
+    "program_coverage.csv": "865de023c6ad8b0cedefa22371638415288c38f29a88d1b7c8a4a5b9584a33d2",
+    "summary.json": "6e4af60114389c32f72baebe5fa963151c15b6223f24268215b495e59f0fe5cf"
+  },
+  "provenance": {
+    "cache_code_sha256": "0bc6903b3214166831d3bb68212edd7761dd9f64dea09374c570e7d3ad720f2a",
+    "config": {
+      "all_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Amacrine",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "cell_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ],
+      "donors": [
+        "Retina 1",
+        "Retina 2",
+        "Retina 3"
+      ],
+      "estimand": "Equal-donor mean log1p pseudobulk CPM with the same fixed cell-type set in each scenario",
+      "extended_min_cells": 10,
+      "extended_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Microglia"
+      ],
+      "external_replication": "Wang et al. 2022 GSE196235/SCP1755, subject to verified count matrix, labels, donor metadata and provenance",
+      "hallmark_release": "2025.1.Hs",
+      "mapping": "Exact gene symbols; missing genes retained as missing; no inferred aliases",
+      "primary_min_cells": 20,
+      "primary_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "RGC",
+        "Muller glia"
+      ],
+      "program_min_fraction": 0.5,
+      "program_min_genes": 10,
+      "programs": [
+        "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+        "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+        "HALLMARK_GLYCOLYSIS",
+        "HALLMARK_FATTY_ACID_METABOLISM",
+        "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+        "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY"
+      ],
+      "reference_bins": 20,
+      "references_per_gene": 20,
+      "replicates": 300,
+      "sampling_scope": "Technical resampling conditional on the observed healthy-donor dataset, not population confidence intervals",
+      "schema_version": 1,
+      "seed": 20261006,
+      "source_candidates": "../single_cell/inputs/published_candidates.csv",
+      "source_v1_index": "../single_cell/published/provenance/run_index.json",
+      "source_v1_normalized": "../single_cell/results/02_preprocess_def2df65455d7074/normalized.h5ad",
+      "umi_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ]
+    },
+    "dependencies": {
+      "expanded": "9032a6b1a2dc4a073d41b3d49f70a7bae201da2f409a5d9838cd575b075abc38",
+      "sampling": "105c38b54560f0369f7abd0f49cfebf47a009dc9725cef241155a8179c3257c4"
+    },
+    "hallmark_sha256": "f22066af72e215ccb7b89d88e492c07e1eef17534c2ca7b0f9902cfecbbdd8e9",
+    "mitocarta_sha256": "e6ada0ae8dcd5447a5efb6f77c69a1c10b1ffa66521540a1e81b92c61e5505f2",
+    "module_sha256": "d1adc54d9b6ca0e4b81c2fccff5f57b25a7a1ce30063ee5b9d01425a01425dfb",
+    "software": {
+      "anndata": "0.13.4",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scipy": "1.18.1"
+    },
+    "source": {
+      "candidates": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+      "counts": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+      "v1_index": "70abe54a52c31932c3843ea0614ae7485f61b55dcb4a7b91d47a40f2992307f9"
+    }
+  },
+  "stage": "programs",
+  "status": "complete"
+}

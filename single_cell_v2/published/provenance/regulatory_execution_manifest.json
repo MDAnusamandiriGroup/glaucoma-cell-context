@@ -1,0 +1,119 @@
+{
+  "elapsed_seconds": 40.78,
+  "fingerprint": "28ecdcbfd6b1c8f3",
+  "outputs": {
+    "ATAC_source_reproduction_audit.csv": "d9f722dfdbc52dcecfdc5e283c9e51beb9bc569dcb913fc3d824f59413db0bc1",
+    "Yuan2026_index_cCRE_overlaps.csv": "bf5cf80a879e668e4e8b7990413ff1c4437bec62b8239a7eff7420f01fbcb496",
+    "candidate_nearest_gene_marker_counts.csv": "97e49e1bdb6a800fb93832ab641c0451e5182725f20c57f00345507e33d4b798",
+    "candidate_nearest_gene_marker_peaks.csv": "ecfcddd37255fc94a6e59e56dda166d3b8653d2289f3cc9b5c761e1b2ea70b83",
+    "index_variant_ATAC_peak_overlaps.csv": "b64b2f6c07c73da7a4f87eb67ca622f1c6b459bfc4b212aed9c946159e06aeeb",
+    "index_variant_coordinate_audit.csv": "ded64191cff3696fa41d91194c7a9d5158d50f580878e43852fb09ff7bcc1b96",
+    "published_glaucoma_index_variant_annotations.csv": "fd21d4ef8a69b694d6f51450d6bea00e9d52895969ace5d85acad7d6312f9174",
+    "published_index_BPNet_scores.csv": "d28cca871e20186ab7e9e1e0bca63e227b99dd91114153a2b9c09c5ef88cf443",
+    "summary.json": "a12fd1c47b6e643ae025bf32d05dad22cc87849c184ccf39f256990c8afbd1ee",
+    "variant_candidate_regulatory_evidence.csv": "739649e45c669a51d58a134a31be3020d8ae9fc5c88c5356af725550ddeb6753"
+  },
+  "provenance": {
+    "cache_code_sha256": "0bc6903b3214166831d3bb68212edd7761dd9f64dea09374c570e7d3ad720f2a",
+    "config": {
+      "all_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Amacrine",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "cell_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ],
+      "donors": [
+        "Retina 1",
+        "Retina 2",
+        "Retina 3"
+      ],
+      "estimand": "Equal-donor mean log1p pseudobulk CPM with the same fixed cell-type set in each scenario",
+      "extended_min_cells": 10,
+      "extended_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Microglia"
+      ],
+      "external_replication": "Wang et al. 2022 GSE196235/SCP1755, subject to verified count matrix, labels, donor metadata and provenance",
+      "hallmark_release": "2025.1.Hs",
+      "mapping": "Exact gene symbols; missing genes retained as missing; no inferred aliases",
+      "primary_min_cells": 20,
+      "primary_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "RGC",
+        "Muller glia"
+      ],
+      "program_min_fraction": 0.5,
+      "program_min_genes": 10,
+      "programs": [
+        "HALLMARK_OXIDATIVE_PHOSPHORYLATION",
+        "HALLMARK_CHOLESTEROL_HOMEOSTASIS",
+        "HALLMARK_GLYCOLYSIS",
+        "HALLMARK_FATTY_ACID_METABOLISM",
+        "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+        "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY"
+      ],
+      "reference_bins": 20,
+      "references_per_gene": 20,
+      "replicates": 300,
+      "sampling_scope": "Technical resampling conditional on the observed healthy-donor dataset, not population confidence intervals",
+      "schema_version": 1,
+      "seed": 20261006,
+      "source_candidates": "../single_cell/inputs/published_candidates.csv",
+      "source_v1_index": "../single_cell/published/provenance/run_index.json",
+      "source_v1_normalized": "../single_cell/results/02_preprocess_def2df65455d7074/normalized.h5ad",
+      "umi_fraction_scenarios": [
+        0.25,
+        0.5,
+        0.75
+      ]
+    },
+    "dependencies": {
+      "expanded": "9032a6b1a2dc4a073d41b3d49f70a7bae201da2f409a5d9838cd575b075abc38",
+      "programs": "d992305e363fccbcf9e1918036cc53e5add6f8c2de52965dae8f1fcd036e42d7",
+      "replication": "5d305793534ad51ed828a91a477fb207057252a46e4aecb0cefc505d9b525fea",
+      "sampling": "105c38b54560f0369f7abd0f49cfebf47a009dc9725cef241155a8179c3257c4"
+    },
+    "genetic_pairs_sha256": "2856b707caf8f2d1086163782b693a3857dff0bd68e5913c87b4b36d2b98b918",
+    "module_sha256": "637b76ed5498243083fb4dadcf97483305e99b097898225791097c76b29f42e1",
+    "regulatory_inputs": {
+      "ensembl_index_variants_GRCh38.json": "4b9971c38413f7ce2e49605352a0723a6dd34fcafe8e2b81576a7f8a8bfbf201",
+      "wang_mmc3.xlsx": "24540391694898b6755c594c81237851b7d2e08d65642f92d54819b0f4a06599",
+      "wang_mmc4.xlsx": "39cee4b7ddd771ce0781b3a40dca5a20e70b3c6aca572e6ea7cafeaa07032514",
+      "wang_mmc7.xlsx": "b4e5e39cbd8fe00fa4c55bbb6462470f22b120ddc1b68a60fa4f7438e510ae14",
+      "wang_mmc9.xlsx": "ce1f976b0a14714f2cb199356d8772b9fd71d740886d52f1c7c417bd93c64b7a",
+      "yuan_table_S6.tsv": "16dd1e8dcf426b52888bcf6063127938e40b1e4eca729750dbac11328f098788"
+    },
+    "regulatory_plan_sha256": "17f6d626b58c5994e9858160f75d98c214af9f0d7b701985a1aa8a8de61cbf0c",
+    "software": {
+      "anndata": "0.13.4",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scipy": "1.18.1"
+    },
+    "source": {
+      "candidates": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+      "counts": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+      "v1_index": "70abe54a52c31932c3843ea0614ae7485f61b55dcb4a7b91d47a40f2992307f9"
+    }
+  },
+  "stage": "regulatory",
+  "status": "complete"
+}

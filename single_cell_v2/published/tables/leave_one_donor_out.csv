@@ -1,0 +1,490 @@
+gene,omitted_donor,top_type,evaluable,agrees_with_primary,comparison_types
+DGKG,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+DGKG,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+DGKG,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC2A12,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC2A12,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC2A12,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+COL8A2,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+COL8A2,Retina 2,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+COL8A2,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPC2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPC2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPC2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PSMC3,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+PSMC3,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PSMC3,Retina 3,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-466F5.8,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-466F5.8,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-466F5.8,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LPP,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LPP,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LPP,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-121M22.1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-121M22.1,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-121M22.1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ABO,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ABO,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ABO,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+ADAMTS8,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ADAMTS8,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ADAMTS8,Retina 3,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+CALD1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CALD1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CALD1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CHEK2,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CHEK2,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+CHEK2,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GAS7,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+GAS7,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GAS7,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TCF12,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TCF12,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TCF12,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMCO1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMCO1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMCO1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIB2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIB2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIB2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ACBD4,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ACBD4,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ACBD4,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AFAP1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AFAP1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AFAP1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ALDH2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ALDH2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ALDH2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AP003068.23,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AP003068.23,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AP003068.23,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AP5B1,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AP5B1,Retina 2,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+AP5B1,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+AREL1,Retina 1,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+AREL1,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+AREL1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGAP27,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGAP27,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGAP27,Retina 3,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGEF12,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGEF12,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ARHGEF12,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ARL17A,Retina 1,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ARL17A,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ARL17A,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ATP5J,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ATP5J,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ATP5J,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+BICC1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+BICC1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+BICC1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+BORA,Retina 1,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+BORA,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+BORA,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf109,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf109,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf109,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf122,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf122,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C1orf122,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C22orf29,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C22orf29,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+C22orf29,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM1,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM1,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM1,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM2,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM2,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CADM2,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CAV2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CAV2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CAV2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CCDC117,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CCDC117,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CCDC117,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDC14A,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDC14A,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDC14A,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2A,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2A,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2A,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2B-AS1,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2B-AS1,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CDKN2B-AS1,Retina 3,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+CELF1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CELF1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CELF1,Retina 3,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+CLIC5,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CLIC5,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CLIC5,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+COL11A1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+COL11A1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+COL11A1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CRHR1,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CRHR1,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CRHR1,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+CTA-292E10.6,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTA-292E10.6,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTA-292E10.6,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2005H7.1,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2005H7.1,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2005H7.1,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.3,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.3,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTD-2020K17.3,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTTNBP2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTTNBP2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+CTTNBP2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+DYSF,Retina 1,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+DYSF,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+DYSF,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFCAB13,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFCAB13,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFCAB13,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFEMP1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFEMP1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EFEMP1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EHBP1L1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+EHBP1L1,Retina 2,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+EHBP1L1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FAM215B,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FAM215B,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FAM215B,Retina 3,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+FAM89B,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FAM89B,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FAM89B,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FHL3,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+FHL3,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FHL3,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FLOT1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FLOT1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FLOT1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FLVCR2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FLVCR2,Retina 2,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+FLVCR2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FMNL1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FMNL1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FMNL1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FNDC4,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FNDC4,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+FNDC4,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GCAT,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+GCAT,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GCAT,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GLIS1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GLIS1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+GLIS1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+H1F0,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+H1F0,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+H1F0,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HCG9,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HCG9,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+HCG9,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HCP5B,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HCP5B,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HCP5B,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+HECTD4,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HECTD4,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HECTD4,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-A,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-A,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-A,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-C,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-C,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-C,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-F,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-F,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-F,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-G,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-G,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HLA-G,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HSCB,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HSCB,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HSCB,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HTRA3,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+HTRA3,Retina 2,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+HTRA3,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+IFT172,Retina 1,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+IFT172,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+IFT172,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+INPP5B,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+INPP5B,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+INPP5B,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ITGB3,Retina 1,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+ITGB3,Retina 2,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+ITGB3,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1-AS1,Retina 1,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1-AS1,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KANSL1-AS1,Retina 3,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+KHK,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KHK,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KHK,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KLF5,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+KLF5,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+KLF5,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LHPP,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LHPP,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LHPP,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LINC01948,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LINC01948,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LINC01948,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LMO4,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LMO4,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LMO4,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LMO7,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LMO7,Retina 2,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+LMO7,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1-AS1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1-AS1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LOXL1-AS1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A2,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A2,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRRC37A2,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRWD1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LRWD1,Retina 2,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+LRWD1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP2,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP2,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP2,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP3,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP3,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+LTBP3,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MADD,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MADD,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MADD,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT-AS1,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT-AS1,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MAPT-AS1,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ME3,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ME3,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ME3,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MOV10,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MOV10,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MOV10,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MRPL33,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MRPL33,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+MRPL33,Retina 3,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+MTCH2,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MTCH2,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MTCH2,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MVB12B,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MVB12B,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+MVB12B,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NEAT1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NEAT1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NEAT1,Retina 3,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+NMT1,Retina 1,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+NMT1,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NMT1,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPEPPS,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPEPPS,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NPEPPS,Retina 3,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+NRBP1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NRBP1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NRBP1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NSF,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NSF,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NSF,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUCB2,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUCB2,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUCB2,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUDT7,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUDT7,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+NUDT7,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PDE6C,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PDE6C,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PDE6C,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PIBF1,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PIBF1,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+PIBF1,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PIGC,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PIGC,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PIGC,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PKIB,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PKIB,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PKIB,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLCE1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLCE1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLCE1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHA7,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHA7,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHA7,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHM1,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHM1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PLEKHM1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PPP1R18,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PPP1R18,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+PPP1R18,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRKCE,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRKCE,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRKCE,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRSS23,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRSS23,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+PRSS23,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RAPSN,Retina 1,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+RAPSN,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RAPSN,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RERE,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RERE,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RERE,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RIC8B,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RIC8B,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RIC8B,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RORA,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RORA,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RORA,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-217B7.2,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-217B7.2,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-217B7.2,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-302L19.3,Retina 1,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-302L19.3,Retina 2,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-302L19.3,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-403A3.3,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-403A3.3,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-403A3.3,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-412D9.4,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-412D9.4,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-412D9.4,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-507B12.2,Retina 1,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-507B12.2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-507B12.2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-669E14.6,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-669E14.6,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-669E14.6,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-755F10.1,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-755F10.1,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-755F10.1,Retina 3,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-798G7.6,Retina 1,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-798G7.6,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP11-798G7.6,Retina 3,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP5-1115A15.1,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+RP5-1115A15.1,Retina 2,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+RP5-1115A15.1,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SCRN2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SCRN2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SCRN2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEMA3E,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEMA3E,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEMA3E,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEPT7,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEPT7,Retina 2,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SEPT7,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SF3A3,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SF3A3,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SF3A3,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SFTA1P,Retina 1,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+SFTA1P,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SFTA1P,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SGSM2,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+SGSM2,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SGSM2,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC25A45,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC25A45,Retina 2,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+SLC25A45,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SLC39A13,Retina 1,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+SLC39A13,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+SLC39A13,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SMAD6,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SMAD6,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+SMAD6,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TARID,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TARID,Retina 2,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TARID,Retina 3,Cone,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TBC1D31,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TBC1D31,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TBC1D31,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TBKBP1,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TBKBP1,Retina 2,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TBKBP1,Retina 3,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TBPL1,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TBPL1,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TBPL1,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TGFB3,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TGFB3,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TGFB3,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+THCAT158,Retina 1,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+THCAT158,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+THCAT158,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+THSD7A,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+THSD7A,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+THSD7A,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TIGD3,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TIGD3,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TIGD3,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM116,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM116,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM116,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM136,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM136,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM136,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM181,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM181,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM181,Retina 3,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM263,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM263,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TMEM263,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIM26,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIM26,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIM26,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIOBP,Retina 1,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TRIOBP,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TRIOBP,Retina 3,Muller glia,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TSC22D2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TSC22D2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TSC22D2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TTC28,Retina 1,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+TTC28,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TTC28,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TTLL5,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TTLL5,Retina 2,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TTLL5,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TXNRD2,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TXNRD2,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+TXNRD2,Retina 3,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+UTP11,Retina 1,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+UTP11,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+UTP11,Retina 3,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+VARS2,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+VARS2,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+VARS2,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+VCAM1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+VCAM1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+VCAM1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+WLS,Retina 1,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+WLS,Retina 2,Cone,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+WLS,Retina 3,Rod,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+WNT2B,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+WNT2B,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+WNT2B,Retina 3,Rod,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+XXbac-BPG170G13.32,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+XXbac-BPG170G13.32,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+XXbac-BPG170G13.32,Retina 3,,False,False,Rod;Cone;Bipolar;RGC;Muller glia
+YAP1,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+YAP1,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+YAP1,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+YIF1A,Retina 1,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+YIF1A,Retina 2,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+YIF1A,Retina 3,Muller glia,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF280D,Retina 1,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF280D,Retina 2,Bipolar,True,True,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF280D,Retina 3,RGC,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF638,Retina 1,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF638,Retina 2,Bipolar,True,False,Rod;Cone;Bipolar;RGC;Muller glia
+ZNF638,Retina 3,RGC,True,True,Rod;Cone;Bipolar;RGC;Muller glia

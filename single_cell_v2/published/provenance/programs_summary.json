@@ -1,0 +1,9 @@
+{
+  "candidate_MitoCarta3_members": 9,
+  "eligible_programs": 6,
+  "gene_sets": "MSigDB Hallmark 2025.1.Hs; exact symbols; mitochondrial-genome genes excluded",
+  "inference": "No population significance tests from three healthy donors",
+  "programs_tested": 6,
+  "reference_strategy": "20 mean-expression rank bins, up to 20 controls per gene, all six panels excluded from controls",
+  "score_scope": "Descriptive transcriptional program contrasts; not metabolic flux, mitochondrial function, disease effects or pathway enrichment p-values"
+}

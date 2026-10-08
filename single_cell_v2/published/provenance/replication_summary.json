@@ -1,0 +1,21 @@
+{
+  "barcode_alignment": "All 51,645 GEO barcodes exactly match CellxGene labels; five genes agree cell by cell across both distributions",
+  "extended_context_concordant": 70,
+  "extended_evaluable": 140,
+  "external_cells": 51645,
+  "external_donors": [
+    "LGS1",
+    "LGS2",
+    "LGS3",
+    "LVG1"
+  ],
+  "external_exact_symbol_mapped_candidates": 156,
+  "external_eyes": 8,
+  "external_n_donors": 4,
+  "features": 36601,
+  "independence": "Distinct studies and published donor metadata/ages; no shared global person identifiers are available for formal cross-study identity linkage",
+  "primary_context_concordant": 78,
+  "primary_evaluable": 139,
+  "scope": "Cross-study descriptive RNA context; V1 whole-cell RNA versus Wang nuclear multiome RNA; not disease replication, causal validation, or pooled-cell inference",
+  "source": "Wang et al. 2022; DOI 10.1016/j.xgen.2022.100164; GSE196235; CellxGene collection 348da6dc-5bf6-435d-adc5-37747b9ae38a"
+}

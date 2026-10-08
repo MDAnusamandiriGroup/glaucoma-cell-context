@@ -1,0 +1,92 @@
+rsid,cell_type,published_subtype,chromosome,start_0based,end_exclusive,source
+rs62521288,Rod,Rod,chr8,123541848,123542348,Wang_DataS2
+rs4141194,Rod,Rod,chr11,16989571,16990071,Wang_DataS2
+rs1346,Rod,Rod,chr11,65569519,65570019,Wang_DataS2
+rs10444329,Rod,Rod,chr11,115168700,115169200,Wang_DataS2
+rs1893261,Rod,Rod,chr11,120327292,120327792,Wang_DataS2
+rs938604,Bipolar,OFF.cone.bipolar,chr4,7902579,7903079,Wang_DataS2
+rs4141194,Bipolar,OFF.cone.bipolar,chr11,16989572,16990072,Wang_DataS2
+rs1346,Bipolar,OFF.cone.bipolar,chr11,65569549,65570049,Wang_DataS2
+rs10444329,Bipolar,OFF.cone.bipolar,chr11,115168770,115169270,Wang_DataS2
+rs1893261,Bipolar,OFF.cone.bipolar,chr11,120327319,120327819,Wang_DataS2
+rs9913911,Bipolar,OFF.cone.bipolar,chr17,10127731,10128231,Wang_DataS2
+rs11868441,Bipolar,OFF.cone.bipolar,chr17,61161651,61162151,Wang_DataS2
+rs5752776,Bipolar,OFF.cone.bipolar,chr22,28711845,28712345,Wang_DataS2
+rs1106287,Muller glia,Muller.glia,chr1,112699296,112699796,Wang_DataS2
+rs11710845,Muller glia,Muller.glia,chr3,150347017,150347517,Wang_DataS2
+rs6787621,Muller glia,Muller.glia,chr3,188348921,188349421,Wang_DataS2
+rs938604,Muller glia,Muller.glia,chr4,7902222,7902722,Wang_DataS2
+rs3777588,Muller glia,Muller.glia,chr6,45951688,45952188,Wang_DataS2
+rs10257125,Muller glia,Muller.glia,chr7,116522148,116522648,Wang_DataS2
+rs62521288,Muller glia,Muller.glia,chr8,123541814,123542314,Wang_DataS2
+rs10430737,Muller glia,Muller.glia,chr10,124589633,124590133,Wang_DataS2
+rs4141194,Muller glia,Muller.glia,chr11,16989560,16990060,Wang_DataS2
+rs1346,Muller glia,Muller.glia,chr11,65569528,65570028,Wang_DataS2
+rs1893261,Muller glia,Muller.glia,chr11,120327259,120327759,Wang_DataS2
+rs2439386,Muller glia,Muller.glia,chr15,66732952,66733452,Wang_DataS2
+rs1550437,Muller glia,Muller.glia,chr15,73928683,73929183,Wang_DataS2
+rs9913911,Muller glia,Muller.glia,chr17,10127864,10128364,Wang_DataS2
+rs687914,Bipolar,ON.cone.bipolar,chr2,45651517,45652017,Wang_DataS2
+rs7805468,Bipolar,ON.cone.bipolar,chr7,83319949,83320449,Wang_DataS2
+rs62521288,Bipolar,ON.cone.bipolar,chr8,123541928,123542428,Wang_DataS2
+rs4141194,Bipolar,ON.cone.bipolar,chr11,16989549,16990049,Wang_DataS2
+rs1346,Bipolar,ON.cone.bipolar,chr11,65569549,65570049,Wang_DataS2
+rs10444329,Bipolar,ON.cone.bipolar,chr11,115168742,115169242,Wang_DataS2
+rs1893261,Bipolar,ON.cone.bipolar,chr11,120327288,120327788,Wang_DataS2
+rs2431023,Bipolar,ON.cone.bipolar,chr15,57261252,57261752,Wang_DataS2
+rs9913911,Bipolar,ON.cone.bipolar,chr17,10127749,10128249,Wang_DataS2
+rs687914,Bipolar,Rod.bipolar,chr2,45651464,45651964,Wang_DataS2
+rs4141194,Bipolar,Rod.bipolar,chr11,16989585,16990085,Wang_DataS2
+rs1346,Bipolar,Rod.bipolar,chr11,65569562,65570062,Wang_DataS2
+rs10444329,Bipolar,Rod.bipolar,chr11,115168667,115169167,Wang_DataS2
+rs1893261,Bipolar,Rod.bipolar,chr11,120327312,120327812,Wang_DataS2
+rs9913911,Bipolar,Rod.bipolar,chr17,10127764,10128264,Wang_DataS2
+rs11868441,Bipolar,Rod.bipolar,chr17,61161486,61161986,Wang_DataS2
+rs687914,Cone,Cone,chr2,45651516,45652016,Wang_DataS2
+rs4141194,Cone,Cone,chr11,16989570,16990070,Wang_DataS2
+rs1346,Cone,Cone,chr11,65569563,65570063,Wang_DataS2
+rs10444329,Cone,Cone,chr11,115168915,115169415,Wang_DataS2
+rs1893261,Cone,Cone,chr11,120327321,120327821,Wang_DataS2
+rs2218471,Cone,Cone,chr13,110125547,110126047,Wang_DataS2
+rs687914,Amacrine,GABA.amacrine,chr2,45651511,45652011,Wang_DataS2
+rs6787621,Amacrine,GABA.amacrine,chr3,188348908,188349408,Wang_DataS2
+rs7805468,Amacrine,GABA.amacrine,chr7,83320066,83320566,Wang_DataS2
+rs62521288,Amacrine,GABA.amacrine,chr8,123541811,123542311,Wang_DataS2
+rs4141194,Amacrine,GABA.amacrine,chr11,16989520,16990020,Wang_DataS2
+rs1346,Amacrine,GABA.amacrine,chr11,65569564,65570064,Wang_DataS2
+rs10444329,Amacrine,GABA.amacrine,chr11,115168672,115169172,Wang_DataS2
+rs9530143,Amacrine,GABA.amacrine,chr13,73064894,73065394,Wang_DataS2
+rs1550437,Amacrine,GABA.amacrine,chr15,73928842,73929342,Wang_DataS2
+rs11868441,Amacrine,GABA.amacrine,chr17,61161520,61162020,Wang_DataS2
+rs2472494,Horizontal,Horizontal,chr9,104932865,104933365,Wang_DataS2
+rs10430737,Horizontal,Horizontal,chr10,124589672,124590172,Wang_DataS2
+rs4141194,Horizontal,Horizontal,chr11,16989609,16990109,Wang_DataS2
+rs1346,Horizontal,Horizontal,chr11,65569538,65570038,Wang_DataS2
+rs7805468,Amacrine,Gly.amacrine,chr7,83319952,83320452,Wang_DataS2
+rs62521288,Amacrine,Gly.amacrine,chr8,123541776,123542276,Wang_DataS2
+rs4141194,Amacrine,Gly.amacrine,chr11,16989609,16990109,Wang_DataS2
+rs1346,Amacrine,Gly.amacrine,chr11,65569510,65570010,Wang_DataS2
+rs1893261,Amacrine,Gly.amacrine,chr11,120327255,120327755,Wang_DataS2
+rs1550437,Amacrine,Gly.amacrine,chr15,73928803,73929303,Wang_DataS2
+rs9913911,Amacrine,Gly.amacrine,chr17,10127527,10128027,Wang_DataS2
+rs11868441,Amacrine,Gly.amacrine,chr17,61161510,61162010,Wang_DataS2
+rs62521288,RGC,Retinal.ganglion.cell,chr8,123541870,123542370,Wang_DataS2
+rs4141194,RGC,Retinal.ganglion.cell,chr11,16989578,16990078,Wang_DataS2
+rs1346,RGC,Retinal.ganglion.cell,chr11,65569536,65570036,Wang_DataS2
+rs10444329,RGC,Retinal.ganglion.cell,chr11,115168751,115169251,Wang_DataS2
+rs1893261,RGC,Retinal.ganglion.cell,chr11,120327248,120327748,Wang_DataS2
+rs7805468,Amacrine,AII.amacrine,chr7,83319903,83320403,Wang_DataS2
+rs4141194,Amacrine,AII.amacrine,chr11,16989586,16990086,Wang_DataS2
+rs1346,Amacrine,AII.amacrine,chr11,65569569,65570069,Wang_DataS2
+rs1893261,Amacrine,AII.amacrine,chr11,120327304,120327804,Wang_DataS2
+rs11868441,Amacrine,AII.amacrine,chr17,61161533,61162033,Wang_DataS2
+rs6787621,Astrocyte,Astrocyte,chr3,188348861,188349361,Wang_DataS2
+rs10430737,Astrocyte,Astrocyte,chr10,124589657,124590157,Wang_DataS2
+rs4141194,Astrocyte,Astrocyte,chr11,16989456,16989956,Wang_DataS2
+rs1346,Astrocyte,Astrocyte,chr11,65569566,65570066,Wang_DataS2
+rs12438742,Astrocyte,Astrocyte,chr15,61654773,61655273,Wang_DataS2
+rs9913911,Astrocyte,Astrocyte,chr17,10127769,10128269,Wang_DataS2
+rs687914,Microglia,Microglia,chr2,45651470,45651970,Wang_DataS2
+rs4141194,Microglia,Microglia,chr11,16989451,16989951,Wang_DataS2
+rs1346,Microglia,Microglia,chr11,65569523,65570023,Wang_DataS2
+rs754458,Microglia,Microglia,chr14,74617957,74618457,Wang_DataS2

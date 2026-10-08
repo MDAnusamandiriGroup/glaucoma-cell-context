@@ -1,0 +1,5 @@
+rsid,peak,source_relative_top_subtypes,canonical_top_types,source_nominal_p_value,microglia_assessed_in_this_table,scope
+rs687914,chr2-45651448-45651947,Astrocyte,Astrocyte,0.04749722,False,Intersection with source-listed cCREs; no new gene link or significance claim
+rs6787621,chr3-188348899-188349398,Astrocyte,Astrocyte,0.036355557,False,Intersection with source-listed cCREs; no new gene link or significance claim
+rs12438742,chr15-61654808-61655307,Astrocyte,Astrocyte,0.02423448,False,Intersection with source-listed cCREs; no new gene link or significance claim
+rs112142644,chr5-56487694-56488193,ON_cone_bipolar,Bipolar,0.038311416,False,Intersection with source-listed cCREs; no new gene link or significance claim

@@ -1,0 +1,14 @@
+{
+  "ABC_pair_status": "Yuan separate peak/gene matrices not joined by row order; explicit enhancer-gene edge identifiers needed for that analysis",
+  "ATAC_computed_vs_published_agreement": 50,
+  "Yuan2026_variants_overlapping_source_listed_cCRE": 4,
+  "candidate_genes_with_any_published_gene_link": 14,
+  "coordinate_mapped_variants": 73,
+  "genetic_independence": "Hamel and Wang use overlapping published retinal eQTL resources; this layer is not independent genetic replication",
+  "index_variants": 76,
+  "index_variants_in_Wang_glaucoma_table": 50,
+  "index_variants_overlapping_reproducible_ATAC": 25,
+  "locus_gene_pairs": 228,
+  "nearest_gene_marker_annotated_candidates": 137,
+  "scope": "Exact-index-variant intersections and separate imported regulatory evidence; no fresh fine-mapping, colocalization, MR, model training or experimentally validated causal targets"
+}

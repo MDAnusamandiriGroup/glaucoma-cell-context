@@ -1,0 +1,127 @@
+scenario,donor,cell_type,available_cells,selected_cells,operation,parameter,comparison_types
+equal_cells_20,Retina 1,Rod,1341,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 1,Cone,30,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 1,Bipolar,295,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 1,RGC,54,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 1,Muller glia,106,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 2,Rod,7403,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 2,Cone,159,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 2,Bipolar,674,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 2,RGC,70,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 2,Muller glia,373,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 3,Rod,5957,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 3,Cone,348,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 3,Bipolar,1097,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 3,RGC,180,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_20,Retina 3,Muller glia,179,20,cell_n,20.0,Rod;Cone;Bipolar;RGC;Muller glia
+equal_cells_10_extended,Retina 1,Rod,1341,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,Cone,30,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,Bipolar,295,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,Horizontal,11,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,RGC,54,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,Muller glia,106,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 1,Microglia,18,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Rod,7403,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Cone,159,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Bipolar,674,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Horizontal,16,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,RGC,70,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Muller glia,373,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 2,Microglia,60,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Rod,5957,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Cone,348,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Bipolar,1097,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Horizontal,19,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,RGC,180,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Muller glia,179,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+equal_cells_10_extended,Retina 3,Microglia,107,10,cell_n,10.0,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia
+cell_fraction_0.25,Retina 1,Rod,1341,335,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 1,Cone,30,7,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 1,Bipolar,295,73,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 1,RGC,54,13,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 1,Muller glia,106,26,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 2,Rod,7403,1850,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 2,Cone,159,39,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 2,Bipolar,674,168,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 2,RGC,70,17,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 2,Muller glia,373,93,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 3,Rod,5957,1489,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 3,Cone,348,87,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 3,Bipolar,1097,274,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 3,RGC,180,45,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.25,Retina 3,Muller glia,179,44,cell_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 1,Rod,1341,670,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 1,Cone,30,15,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 1,Bipolar,295,147,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 1,RGC,54,27,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 1,Muller glia,106,53,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 2,Rod,7403,3701,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 2,Cone,159,79,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 2,Bipolar,674,337,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 2,RGC,70,35,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 2,Muller glia,373,186,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 3,Rod,5957,2978,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 3,Cone,348,174,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 3,Bipolar,1097,548,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 3,RGC,180,90,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.5,Retina 3,Muller glia,179,89,cell_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 1,Rod,1341,1005,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 1,Cone,30,22,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 1,Bipolar,295,221,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 1,RGC,54,40,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 1,Muller glia,106,79,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 2,Rod,7403,5552,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 2,Cone,159,119,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 2,Bipolar,674,505,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 2,RGC,70,52,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 2,Muller glia,373,279,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 3,Rod,5957,4467,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 3,Cone,348,261,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 3,Bipolar,1097,822,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 3,RGC,180,135,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+cell_fraction_0.75,Retina 3,Muller glia,179,134,cell_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 1,Rod,1341,1341,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 1,Cone,30,30,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 1,Bipolar,295,295,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 1,RGC,54,54,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 1,Muller glia,106,106,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 2,Rod,7403,7403,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 2,Cone,159,159,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 2,Bipolar,674,674,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 2,RGC,70,70,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 2,Muller glia,373,373,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 3,Rod,5957,5957,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 3,Cone,348,348,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 3,Bipolar,1097,1097,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 3,RGC,180,180,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.25,Retina 3,Muller glia,179,179,umi_fraction,0.25,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 1,Rod,1341,1341,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 1,Cone,30,30,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 1,Bipolar,295,295,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 1,RGC,54,54,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 1,Muller glia,106,106,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 2,Rod,7403,7403,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 2,Cone,159,159,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 2,Bipolar,674,674,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 2,RGC,70,70,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 2,Muller glia,373,373,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 3,Rod,5957,5957,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 3,Cone,348,348,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 3,Bipolar,1097,1097,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 3,RGC,180,180,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.5,Retina 3,Muller glia,179,179,umi_fraction,0.5,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 1,Rod,1341,1341,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 1,Cone,30,30,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 1,Bipolar,295,295,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 1,RGC,54,54,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 1,Muller glia,106,106,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 2,Rod,7403,7403,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 2,Cone,159,159,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 2,Bipolar,674,674,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 2,RGC,70,70,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 2,Muller glia,373,373,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 3,Rod,5957,5957,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 3,Cone,348,348,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 3,Bipolar,1097,1097,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 3,RGC,180,180,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia
+UMI_fraction_0.75,Retina 3,Muller glia,179,179,umi_fraction,0.75,Rod;Cone;Bipolar;RGC;Muller glia

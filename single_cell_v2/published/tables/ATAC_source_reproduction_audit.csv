@@ -1,0 +1,51 @@
+rsid,computed_peak_types,source_peak_types,types_exactly_agree
+rs9913911,Amacrine;Astrocyte;Bipolar;Muller glia,Amacrine;Astrocyte;Bipolar;Muller glia,True
+rs5750494,,,True
+rs9530143,Amacrine,Amacrine,True
+rs9544024,,,True
+rs6787621,Amacrine;Astrocyte;Muller glia,Amacrine;Astrocyte;Muller glia,True
+rs280875,,,True
+rs2790053,,,True
+rs8141610,,,True
+rs57866767,,,True
+rs1346,Amacrine;Astrocyte;Bipolar;Cone;Horizontal;Microglia;Muller glia;RGC;Rod,Amacrine;Astrocyte;Bipolar;Cone;Horizontal;Microglia;Muller glia;RGC;Rod,True
+rs2472494,Horizontal,Horizontal,True
+rs10257125,Muller glia,Muller glia,True
+rs112142644,,,True
+rs7137828,,,True
+rs5752776,Bipolar,Bipolar,True
+rs2875238,,,True
+rs754458,Microglia,Microglia,True
+rs12438742,Astrocyte,Astrocyte,True
+rs10230941,,,True
+rs56233426,,,True
+rs10908363,,,True
+rs2935057,,,True
+rs1579050,,,True
+rs13049669,,,True
+rs1550437,Amacrine;Muller glia,Amacrine;Muller glia,True
+rs12566440,,,True
+rs2627761,,,True
+rs172531,,,True
+rs62521288,Amacrine;Bipolar;Muller glia;RGC;Rod,Amacrine;Bipolar;Muller glia;RGC;Rod,True
+rs4076000,,,True
+rs3829849,,,True
+rs11710845,Muller glia,Muller glia,True
+rs1658436,,,True
+rs12699251,,,True
+rs938604,Bipolar;Muller glia,Bipolar;Muller glia,True
+rs941125,,,True
+rs944801,,,True
+rs10792871,,,True
+rs2439386,Muller glia,Muller glia,True
+rs10882167,,,True
+rs2431023,Bipolar,Bipolar,True
+rs4141194,Amacrine;Astrocyte;Bipolar;Cone;Horizontal;Microglia;Muller glia;RGC;Rod,Amacrine;Astrocyte;Bipolar;Cone;Horizontal;Microglia;Muller glia;RGC;Rod,True
+rs12139208,,,True
+rs6957752,,,True
+rs13101042,,,True
+rs216197,,,True
+rs4652902,,,True
+rs10237321,,,True
+rs1106287,Muller glia,Muller glia,True
+rs6602453,,,True

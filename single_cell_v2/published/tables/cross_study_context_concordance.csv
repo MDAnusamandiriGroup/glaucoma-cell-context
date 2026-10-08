@@ -1,0 +1,229 @@
+gene,gene_id,external_exact_symbol_mapped,V1_exact_symbol_mapped,primary_external_top,primary_V1_top,primary_external_status,primary_comparison_evaluable,primary_context_concordant,primary_rank_spearman,primary_external_LODO_agree,primary_external_LODO_evaluable,extended_external_top,extended_V1_top,extended_external_status,extended_comparison_evaluable,extended_context_concordant,extended_rank_spearman,extended_external_LODO_agree,extended_external_LODO_evaluable
+DGKG,ENSG00000058866,True,True,RGC,Muller glia,unique,True,False,0.7999999999999999,4,4,RGC,Muller glia,unique,True,False,0.7857142857142859,4,4
+SLC2A12,ENSG00000146411,True,True,Muller glia,Muller glia,unique,True,True,0.41039134083406165,4,4,Muller glia,Muller glia,unique,True,True,0.3349469226516178,4,4
+COL8A2,ENSG00000171812,True,True,Muller glia,RGC,unique,True,False,-0.7071067811865475,4,4,Microglia,Microglia,unique,True,True,0.26726124191242445,3,4
+NPC2,ENSG00000119655,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Microglia,Microglia,unique,True,True,0.7500000000000002,4,4
+PSMC3,ENSG00000165916,True,True,RGC,RGC,unique,True,True,0.7,4,4,Horizontal,Horizontal,unique,True,True,0.8928571428571429,4,4
+RP11-466F5.8,ENSG00000224358,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+LPP,ENSG00000145012,True,True,RGC,Muller glia,unique,True,False,0.8999999999999998,3,4,Microglia,Muller glia,unique,True,False,0.4642857142857144,2,4
+RP11-121M22.1,ENSG00000175773,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+ABO,ENSG00000175164,True,True,RGC,RGC,unique,True,True,0.7071067811865475,4,4,RGC,RGC,unique,True,True,0.6123724356957945,4,4
+ADAMTS8,ENSG00000134917,True,True,Muller glia,RGC,unique,True,False,-0.6668859288553501,4,4,Muller glia,RGC,unique,True,False,0.039762138624377205,4,4
+CALD1,ENSG00000122786,True,True,Muller glia,Muller glia,unique,True,True,0.7999999999999999,4,4,Muller glia,Muller glia,unique,True,True,0.39285714285714296,4,4
+CHEK2,ENSG00000183765,True,True,RGC,RGC,unique,True,True,0.7999999999999999,4,4,Microglia,Microglia,unique,True,True,0.8468812149338255,4,4
+GAS7,ENSG00000007237,True,True,Cone,Cone,unique,True,True,0.3,4,4,Cone,Cone,unique,True,True,0.07142857142857144,4,4
+LMX1B,ENSG00000136944,True,False,Muller glia,,unique,False,False,,3,4,Muller glia,,unique,False,False,,3,4
+TCF12,ENSG00000140262,True,True,Cone,Muller glia,unique,True,False,0.3,4,4,Cone,Muller glia,unique,True,False,0.1785714285714286,4,4
+TMCO1,ENSG00000143183,True,True,Muller glia,Muller glia,unique,True,True,0.9999999999999999,2,4,Muller glia,Muller glia,unique,True,True,0.7500000000000002,2,4
+TRIB2,ENSG00000071575,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Muller glia,Muller glia,unique,True,True,0.3214285714285715,4,4
+AC000078.5,ENSG00000232926,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+AC002066.1,ENSG00000237813,True,False,Muller glia,,unique,False,False,,4,4,Muller glia,,unique,False,False,,4,4
+AC012066.1,ENSG00000213197,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+AC091132.1,ENSG00000236234,True,False,Bipolar,,unique,False,False,,3,4,Bipolar,,unique,False,False,,3,4
+ACBD4,ENSG00000181513,True,True,Cone,Muller glia,unique,True,False,-0.3,4,4,Cone,Muller glia,unique,True,False,-0.21428571428571433,4,4
+AFAP1,ENSG00000196526,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.7500000000000002,4,4
+ALDH2,ENSG00000111275,True,True,Bipolar,Muller glia,unique,True,False,0.0,4,4,Microglia,Microglia,unique,True,True,0.3214285714285715,4,4
+AP003068.23,ENSG00000254614,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+AP5B1,ENSG00000254470,True,True,Cone,Rod,unique,True,False,0.49999999999999994,2,4,Microglia,Rod,unique,True,False,0.10714285714285716,4,4
+AREL1,ENSG00000119682,True,True,RGC,RGC,unique,True,True,0.6,4,4,RGC,RGC,unique,True,True,0.3214285714285715,4,4
+ARHGAP27,ENSG00000159314,True,True,Bipolar,Bipolar,unique,True,True,0.7,4,4,Microglia,Microglia,unique,True,True,0.8928571428571429,4,4
+ARHGEF12,ENSG00000196914,True,True,Bipolar,RGC,unique,True,False,0.6,3,4,Bipolar,RGC,unique,True,False,0.7500000000000002,3,4
+ARL17A,ENSG00000185829,True,True,Rod,RGC,unique,True,False,0.3,4,4,Rod,Horizontal,unique,True,False,0.0,4,4
+ATP5J,ENSG00000154723,False,True,,Cone,missing_symbol,False,False,,0,0,,Cone,missing_symbol,False,False,,0,0
+BICC1,ENSG00000122870,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.6300619191619361,4,4
+BORA,ENSG00000136122,True,True,Rod,Bipolar,unique,True,False,-0.09999999999999999,3,4,Horizontal,Bipolar,unique,True,False,0.07142857142857144,3,4
+C1orf109,ENSG00000116922,True,True,RGC,RGC,unique,True,True,0.6,4,4,Horizontal,Horizontal,unique,True,True,0.8571428571428573,2,4
+C1orf122,ENSG00000197982,True,True,Bipolar,Cone,unique,True,False,0.7999999999999999,4,4,Horizontal,Cone,unique,True,False,0.07142857142857144,4,4
+C22orf29,ENSG00000215012,False,True,,RGC,missing_symbol,False,False,,0,0,,Horizontal,missing_symbol,False,False,,0,0
+C6orf15,ENSG00000204542,True,False,,,no_UMIs,False,False,,0,0,,,no_UMIs,False,False,,0,0
+CADM1,ENSG00000182985,True,True,Rod,Bipolar,unique,True,False,0.8999999999999998,4,4,Rod,Bipolar,unique,True,False,0.8571428571428573,4,4
+CADM2,ENSG00000175161,True,True,Rod,Rod,unique,True,True,0.8999999999999998,4,4,Rod,Rod,unique,True,True,0.642857142857143,4,4
+CAV2,ENSG00000105971,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Muller glia,Muller glia,unique,True,True,0.28571428571428575,4,4
+CCDC117,ENSG00000159873,True,True,Rod,RGC,unique,True,False,0.8999999999999998,2,4,Horizontal,RGC,unique,True,False,0.42857142857142866,4,4
+CDC14A,ENSG00000079335,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.5225437283634242,4,4
+CDKN2A,ENSG00000147889,True,True,Bipolar,Bipolar,unique,True,True,0.8944271909999157,3,4,Microglia,Microglia,unique,True,True,0.9063269671749657,4,4
+CDKN2B-AS1,ENSG00000240498,True,True,Muller glia,Cone,unique,True,False,-0.6155870112510925,2,4,Microglia,Microglia,unique,True,True,0.2964997266644405,2,4
+CELF1,ENSG00000149187,True,True,RGC,RGC,unique,True,True,0.7,4,4,RGC,Horizontal,unique,True,False,0.642857142857143,4,4
+CLIC5,ENSG00000112782,True,True,Muller glia,Muller glia,unique,True,True,0.5642880936468347,4,4,Muller glia,Muller glia,unique,True,True,0.19702760155977517,4,4
+CMB9-22P13.1,ENSG00000173727,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+COL11A1,ENSG00000060718,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.37062465833055064,4,4
+CRHR1,ENSG00000120088,True,True,Bipolar,Bipolar,unique,True,True,0.44721359549995787,4,4,Bipolar,Bipolar,unique,True,True,0.26726124191242445,4,4
+CTA-292E10.6,ENSG00000226471,False,True,,Rod,missing_symbol,False,False,,0,0,,Microglia,missing_symbol,False,False,,0,0
+CTB-39G8.3,ENSG00000267344,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+CTD-2005H7.1,ENSG00000254731,False,True,,Bipolar,missing_symbol,False,False,,0,0,,Horizontal,missing_symbol,False,False,,0,0
+CTD-2020K17.1,ENSG00000267121,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+CTD-2020K17.3,ENSG00000233175,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+CTTNBP2,ENSG00000077063,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Horizontal,Horizontal,unique,True,True,0.9285714285714288,3,4
+DDX39BP2,ENSG00000238024,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+DIO1,ENSG00000211452,True,False,RGC,,unique,False,False,,3,4,RGC,,unique,False,False,,2,4
+DND1P1,ENSG00000264070,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+DYSF,ENSG00000135636,True,True,RGC,Bipolar,unique,True,False,-0.7181848464596079,4,4,RGC,Bipolar,unique,True,False,0.05910828046793256,4,4
+EFCAB13,ENSG00000178852,True,True,Muller glia,RGC,unique,True,False,-0.09999999999999999,4,4,Muller glia,RGC,unique,True,False,-0.25,1,4
+EFEMP1,ENSG00000115380,True,True,Muller glia,Muller glia,unique,True,True,0.39999999999999997,4,4,Muller glia,Muller glia,unique,True,True,0.2882999880625789,4,4
+EHBP1L1,ENSG00000173442,True,True,RGC,RGC,unique,True,True,0.8999999999999998,2,4,Microglia,Microglia,unique,True,True,0.8829187134416479,4,4
+FAM215B,ENSG00000232300,True,True,Rod,Bipolar,unique,True,False,-0.7999999999999999,2,4,Microglia,Horizontal,unique,True,False,-0.8571428571428573,3,4
+FAM83A,ENSG00000147689,True,False,RGC,,unique,False,False,,3,4,Horizontal,,unique,False,False,,4,4
+FAM83A-AS1,ENSG00000204949,True,False,,,no_UMIs,False,False,,0,0,Horizontal,,unique,False,False,,4,4
+FAM89B,ENSG00000176973,True,True,RGC,RGC,unique,True,True,0.49999999999999994,4,4,RGC,Horizontal,unique,True,False,0.7142857142857144,3,4
+FHL3,ENSG00000183386,True,True,RGC,Muller glia,unique,True,False,0.7,4,4,Microglia,Microglia,unique,True,True,0.8829187134416479,4,4
+FLOT1,ENSG00000137312,True,True,RGC,RGC,unique,True,True,0.7,4,4,RGC,Microglia,unique,True,False,0.7857142857142859,3,4
+FLVCR2,ENSG00000119686,True,True,Muller glia,Muller glia,unique,True,True,0.051298917604257706,4,4,Microglia,Microglia,unique,True,True,0.555936987495826,4,4
+FMNL1,ENSG00000184922,True,True,RGC,RGC,unique,True,True,0.9999999999999999,4,4,Microglia,Microglia,unique,True,True,0.9369749612033814,4,4
+FNDC4,ENSG00000115226,True,True,RGC,RGC,unique,True,True,0.7,4,4,RGC,RGC,unique,True,True,0.7500000000000002,4,4
+GALR3,ENSG00000128310,True,False,RGC,,unique,False,False,,4,4,RGC,,unique,False,False,,4,4
+GCAT,ENSG00000100116,True,True,RGC,Muller glia,unique,True,False,0.7999999999999999,4,4,RGC,Muller glia,unique,True,False,0.8214285714285715,3,4
+GLIS1,ENSG00000174332,True,True,RGC,Muller glia,unique,True,False,0.3354101966249684,4,4,RGC,Muller glia,unique,True,False,0.35634832254989923,4,4
+H1F0,ENSG00000189060,True,True,Bipolar,Bipolar,unique,True,True,0.7999999999999999,4,4,Horizontal,Horizontal,unique,True,True,0.9285714285714288,4,4
+HCG4,ENSG00000176998,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HCG4B,ENSG00000227262,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HCG4P5,ENSG00000227766,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HCG4P7,ENSG00000230521,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HCG9,ENSG00000204625,True,True,RGC,RGC,unique,True,True,0.22360679774997894,4,4,Microglia,RGC,unique,True,False,-0.044543540318737404,3,4
+HCP5B,ENSG00000281831,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+HECTD4,ENSG00000173064,True,True,RGC,RGC,unique,True,True,0.8999999999999998,4,4,RGC,RGC,unique,True,True,0.6785714285714287,4,4
+HLA-A,ENSG00000206503,True,True,Muller glia,Muller glia,unique,True,True,0.9999999999999999,4,4,Microglia,Microglia,unique,True,True,0.8928571428571429,4,4
+HLA-C,ENSG00000204525,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Microglia,Microglia,unique,True,True,0.9642857142857145,4,4
+HLA-F,ENSG00000204642,True,True,RGC,Muller glia,unique,True,False,0.6,4,4,Microglia,Microglia,unique,True,True,0.7857142857142859,4,4
+HLA-F-AS1,ENSG00000214922,True,False,RGC,,unique,False,False,,4,4,RGC,,unique,False,False,,4,4
+HLA-G,ENSG00000204632,True,True,RGC,Bipolar,unique,True,False,-0.8944271909999157,4,4,RGC,Microglia,unique,True,False,-0.8946481190484872,4,4
+HLA-H,ENSG00000206341,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-J,ENSG00000204622,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-L,ENSG00000243753,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-T,ENSG00000231130,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-U,ENSG00000228078,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-V,ENSG00000181126,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HLA-W,ENSG00000235290,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+HSCB,ENSG00000100209,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Muller glia,Microglia,unique,True,False,0.7500000000000002,3,4
+HTRA3,ENSG00000170801,True,True,Muller glia,Muller glia,unique,True,True,0.7254762501100117,4,4,Microglia,Muller glia,unique,True,False,0.4236592728681617,3,4
+IFITM4P,ENSG00000235821,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+IFT172,ENSG00000138002,True,True,Rod,Rod,unique,True,True,0.7,4,4,Rod,Rod,unique,True,True,0.8571428571428573,4,4
+INPP5B,ENSG00000204084,True,True,RGC,RGC,unique,True,True,0.6,4,4,RGC,Horizontal,unique,True,False,0.6071428571428572,4,4
+ITGB3,ENSG00000259207,True,True,Cone,,unique,False,False,,4,4,Cone,Microglia,unique,True,False,0.408248290463863,3,4
+KANSL1,ENSG00000120071,True,True,RGC,RGC,unique,True,True,0.7999999999999999,3,4,RGC,RGC,unique,True,True,0.6785714285714287,3,4
+KANSL1-AS1,ENSG00000214401,True,True,Bipolar,Rod,unique,True,False,0.49999999999999994,3,4,Horizontal,Rod,unique,True,False,-0.21428571428571433,3,4
+KHK,ENSG00000138030,True,True,RGC,RGC,unique,True,True,0.7,4,4,RGC,RGC,unique,True,True,0.7142857142857144,4,4
+KLF5,ENSG00000102554,True,True,RGC,Rod,unique,True,False,0.22360679774997894,3,4,Horizontal,Horizontal,unique,True,True,0.6304883249912806,4,4
+KRT8P26,ENSG00000214659,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+LHPP,ENSG00000107902,True,True,RGC,RGC,unique,True,True,0.6,3,4,Horizontal,Horizontal,unique,True,True,0.7500000000000002,4,4
+LINC01948,ENSG00000248727,True,True,RGC,Bipolar,unique,True,False,0.35355339059327373,4,4,RGC,Bipolar,unique,True,False,0.408248290463863,4,4
+LINC02052,ENSG00000224406,True,False,,,no_UMIs,False,False,,0,0,,,no_UMIs,False,False,,0,0
+LINC02210,ENSG00000204650,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+LMO4,ENSG00000143013,True,True,Bipolar,RGC,unique,True,False,0.49999999999999994,4,4,Bipolar,RGC,unique,True,False,0.21428571428571433,4,4
+LMO7,ENSG00000136153,True,True,RGC,Rod,unique,True,False,-0.09999999999999999,4,4,RGC,Rod,unique,True,False,0.03571428571428572,4,4
+LOXL1,ENSG00000129038,True,True,Muller glia,RGC,unique,True,False,-0.051298917604257706,4,4,Muller glia,RGC,unique,True,False,-0.2594372608313854,4,4
+LOXL1-AS1,ENSG00000261801,True,True,Muller glia,RGC,unique,True,False,0.8720815992723809,4,4,Muller glia,RGC,unique,True,False,0.9265616458263766,4,4
+LRRC37A,ENSG00000176681,True,True,Cone,RGC,unique,True,False,0.7,4,4,Cone,RGC,unique,True,False,0.592999453328881,4,4
+LRRC37A17P,ENSG00000263142,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+LRRC37A2,ENSG00000238083,True,True,Rod,Bipolar,unique,True,False,0.7,3,4,Rod,Bipolar,unique,True,False,0.6785714285714287,3,4
+LRRC37A4P,ENSG00000214425,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+LRWD1,ENSG00000161036,True,True,RGC,RGC,unique,True,True,0.7,1,4,Horizontal,RGC,unique,True,False,0.5,2,4
+LTBP2,ENSG00000119681,True,True,RGC,Bipolar,unique,True,False,-0.3,3,4,RGC,Bipolar,unique,True,False,0.037062465833055065,3,4
+LTBP3,ENSG00000168056,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.3571428571428572,4,4
+MADD,ENSG00000110514,True,True,Cone,Cone,unique,True,True,0.7,4,4,Cone,Horizontal,unique,True,False,0.8214285714285715,2,4
+MAPK8IP1P1,ENSG00000262500,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+MAPK8IP1P2,ENSG00000263503,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+MAPT,ENSG00000186868,True,True,RGC,Bipolar,unique,True,False,0.8999999999999998,4,4,Horizontal,Horizontal,unique,True,True,0.8571428571428573,4,4
+MAPT-AS1,ENSG00000264589,True,True,Bipolar,Bipolar,unique,True,True,0.9999999999999999,4,4,Horizontal,Horizontal,unique,True,True,0.7857142857142859,4,4
+MAPT-IT1,ENSG00000279685,True,False,Bipolar,,unique,False,False,,4,4,Horizontal,,unique,False,False,,4,4
+ME3,ENSG00000151376,True,True,Bipolar,Bipolar,unique,True,True,0.8999999999999998,4,4,Horizontal,Bipolar,unique,True,False,0.8571428571428573,3,4
+MICE,ENSG00000273340,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+MOV10,ENSG00000155363,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.7142857142857144,4,4
+MRPL33,ENSG00000243147,True,True,Rod,Cone,unique,True,False,0.09999999999999999,4,4,Horizontal,Horizontal,unique,True,True,0.6071428571428572,4,4
+MTCH2,ENSG00000109919,True,True,Rod,Cone,unique,True,False,0.7999999999999999,4,4,Rod,Cone,unique,True,False,0.8571428571428573,3,4
+MVB12B,ENSG00000196814,True,True,RGC,RGC,unique,True,True,0.7,4,4,Microglia,RGC,unique,True,False,0.28571428571428575,4,4
+Metazoa_SRP,ENSG00000274883,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+NEAT1,ENSG00000245532,True,True,RGC,Muller glia,unique,True,False,0.7999999999999999,2,4,RGC,Microglia,unique,True,False,0.642857142857143,2,4
+NMT1,ENSG00000136448,True,True,Rod,Cone,unique,True,False,0.8999999999999998,1,4,Rod,Cone,unique,True,False,0.7500000000000002,1,4
+NPEPPS,ENSG00000141279,True,True,Bipolar,Cone,unique,True,False,0.7,3,4,Bipolar,Cone,unique,True,False,0.8214285714285715,3,4
+NRBP1,ENSG00000115216,True,True,Rod,RGC,unique,True,False,0.49999999999999994,4,4,Rod,RGC,unique,True,False,0.5357142857142858,4,4
+NSF,ENSG00000073969,True,True,Cone,Cone,unique,True,True,0.6,4,4,Cone,Cone,unique,True,True,0.8214285714285715,4,4
+NUCB2,ENSG00000070081,True,True,Cone,Rod,unique,True,False,0.3,4,4,Cone,Rod,unique,True,False,0.642857142857143,4,4
+NUDT7,ENSG00000140876,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Muller glia,Muller glia,unique,True,True,0.39285714285714296,4,4
+PDE6C,ENSG00000095464,True,True,Cone,Cone,unique,True,True,0.7,4,4,Cone,Cone,unique,True,True,0.2594372608313854,4,4
+PGAM1P8,ENSG00000255200,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+PIBF1,ENSG00000083535,True,True,Rod,Rod,unique,True,True,0.0,4,4,Rod,Horizontal,unique,True,False,-0.25,4,4
+PIGC,ENSG00000135845,True,True,Rod,RGC,unique,True,False,0.49999999999999994,4,4,Rod,RGC,unique,True,False,0.07142857142857144,4,4
+PKIB,ENSG00000135549,True,True,RGC,Cone,unique,True,False,0.6,4,4,RGC,Cone,unique,True,False,0.7857142857142859,4,4
+PLCE1,ENSG00000138193,True,True,Muller glia,Muller glia,unique,True,True,0.7,4,4,Muller glia,Muller glia,unique,True,True,0.3243374865704013,4,4
+PLCE1-AS1,ENSG00000268894,True,False,Muller glia,,unique,False,False,,4,4,Muller glia,,unique,False,False,,4,4
+PLEKHA7,ENSG00000166689,True,True,Cone,Cone,unique,True,True,0.8999999999999998,4,4,Cone,Cone,unique,True,True,0.7567874686642696,4,4
+PLEKHM1,ENSG00000225190,True,True,RGC,Muller glia,unique,True,False,0.7999999999999999,3,4,RGC,Microglia,unique,True,False,0.39285714285714296,3,4
+PPP1R18,ENSG00000146112,True,True,Rod,Rod,unique,True,True,0.9999999999999999,4,4,Microglia,Microglia,unique,True,True,0.7857142857142859,2,4
+PRKCE,ENSG00000171132,True,True,Bipolar,Bipolar,unique,True,True,0.9999999999999999,4,4,Bipolar,Bipolar,unique,True,True,0.4504687313477795,4,4
+PROX2,ENSG00000119608,True,False,RGC,,unique,False,False,,3,4,RGC,,unique,False,False,,3,4
+PRSS23,ENSG00000150687,True,True,Cone,Bipolar,unique,True,False,0.0,4,4,Cone,Bipolar,unique,True,False,0.08908708063747481,3,4
+PSORS1C3,ENSG00000204528,True,False,Rod,,unique,False,False,,4,4,Microglia,,unique,False,False,,3,4
+RAPSN,ENSG00000165917,True,True,Muller glia,Muller glia,unique,True,True,0.7071067811865475,3,4,Muller glia,Muller glia,unique,True,True,0.6179143806533246,3,4
+RERE,ENSG00000142599,True,True,Cone,Bipolar,unique,True,False,0.09999999999999999,4,4,Cone,Bipolar,unique,True,False,0.28571428571428575,4,4
+RIC8B,ENSG00000111785,True,True,Rod,Rod,unique,True,True,0.7,4,4,Rod,Rod,unique,True,True,0.3571428571428572,4,4
+RORA,ENSG00000069667,True,True,Bipolar,Cone,unique,True,False,0.19999999999999998,4,4,Bipolar,Cone,unique,True,False,0.4642857142857144,4,4
+RP11-123K19.1,ENSG00000224842,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-136H19.1,ENSG00000267667,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-149I2.4,ENSG00000266446,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-162I7.1,ENSG00000259284,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-17G12.2,ENSG00000256897,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-205K6.1,ENSG00000233721,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-217B7.2,ENSG00000226334,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+RP11-259A24.1,ENSG00000259530,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-259G18.1,ENSG00000261575,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-259G18.3,ENSG00000262539,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-293E1.1,ENSG00000265964,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-293E1.2,ENSG00000265547,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-302L19.3,ENSG00000273100,False,True,,Cone,missing_symbol,False,False,,0,0,,Cone,missing_symbol,False,False,,0,0
+RP11-403A3.3,ENSG00000275830,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+RP11-412D9.4,ENSG00000260329,False,True,,Bipolar,missing_symbol,False,False,,0,0,,Horizontal,missing_symbol,False,False,,0,0
+RP11-507B12.1,ENSG00000259675,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-507B12.2,ENSG00000259616,False,True,,Muller glia,missing_symbol,False,False,,0,0,,Muller glia,missing_symbol,False,False,,0,0
+RP11-669E14.6,ENSG00000262372,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+RP11-707O23.1,ENSG00000280022,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-750H9.5,ENSG00000255197,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-755F10.1,ENSG00000255320,False,True,,RGC,missing_symbol,False,False,,0,0,,RGC,missing_symbol,False,False,,0,0
+RP11-762L8.6,ENSG00000278989,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-770G2.2,ENSG00000255557,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP11-798G7.6,ENSG00000267198,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+RP11-798G7.8,ENSG00000266918,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+RP5-1115A15.1,ENSG00000232912,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+RPS26P8,ENSG00000204652,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+SCRN2,ENSG00000141295,True,True,RGC,Muller glia,unique,True,False,0.7,4,4,Horizontal,Muller glia,unique,True,False,0.7142857142857144,3,4
+SEMA3E,ENSG00000170381,True,True,Bipolar,Bipolar,unique,True,True,0.7999999999999999,4,4,Bipolar,Bipolar,unique,True,True,0.594618725379069,4,4
+SEPT7,ENSG00000122545,False,True,,RGC,missing_symbol,False,False,,0,0,,Horizontal,missing_symbol,False,False,,0,0
+SF3A3,ENSG00000183431,True,True,RGC,Bipolar,unique,True,False,0.49999999999999994,4,4,RGC,Horizontal,unique,True,False,0.39285714285714296,2,4
+SFTA1P,ENSG00000225383,True,True,Rod,Muller glia,unique,True,False,0.36273812505500586,2,4,Rod,Muller glia,unique,True,False,0.4504426164614508,2,4
+SGSM2,ENSG00000141258,True,True,Cone,Cone,unique,True,True,0.7,4,4,Cone,Cone,unique,True,True,0.5,4,4
+SLC25A45,ENSG00000162241,True,True,Bipolar,RGC,unique,True,False,0.49999999999999994,4,4,Microglia,Microglia,unique,True,True,0.4504687313477795,4,4
+SLC39A13,ENSG00000165915,True,True,RGC,RGC,unique,True,True,0.8999999999999998,4,4,Horizontal,Horizontal,unique,True,True,0.9642857142857145,4,4
+SMAD6,ENSG00000137834,True,True,Muller glia,Muller glia,unique,True,True,0.41039134083406165,4,4,Muller glia,Muller glia,unique,True,True,0.3349469226516178,4,4
+SNORD14A,ENSG00000272034,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+SSSCA1-AS1,ENSG00000260233,True,False,Rod,,unique,False,False,,4,4,Rod,,unique,False,False,,4,4
+TARID,ENSG00000227954,True,True,RGC,Cone,unique,True,False,0.3354101966249684,4,4,RGC,Cone,unique,True,False,0.48997894350611143,4,4
+TBC1D31,ENSG00000156787,True,True,RGC,RGC,unique,True,True,0.9999999999999999,4,4,Horizontal,RGC,unique,True,False,0.03571428571428572,4,4
+TBKBP1,ENSG00000198933,True,True,Bipolar,Bipolar,unique,True,True,0.7,4,4,Horizontal,Bipolar,unique,True,False,0.3571428571428572,4,4
+TBPL1,ENSG00000028839,True,True,Bipolar,RGC,unique,True,False,0.7999999999999999,4,4,Bipolar,RGC,unique,True,False,0.5714285714285715,4,4
+TGFB3,ENSG00000119699,True,True,Rod,Muller glia,unique,True,False,0.8720815992723809,2,4,Rod,Muller glia,unique,True,False,0.7684076460831233,2,4
+THCAT158,ENSG00000263293,False,True,,Muller glia,missing_symbol,False,False,,0,0,,Muller glia,missing_symbol,False,False,,0,0
+THSD7A,ENSG00000005108,True,True,Bipolar,Bipolar,unique,True,True,0.8999999999999998,4,4,Horizontal,Horizontal,unique,True,True,0.8571428571428573,4,4
+TIGD3,ENSG00000173825,True,True,Bipolar,Bipolar,unique,True,True,0.9999999999999999,4,4,Bipolar,Bipolar,unique,True,True,0.8571428571428573,4,4
+TMEM116,ENSG00000198270,True,True,RGC,Rod,unique,True,False,-0.09999999999999999,3,4,RGC,Rod,unique,True,False,0.28571428571428575,3,4
+TMEM136,ENSG00000181264,False,True,,Rod,missing_symbol,False,False,,0,0,,Rod,missing_symbol,False,False,,0,0
+TMEM181,ENSG00000146433,True,True,RGC,RGC,unique,True,True,0.3,4,4,RGC,Horizontal,unique,True,False,0.42857142857142866,3,4
+TMEM263,ENSG00000151135,True,True,Bipolar,Muller glia,unique,True,False,-0.09999999999999999,4,4,Horizontal,Muller glia,unique,True,False,-0.14285714285714288,2,4
+TRIM26,ENSG00000234127,True,True,Rod,Rod,unique,True,True,0.7999999999999999,4,4,Rod,Horizontal,unique,True,False,0.10714285714285716,4,4
+TRIOBP,ENSG00000100106,True,True,RGC,Bipolar,unique,True,False,0.7,4,4,RGC,Bipolar,unique,True,False,0.6071428571428572,4,4
+TSC22D2,ENSG00000196428,True,True,Muller glia,Muller glia,unique,True,True,0.8999999999999998,4,4,Muller glia,Muller glia,unique,True,True,0.07142857142857144,4,4
+TTC28,ENSG00000100154,True,True,Bipolar,Bipolar,unique,True,True,0.49999999999999994,4,4,Bipolar,Bipolar,unique,True,True,0.3571428571428572,4,4
+TTLL5,ENSG00000119685,True,True,Rod,Rod,unique,True,True,0.8999999999999998,4,4,Rod,Rod,unique,True,True,0.39285714285714296,4,4
+TXNDC8,ENSG00000204193,True,False,RGC,,unique,False,False,,4,4,RGC,,unique,False,False,,4,4
+TXNRD2,ENSG00000184470,True,True,Bipolar,Bipolar,unique,True,True,0.3,4,4,Bipolar,Bipolar,unique,True,True,0.4642857142857144,3,4
+UTP11,ENSG00000183520,True,True,RGC,RGC,unique,True,True,0.9999999999999999,2,4,Horizontal,Horizontal,unique,True,True,0.7857142857142859,3,4
+VARS2,ENSG00000137411,True,True,Bipolar,Muller glia,unique,True,False,0.8999999999999998,4,4,Microglia,Muller glia,unique,True,False,0.42857142857142866,3,4
+VCAM1,ENSG00000162692,True,True,Muller glia,Muller glia,unique,True,True,0.7254762501100117,4,4,Muller glia,Muller glia,unique,True,True,0.6179143806533246,4,4
+WLS,ENSG00000116729,True,True,Rod,Rod,unique,True,True,0.9999999999999999,4,4,Rod,Rod,unique,True,True,0.9642857142857145,4,4
+WNT2B,ENSG00000134245,True,True,Rod,Muller glia,unique,True,False,0.7,4,4,Microglia,Muller glia,unique,True,False,0.14285714285714288,3,4
+XRCC6P1,ENSG00000237417,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+XXbac-BPG170G13.32,ENSG00000272236,False,True,,Muller glia,missing_symbol,False,False,,0,0,,Microglia,missing_symbol,False,False,,0,0
+XXbac-BPG283O16.9,ENSG00000280128,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0
+YAP1,ENSG00000137693,True,True,Muller glia,Muller glia,unique,True,True,0.0,4,4,Muller glia,Muller glia,unique,True,True,-0.18531232916527532,4,4
+YIF1A,ENSG00000174851,True,True,RGC,Muller glia,unique,True,False,-0.3,4,4,RGC,Muller glia,unique,True,False,-0.642857142857143,2,4
+ZNF280D,ENSG00000137871,True,True,Bipolar,Bipolar,unique,True,True,0.8999999999999998,4,4,Bipolar,Horizontal,unique,True,False,0.8928571428571429,4,4
+ZNF638,ENSG00000075292,True,True,Muller glia,RGC,unique,True,False,-0.3,4,4,Muller glia,RGC,unique,True,False,-0.42857142857142866,4,4
+ZNF638-IT1,ENSG00000281195,False,False,,,missing_symbol,False,False,,0,0,,,missing_symbol,False,False,,0,0

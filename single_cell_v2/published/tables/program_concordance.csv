@@ -1,0 +1,13 @@
+program,comparison,V1_relative_top,external_relative_top,same_relative_top
+HALLMARK_CHOLESTEROL_HOMEOSTASIS,extended,Microglia,RGC,False
+HALLMARK_CHOLESTEROL_HOMEOSTASIS,primary,Muller glia,RGC,False
+HALLMARK_FATTY_ACID_METABOLISM,extended,Microglia,RGC,False
+HALLMARK_FATTY_ACID_METABOLISM,primary,Muller glia,RGC,False
+HALLMARK_GLYCOLYSIS,extended,Microglia,Muller glia,False
+HALLMARK_GLYCOLYSIS,primary,Muller glia,Muller glia,True
+HALLMARK_OXIDATIVE_PHOSPHORYLATION,extended,Microglia,RGC,False
+HALLMARK_OXIDATIVE_PHOSPHORYLATION,primary,Cone,RGC,False
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,extended,Microglia,Microglia,True
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,primary,Muller glia,Muller glia,True
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE,extended,Microglia,Microglia,True
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE,primary,Muller glia,Muller glia,True

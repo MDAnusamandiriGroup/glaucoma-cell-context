@@ -1,0 +1,18 @@
+{
+  "mapped_genes": 163,
+  "number_scenario_draws": 2400,
+  "replicates_per_scenario": 300,
+  "scenarios": [
+    "equal_cells_20",
+    "equal_cells_10_extended",
+    "cell_fraction_0.25",
+    "cell_fraction_0.5",
+    "cell_fraction_0.75",
+    "UMI_fraction_0.25",
+    "UMI_fraction_0.5",
+    "UMI_fraction_0.75"
+  ],
+  "scope": "Technical resampling conditional on the observed healthy-donor dataset, not population confidence intervals",
+  "seed": 20261006,
+  "unit": "Cell draws without replacement within donor and published type; depth draws thin selected genes and other UMIs jointly"
+}

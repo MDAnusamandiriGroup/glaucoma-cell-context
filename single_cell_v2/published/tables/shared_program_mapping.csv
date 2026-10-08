@@ -1,0 +1,7 @@
+program,V1_panel_genes,common_panel_genes,common_gene_fraction,method
+HALLMARK_OXIDATIVE_PHOSPHORYLATION,185,185,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection
+HALLMARK_CHOLESTEROL_HOMEOSTASIS,72,72,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection
+HALLMARK_GLYCOLYSIS,193,193,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection
+HALLMARK_FATTY_ACID_METABOLISM,146,146,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection
+HALLMARK_UNFOLDED_PROTEIN_RESPONSE,107,107,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection
+HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,49,49,1.0,Identical intersected panel/control pairs and weights in both studies; no new control selection

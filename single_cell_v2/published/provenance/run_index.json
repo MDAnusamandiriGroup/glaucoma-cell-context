@@ -1,0 +1,25 @@
+{
+  "config_sha256": "4d4dcdf6ef54bcd64c09211ba3061f284b2347c4abc0db2516497b55642028b1",
+  "scope": "Executed Python extension; V1 checkpoints are read-only inputs",
+  "software": {
+    "anndata": "0.13.4",
+    "numpy": "2.3.5",
+    "pandas": "3.0.6",
+    "python": "3.12.14",
+    "scipy": "1.18.1"
+  },
+  "stages": {
+    "expanded": "results/expanded_3df29e4bb5923993",
+    "programs": "results/programs_d6209823c416a80c",
+    "regulatory": "results/regulatory_28ecdcbfd6b1c8f3",
+    "replication": "results/replication_01218ac0382478f3",
+    "report": "results/report_ccaf988084f0983c",
+    "sampling": "results/sampling_2d2b346eef44f14f",
+    "triangulation": "results/triangulation_71decd6b6c807a8f"
+  },
+  "v1_inputs_sha256": {
+    "candidates": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+    "counts": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+    "v1_index": "70abe54a52c31932c3843ea0614ae7485f61b55dcb4a7b91d47a40f2992307f9"
+  }
+}

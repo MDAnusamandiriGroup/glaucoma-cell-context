@@ -1,0 +1,26 @@
+{
+  "V1_output_files_hash_verified": 46,
+  "V2_output_files_hash_verified": 62,
+  "checks": {
+    "V1_checkpoints_preserved": true,
+    "all_1304_sampling_units_have_300_draws_and_total_fraction_1": true,
+    "all_324_V1_target_donor_type_QC_values_match": true,
+    "all_50_published_index_ATAC_annotations_reproduced": true,
+    "expanded_output_hashes": true,
+    "five_external_genes_align_cellwise_for_all_51645_barcodes": true,
+    "fixed_comparison_sets_and_three_donor_strata": true,
+    "original_genetic_evidence_manifest_preserved": true,
+    "portable_external_counts_conserve_all_gene_UMIs": true,
+    "programs_output_hashes": true,
+    "pseudobulk_UMI_denominators_valid": true,
+    "regulatory_output_hashes": true,
+    "replication_output_hashes": true,
+    "report_output_hashes": true,
+    "sampling_output_hashes": true,
+    "triangulation_output_hashes": true
+  },
+  "index_sha256": "d4755dac650a80b23c2e14948bc7923df8fedd5283d6d6a97ba2962341b3004d",
+  "scientific_contract_tests_passed": 7,
+  "scope": "Executed numerical and integrity audits; not external expert biological validation",
+  "status": "passed"
+}

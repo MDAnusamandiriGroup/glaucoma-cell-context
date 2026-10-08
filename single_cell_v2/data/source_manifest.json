@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "retrieved_for_run": "2026-10-06",
+  "files": [
+    {
+      "name": "wang_cellxgene.h5ad",
+      "url": "https://datasets.cellxgene.cziscience.com/74ec3a77-f1ff-4e90-af45-b8937cea0a8f.h5ad?download=1",
+      "size": 417344323,
+      "sha256": "c7b45f2db9f2ccfe484960005db7ff85b61ac06a262a5353b481f0e7183e5c74",
+      "method": "direct_https"
+    },
+    {
+      "name": "Human.MitoCarta3.0.xls",
+      "url": "https://personal.broadinstitute.org/scalvo/MitoCarta3.0/Human.MitoCarta3.0.xls",
+      "size": 10179584,
+      "sha256": "e6ada0ae8dcd5447a5efb6f77c69a1c10b1ffa66521540a1e81b92c61e5505f2",
+      "method": "direct_https"
+    },
+    {
+      "name": "hallmark2025.gmt",
+      "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2025.1.Hs/h.all.v2025.1.Hs.symbols.gmt",
+      "size": 48689,
+      "sha256": "f22066af72e215ccb7b89d88e492c07e1eef17534c2ca7b0f9902cfecbbdd8e9",
+      "method": "direct_https"
+    },
+    {
+      "name": "gencode.v32.annotation.gtf.gz",
+      "url": "https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_32/gencode.v32.annotation.gtf.gz",
+      "size": 43097815,
+      "sha256": "da9dc827e9a111c9bde60c55f55b7d37ffebc4649fc01f0745a670240e939ed4",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_filelist.txt",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196235/suppl/filelist.txt",
+      "size": 1537,
+      "sha256": "5c168dd93558b162664077a83104da8ef217edde4920295761846592879d9391",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_mmc3.xlsx",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9584034.2/mmc3.xlsx",
+      "size": 62077230,
+      "sha256": "24540391694898b6755c594c81237851b7d2e08d65642f92d54819b0f4a06599",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_mmc4.xlsx",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9584034.2/mmc4.xlsx",
+      "size": 8689470,
+      "sha256": "39cee4b7ddd771ce0781b3a40dca5a20e70b3c6aca572e6ea7cafeaa07032514",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_mmc7.xlsx",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9584034.2/mmc7.xlsx",
+      "size": 613476,
+      "sha256": "b4e5e39cbd8fe00fa4c55bbb6462470f22b120ddc1b68a60fa4f7438e510ae14",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_mmc8.xlsx",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9584034.2/mmc8.xlsx",
+      "size": 478545,
+      "sha256": "fa8afbdebfb9c1aca5951944590fcd415078a94a94c6fbbea61eed267e5cdf05",
+      "method": "direct_https"
+    },
+    {
+      "name": "wang_mmc9.xlsx",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9584034.2/mmc9.xlsx",
+      "size": 24912966,
+      "sha256": "ce1f976b0a14714f2cb199356d8772b9fd71d740886d52f1c7c417bd93c64b7a",
+      "method": "direct_https"
+    },
+    {
+      "name": "yuan_sciadv.adv9162_tables_s1_to_s15.zip",
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13394472.1/sciadv.adv9162_tables_s1_to_s15.zip",
+      "size": 17976093,
+      "sha256": "369dd4444963b3f4c67aaf11160bb4d9f45b8370a5b07da7b09aac5a0fec875c",
+      "method": "direct_https"
+    },
+    {
+      "name": "GSM5866081_barcodes.tsv.gz",
+      "size": 283547,
+      "tar_header_offset": 10439204352,
+      "sha256": "6764b048fc44a3919e110b5a4186bc5a7e3319d133bf433374ccf60eae021618",
+      "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196235/suppl/GSE196235_RAW.tar",
+      "validation": "HTTP 206 Content-Range, tar checksum/header name and size, gzip and matrix checked downstream",
+      "method": "validated_GEO_tar_member"
+    },
+    {
+      "name": "GSM5866081_features.tsv.gz",
+      "size": 252981,
+      "tar_header_offset": 10439488512,
+      "sha256": "079bb5504d1d1f55c5e4cfc24d02fb8a09d883b35efba22842ec8dc4091056bd",
+      "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196235/suppl/GSE196235_RAW.tar",
+      "validation": "HTTP 206 Content-Range, tar checksum/header name and size, gzip and matrix checked downstream",
+      "method": "validated_GEO_tar_member"
+    },
+    {
+      "name": "GSM5866081_matrix.mtx.gz",
+      "size": 280281941,
+      "tar_header_offset": 10439742464,
+      "sha256": "ce1c09dc7daa5e8493c9d212b86a4b1f0dd0289dcc3ca01e2531a331daa9e1bd",
+      "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196235/suppl/GSE196235_RAW.tar",
+      "validation": "HTTP 206 Content-Range, tar checksum/header name and size, gzip and matrix checked downstream",
+      "method": "validated_GEO_tar_member"
+    },
+    {
+      "name": "wang_metadata.csv",
+      "size": 12667675,
+      "sha256": "b9c856e7f77b549470c89949dd4150356934fb9d79278091edd9663cc563744f",
+      "method": "derived_from_frozen_H5AD"
+    },
+    {
+      "name": "yuan_table_S6.tsv",
+      "size": 19304515,
+      "sha256": "16dd1e8dcf426b52888bcf6063127938e40b1e4eca729750dbac11328f098788",
+      "method": "derived_from_frozen_publisher_zip"
+    },
+    {
+      "name": "ensembl_index_variants_GRCh38.json",
+      "size": 44745,
+      "sha256": "4b9971c38413f7ce2e49605352a0723a6dd34fcafe8e2b81576a7f8a8bfbf201",
+      "method": "bundled_snapshot"
+    }
+  ],
+  "Ensembl_snapshot": "76 frozen index rsIDs requested; current GRCh38 response retained verbatim; no additional aliases or LD proxies requested"
+}
