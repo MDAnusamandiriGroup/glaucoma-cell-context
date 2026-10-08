@@ -1,0 +1,7 @@
+gene,primary_top_type,primary_status,primary_top_score,common_types_n,LODO_agree_folds,LODO_evaluable_folds,LODO_all_three_agree,primary_QC_comparable_top,strict_QC_comparable_top,QC_evaluable,QC_top_agrees,sensitivity_min10_top,sensitivity_min10_status,common_QC_types,min10_types,prior_table_top_type,prior_table_type_in_primary_comparison
+COL8A2,RGC,unique,0.5015990827225936,5,2,2,False,RGC,,False,False,Microglia,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Astrocyte,False
+DGKG,Muller glia,unique,2.3567358121832584,5,3,3,True,Muller glia,Muller glia,True,True,Muller glia,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Astrocyte,False
+NPC2,Muller glia,unique,5.516396414791466,5,3,3,True,Muller glia,Muller glia,True,True,Microglia,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Microglia,False
+PSMC3,RGC,unique,4.7831647708647465,5,1,3,False,RGC,RGC,True,True,Horizontal,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Horizontal,False
+RP11-466F5.8,Rod,unique,1.3936612762233118,5,2,3,False,Rod,Rod,True,True,Rod,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Cone,True
+SLC2A12,Muller glia,unique,2.178316369578083,5,3,3,True,Muller glia,Muller glia,True,True,Muller glia,unique,Rod;Cone;Bipolar;RGC;Muller glia,Rod;Cone;Bipolar;Horizontal;RGC;Muller glia;Microglia,Muller glia,True

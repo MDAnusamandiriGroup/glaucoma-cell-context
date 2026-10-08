@@ -1,0 +1,27 @@
+{
+  "software": {
+    "anndata": "0.13.4",
+    "h5py": "3.16.0",
+    "igraph": "0.11.9",
+    "leidenalg": "0.10.2",
+    "matplotlib": "3.10.8",
+    "numba": "0.68.0",
+    "numpy": "2.3.5",
+    "pandas": "3.0.6",
+    "python": "3.12.14",
+    "scanpy": "1.11.5",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.18.1",
+    "umap-learn": "0.5.12"
+  },
+  "stages": {
+    "aggregate": "results/06_aggregate_cd01b80157c4c20f",
+    "embedding": "results/05_embedding_58746310b6c2228b",
+    "graph": "results/04_graph_7a07a652db6070de",
+    "ingest": "results/01_ingest_07f823ce0bf9c032",
+    "pca": "results/03_pca_6b2e81b96a4ce8c3",
+    "preprocess": "results/02_preprocess_def2df65455d7074",
+    "report": "results/07_report_64d3ba5ae26d3863"
+  },
+  "status": "complete"
+}

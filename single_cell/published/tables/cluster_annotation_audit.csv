@@ -1,0 +1,30 @@
+resolution,cluster,n_cells,published_dominant_type,published_dominant_fraction,provisional_marker_panel,provisional_marker_score,marker_panel_matches_published_dominant,largest_donor_fraction,interpretation
+0.5,0,5410,Rod,0.9116451016635859,Rod,0.877130692763416,True,0.7689463955637708,Descriptive cluster/marker audit; published labels remain primary
+0.5,1,1254,Bipolar,0.9824561403508771,Bipolar,1.1993497982729266,True,0.5047846889952153,Descriptive cluster/marker audit; published labels remain primary
+0.5,10,249,RGC,0.6666666666666666,Horizontal,3.563245788881797,False,0.43373493975903615,Descriptive cluster/marker audit; published labels remain primary
+0.5,11,268,Unassigned,0.39552238805970147,RGC,3.3362829354145265,False,0.8246268656716418,Descriptive cluster/marker audit; published labels remain primary
+0.5,12,193,Bipolar,0.7875647668393783,Bipolar,1.1417970843749212,True,0.6321243523316062,Descriptive cluster/marker audit; published labels remain primary
+0.5,13,237,Rod,0.9746835443037974,Rod,0.803559273953986,True,0.9029535864978903,Descriptive cluster/marker audit; published labels remain primary
+0.5,2,502,Cone,0.9880478087649402,Cone,3.3032378733462124,True,0.6175298804780877,Descriptive cluster/marker audit; published labels remain primary
+0.5,3,5569,Rod,0.9973065182258933,Rod,1.3426158325950184,True,0.7301131262345125,Descriptive cluster/marker audit; published labels remain primary
+0.5,4,3071,Rod,0.9990231195050472,Rod,1.5320955430420469,True,0.8358840768479323,Descriptive cluster/marker audit; published labels remain primary
+0.5,5,1067,Rod,0.7994376757263355,Rod,1.286399810711357,True,0.8294283036551078,Descriptive cluster/marker audit; published labels remain primary
+0.5,6,651,Muller glia,0.9185867895545314,Astrocyte,3.4221737933782044,False,0.5560675883256528,Descriptive cluster/marker audit; published labels remain primary
+0.5,7,682,Bipolar,0.9941348973607038,Bipolar,1.8913385921809962,True,0.5571847507331378,Descriptive cluster/marker audit; published labels remain primary
+0.5,8,539,Unassigned,0.8775510204081632,Muller glia,1.3439312541322697,False,0.5565862708719852,Descriptive cluster/marker audit; published labels remain primary
+0.5,9,173,Microglia,1.0,Microglia,3.602347735362688,True,0.5549132947976878,Descriptive cluster/marker audit; published labels remain primary
+1.0,0,4883,Rod,0.9696907638746672,Rod,0.9168981126753529,True,0.7603932009010854,Descriptive cluster/marker audit; published labels remain primary
+1.0,1,883,Unassigned,0.6613816534541337,Cone,0.3580556748057844,False,0.8516421291053228,Descriptive cluster/marker audit; published labels remain primary
+1.0,10,173,Microglia,1.0,Microglia,3.7373791194987245,True,0.5549132947976878,Descriptive cluster/marker audit; published labels remain primary
+1.0,11,4254,Rod,0.998119417019276,Rod,1.3747925178415492,True,0.9031499764927128,Descriptive cluster/marker audit; published labels remain primary
+1.0,12,332,RGC,0.7469879518072289,Horizontal,3.6947671441515197,False,0.48493975903614456,Descriptive cluster/marker audit; published labels remain primary
+1.0,13,372,Unassigned,0.8333333333333334,Muller glia,1.6479843037946658,False,0.4166666666666667,Descriptive cluster/marker audit; published labels remain primary
+1.0,14,193,Bipolar,0.7927461139896373,Bipolar,1.008548958232688,True,0.6373056994818653,Descriptive cluster/marker audit; published labels remain primary
+1.0,2,923,Bipolar,0.9772481040086674,Bipolar,0.9440961378529795,True,0.5200433369447454,Descriptive cluster/marker audit; published labels remain primary
+1.0,3,328,Bipolar,1.0,Bipolar,1.4104464460477657,True,0.4603658536585366,Descriptive cluster/marker audit; published labels remain primary
+1.0,4,499,Cone,0.9879759519038076,Cone,3.6857710911896713,True,0.6152304609218436,Descriptive cluster/marker audit; published labels remain primary
+1.0,5,1412,Rod,0.9907932011331445,Rod,1.112475577740615,True,0.6494334277620396,Descriptive cluster/marker audit; published labels remain primary
+1.0,6,1535,Rod,0.8599348534201955,Rod,1.3124407639128728,True,0.6214983713355049,Descriptive cluster/marker audit; published labels remain primary
+1.0,7,2743,Rod,0.999635435654393,Rod,1.528526972331358,True,0.933649289099526,Descriptive cluster/marker audit; published labels remain primary
+1.0,8,683,Bipolar,0.9926793557833089,Bipolar,1.7307902547967082,True,0.5578330893118595,Descriptive cluster/marker audit; published labels remain primary
+1.0,9,652,Muller glia,0.9171779141104295,Astrocyte,3.460808558587092,False,0.5567484662576687,Descriptive cluster/marker audit; published labels remain primary

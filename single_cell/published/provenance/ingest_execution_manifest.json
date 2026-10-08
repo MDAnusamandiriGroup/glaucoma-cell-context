@@ -1,0 +1,50 @@
+{
+  "elapsed_seconds": 11.679,
+  "fingerprint": "07f823ce0bf9c032",
+  "outputs": {
+    "counts.h5ad": "da774c77a54ca6f1deeec892e5bc8f053334ea617b0cc99831824a36e6ab5d92",
+    "donor_cell_type_counts.csv": "0eb25b9aab932cd5fcd3f7a6a62bd7fce5c8fc976415fc49345d0220d64b0f62",
+    "summary.json": "511328b7874b549c956715ea0af6db0d5f32406203aa5b6864d26c5c5d7da4a3"
+  },
+  "provenance": {
+    "code_sha256": "055acfa9b65316aac48ea680d300776e54799b98d18b598079f90cd51cc0ecfc",
+    "inputs": {
+      "lukowski_embo2019_CCA_metadata.csv": {
+        "bytes": 3901152,
+        "md5": "2e3e28c40b9d52d2dd0bf2201a100a5c",
+        "sha256": "e9b36e59c371e67daa3cf2f2e4d34944e68d27d300e8d19d8345cebe8e45c6e5",
+        "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_CCA_metadata.csv?download=1"
+      },
+      "lukowski_embo2019_cellbc_cellid.csv": {
+        "bytes": 1526341,
+        "md5": "f50c7dc4028e0db7a9d62b20ac798646",
+        "sha256": "fae19443fdb4dc42ae354eb77c3c9c246a3e545b929496e6946dfc30566f93b0",
+        "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_cellbc_cellid.csv?download=1"
+      },
+      "lukowski_embo2019_raw_count_matrix.csv.gz": {
+        "bytes": 26595433,
+        "md5": "d9ef48e14eda25449c805e5b2c965acf",
+        "sha256": "76fdb35435dc77e7e3150ddc6b9d9b047c3e43dfa784dd958327f6eebbcd0903",
+        "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_raw_count_matrix.csv.gz?download=1"
+      }
+    },
+    "schema": 1,
+    "software": {
+      "anndata": "0.13.4",
+      "h5py": "3.16.0",
+      "igraph": "0.11.9",
+      "leidenalg": "0.10.2",
+      "matplotlib": "3.10.8",
+      "numba": "0.68.0",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.18.1",
+      "umap-learn": "0.5.12"
+    }
+  },
+  "stage": "01_ingest",
+  "status": "complete"
+}

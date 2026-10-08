@@ -1,0 +1,39 @@
+{
+  "elapsed_seconds": 8.644,
+  "fingerprint": "58746310b6c2228b",
+  "outputs": {
+    "cell_embeddings.csv": "175213adea60b977340e679c4fabc1788160e4e79eed750d3914d1ee1d6cbf7e",
+    "embedding.h5ad": "96f2495198337f5d461c01f31f8fe750ff305bd0de3f30e61a3edbd285c7b1f7",
+    "summary.json": "110af3ff3d7401bd5cb238dc742e43f522803ef4dd3cdb83999368aa56e7699c"
+  },
+  "provenance": {
+    "function_sha256": "2c2b06e4332f6de3934a10687ac42b4ea9dc9a2fc9e83e158f51c6e8792b218e",
+    "input": {
+      "output_sha256": "3d428e81b4576a6a5b478ba252462b1b991e74d20b04d75092899666af375917",
+      "stage_fingerprint": "7a07a652db6070de"
+    },
+    "parameters": {
+      "seed": 20261006,
+      "umap_iterations": 200,
+      "umap_min_dist": 0.5
+    },
+    "schema": 1,
+    "software": {
+      "anndata": "0.13.4",
+      "h5py": "3.16.0",
+      "igraph": "0.11.9",
+      "leidenalg": "0.10.2",
+      "matplotlib": "3.10.8",
+      "numba": "0.68.0",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.18.1",
+      "umap-learn": "0.5.12"
+    }
+  },
+  "stage": "05_embedding",
+  "status": "complete"
+}

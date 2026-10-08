@@ -1,0 +1,229 @@
+gene_id,gene,retina_eQTL,strict_retina_eQTL,highest_mean_expression_cell,exact_symbol_in_count_matrix,targeted_in_this_extension,mapping_policy
+ENSG00000058866,DGKG,True,True,Astrocyte,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000146411,SLC2A12,True,False,Muller glia,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000171812,COL8A2,True,False,Astrocyte,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119655,NPC2,True,False,Microglia,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000165916,PSMC3,True,False,Horizontal,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000224358,RP11-466F5.8,True,False,Cone,True,True,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000145012,LPP,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000175773,RP11-121M22.1,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000175164,ABO,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000134917,ADAMTS8,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000122786,CALD1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000183765,CHEK2,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000007237,GAS7,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000136944,LMX1B,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000140262,TCF12,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000143183,TMCO1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000071575,TRIB2,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000232926,AC000078.5,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000237813,AC002066.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000213197,AC012066.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000236234,AC091132.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000181513,ACBD4,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000196526,AFAP1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000111275,ALDH2,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000254614,AP003068.23,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000254470,AP5B1,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119682,AREL1,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000159314,ARHGAP27,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000196914,ARHGEF12,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000185829,ARL17A,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000154723,ATP5J,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000122870,BICC1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000136122,BORA,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000116922,C1orf109,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000197982,C1orf122,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000215012,C22orf29,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204542,C6orf15,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000182985,CADM1,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000175161,CADM2,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000105971,CAV2,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000159873,CCDC117,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000079335,CDC14A,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000147889,CDKN2A,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000240498,CDKN2B-AS1,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000149187,CELF1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000112782,CLIC5,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000173727,CMB9-22P13.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000060718,COL11A1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000120088,CRHR1,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000226471,CTA-292E10.6,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000267344,CTB-39G8.3,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000254731,CTD-2005H7.1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000267121,CTD-2020K17.1,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000233175,CTD-2020K17.3,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000077063,CTTNBP2,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000238024,DDX39BP2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000211452,DIO1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000264070,DND1P1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000135636,DYSF,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000178852,EFCAB13,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000115380,EFEMP1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000173442,EHBP1L1,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000232300,FAM215B,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000147689,FAM83A,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204949,FAM83A-AS1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000176973,FAM89B,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000183386,FHL3,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000137312,FLOT1,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119686,FLVCR2,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000184922,FMNL1,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000115226,FNDC4,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000128310,GALR3,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000100116,GCAT,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000174332,GLIS1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000189060,H1F0,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000176998,HCG4,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000227262,HCG4B,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000227766,HCG4P5,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000230521,HCG4P7,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204625,HCG9,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000281831,HCP5B,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000173064,HECTD4,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000206503,HLA-A,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204525,HLA-C,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204642,HLA-F,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000214922,HLA-F-AS1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204632,HLA-G,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000206341,HLA-H,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204622,HLA-J,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000243753,HLA-L,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000231130,HLA-T,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000228078,HLA-U,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000181126,HLA-V,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000235290,HLA-W,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000100209,HSCB,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000170801,HTRA3,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000235821,IFITM4P,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000138002,IFT172,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204084,INPP5B,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000259207,ITGB3,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000120071,KANSL1,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000214401,KANSL1-AS1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000138030,KHK,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000102554,KLF5,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000214659,KRT8P26,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000107902,LHPP,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000248727,LINC01948,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000224406,LINC02052,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204650,LINC02210,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000143013,LMO4,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000136153,LMO7,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000129038,LOXL1,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000261801,LOXL1-AS1,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000176681,LRRC37A,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000263142,LRRC37A17P,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000238083,LRRC37A2,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000214425,LRRC37A4P,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000161036,LRWD1,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119681,LTBP2,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000168056,LTBP3,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000110514,MADD,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000262500,MAPK8IP1P1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000263503,MAPK8IP1P2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000186868,MAPT,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000264589,MAPT-AS1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000279685,MAPT-IT1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000151376,ME3,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000273340,MICE,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000155363,MOV10,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000243147,MRPL33,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000109919,MTCH2,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000196814,MVB12B,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000274883,Metazoa_SRP,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000245532,NEAT1,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000136448,NMT1,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000141279,NPEPPS,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000115216,NRBP1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000073969,NSF,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000070081,NUCB2,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000140876,NUDT7,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000095464,PDE6C,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000255200,PGAM1P8,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000083535,PIBF1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000135845,PIGC,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000135549,PKIB,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000138193,PLCE1,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000268894,PLCE1-AS1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000166689,PLEKHA7,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000225190,PLEKHM1,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000146112,PPP1R18,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000171132,PRKCE,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119608,PROX2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000150687,PRSS23,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204528,PSORS1C3,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000165917,RAPSN,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000142599,RERE,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000111785,RIC8B,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000069667,RORA,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000224842,RP11-123K19.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000267667,RP11-136H19.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000266446,RP11-149I2.4,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000259284,RP11-162I7.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000256897,RP11-17G12.2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000233721,RP11-205K6.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000226334,RP11-217B7.2,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000259530,RP11-259A24.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000261575,RP11-259G18.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000262539,RP11-259G18.3,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000265964,RP11-293E1.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000265547,RP11-293E1.2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000273100,RP11-302L19.3,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000275830,RP11-403A3.3,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000260329,RP11-412D9.4,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000259675,RP11-507B12.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000259616,RP11-507B12.2,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000262372,RP11-669E14.6,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000280022,RP11-707O23.1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000255197,RP11-750H9.5,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000255320,RP11-755F10.1,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000278989,RP11-762L8.6,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000255557,RP11-770G2.2,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000267198,RP11-798G7.6,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000266918,RP11-798G7.8,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000232912,RP5-1115A15.1,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204652,RPS26P8,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000141295,SCRN2,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000170381,SEMA3E,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000122545,SEPT7,False,False,,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000183431,SF3A3,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000225383,SFTA1P,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000141258,SGSM2,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000162241,SLC25A45,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000165915,SLC39A13,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000137834,SMAD6,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000272034,SNORD14A,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000260233,SSSCA1-AS1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000227954,TARID,False,False,Cone,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000156787,TBC1D31,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000198933,TBKBP1,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000028839,TBPL1,False,False,RGC,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119699,TGFB3,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000263293,THCAT158,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000005108,THSD7A,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000173825,TIGD3,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000198270,TMEM116,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000181264,TMEM136,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000146433,TMEM181,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000151135,TMEM263,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000234127,TRIM26,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000100106,TRIOBP,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000196428,TSC22D2,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000100154,TTC28,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000119685,TTLL5,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000204193,TXNDC8,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000184470,TXNRD2,False,False,Bipolar,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000183520,UTP11,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000137411,VARS2,False,False,Amacrine,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000162692,VCAM1,False,False,Muller glia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000116729,WLS,False,False,Rod,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000134245,WNT2B,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000237417,XRCC6P1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000272236,XXbac-BPG170G13.32,False,False,Microglia,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000280128,XXbac-BPG283O16.9,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000137693,YAP1,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000174851,YIF1A,False,False,Astrocyte,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000137871,ZNF280D,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000075292,ZNF638,False,False,Horizontal,True,False,Exact source symbol; absent symbols retained as missing; no inferred aliases
+ENSG00000281195,ZNF638-IT1,False,False,,False,False,Exact source symbol; absent symbols retained as missing; no inferred aliases

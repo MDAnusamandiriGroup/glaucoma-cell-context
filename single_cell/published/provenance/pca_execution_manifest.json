@@ -1,0 +1,40 @@
+{
+  "elapsed_seconds": 5.123,
+  "fingerprint": "6b2e81b96a4ce8c3",
+  "outputs": {
+    "highly_variable_gene_audit.csv": "1e4b4728c62444f673ba3dc107030484cd20dcb328a337eacab61b8f136dca70",
+    "pca.h5ad": "be4cf63d3fcd7a43093451da3e0fd30764bf77b73444ce107c7d2e7fcb48d87d",
+    "summary.json": "d88ec3e4b775bbfe080443fa7a0581fc4ee6698a85563b97e85475af028f9410"
+  },
+  "provenance": {
+    "function_sha256": "79779284dfd0c275308cf9d6fddcb5d6d2e308d6abe69d63d9fdc8f91afe9387",
+    "input": {
+      "output_sha256": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+      "stage_fingerprint": "def2df65455d7074"
+    },
+    "parameters": {
+      "hvg_batch_key": "library",
+      "hvg_n_genes": 2000,
+      "n_pcs": 30,
+      "seed": 20261006
+    },
+    "schema": 1,
+    "software": {
+      "anndata": "0.13.4",
+      "h5py": "3.16.0",
+      "igraph": "0.11.9",
+      "leidenalg": "0.10.2",
+      "matplotlib": "3.10.8",
+      "numba": "0.68.0",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.18.1",
+      "umap-learn": "0.5.12"
+    }
+  },
+  "stage": "03_pca",
+  "status": "complete"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "stage_hashes_valid": 7,
+  "output_files_valid": 46,
+  "offline_cache_reuse_stages": 7,
+  "completed_output_mtimes_unchanged": true,
+  "process_lock_released": true,
+  "old_pilot_manifest_unchanged": true,
+  "new_fixture_tests_passed": 9,
+  "python_syntax_passed": true
+}

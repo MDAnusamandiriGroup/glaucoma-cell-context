@@ -1,0 +1,19 @@
+gene,omitted_donor,included_donors,baseline_top_type,fold_top_type,fold_status,same_as_baseline,top_score,comparison_types,operation
+COL8A2,Retina 1,Retina 2;Retina 3,RGC,RGC,unique,True,0.7523986240838904,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+COL8A2,Retina 2,Retina 1;Retina 3,RGC,,no_detected_UMIs,False,0.0,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+COL8A2,Retina 3,Retina 1;Retina 2,RGC,RGC,unique,True,0.7523986240838904,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+DGKG,Retina 1,Retina 2;Retina 3,Muller glia,Muller glia,unique,True,1.9798266869182557,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+DGKG,Retina 2,Retina 1;Retina 3,Muller glia,Muller glia,unique,True,2.5703760432857004,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+DGKG,Retina 3,Retina 1;Retina 2,Muller glia,Muller glia,unique,True,2.5200047063458197,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+NPC2,Retina 1,Retina 2;Retina 3,Muller glia,Muller glia,unique,True,5.588497829480396,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+NPC2,Retina 2,Retina 1;Retina 3,Muller glia,Muller glia,unique,True,5.350237318258923,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+NPC2,Retina 3,Retina 1;Retina 2,Muller glia,Muller glia,unique,True,5.610454096635081,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+PSMC3,Retina 1,Retina 2;Retina 3,RGC,Bipolar,unique,False,4.737720122281609,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+PSMC3,Retina 2,Retina 1;Retina 3,RGC,RGC,unique,True,4.894726161470918,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+PSMC3,Retina 3,Retina 1;Retina 2,RGC,Muller glia,unique,False,4.7704137156153745,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+RP11-466F5.8,Retina 1,Retina 2;Retina 3,Rod,Rod,unique,True,1.2967658233169013,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+RP11-466F5.8,Retina 2,Retina 1;Retina 3,Rod,Cone,unique,False,1.720806121810603,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+RP11-466F5.8,Retina 3,Retina 1;Retina 2,Rod,Rod,unique,True,1.5033991436368597,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+SLC2A12,Retina 1,Retina 2;Retina 3,Muller glia,Muller glia,unique,True,2.106978579340012,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+SLC2A12,Retina 2,Retina 1;Retina 3,Muller glia,Muller glia,unique,True,2.3027468793779367,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit
+SLC2A12,Retina 3,Retina 1;Retina 2,Muller glia,Muller glia,unique,True,2.1252236500162995,Rod;Cone;Bipolar;RGC;Muller glia,Reaggregation of saved donor pseudobulks; no reclustering or model refit

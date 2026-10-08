@@ -1,0 +1,21 @@
+test_corrupted_checkpoint_fails_closed (test_contracts.CheckpointContracts.test_corrupted_checkpoint_fails_closed) ... RUN fixture: fixture_ddc495972a7cd6a8
+DONE fixture: 0.0 seconds
+ok
+test_partial_stage_preserved_and_new_attempt_used (test_contracts.CheckpointContracts.test_partial_stage_preserved_and_new_attempt_used) ... RUN fixture: fixture_ddc495972a7cd6a8_attempt2
+DONE fixture: 0.0 seconds
+ok
+test_publish_cannot_overwrite (test_contracts.CheckpointContracts.test_publish_cannot_overwrite) ... ok
+test_reuse_never_recomputes_or_rewrites (test_contracts.CheckpointContracts.test_reuse_never_recomputes_or_rewrites) ... RUN fixture: fixture_9b415b9ddc3eee21
+DONE fixture: 0.0 seconds
+REUSE fixture: fixture_9b415b9ddc3eee21
+ok
+test_duplicate_gene_symbols_rejected (test_contracts.ScientificContracts.test_duplicate_gene_symbols_rejected) ... ok
+test_equal_donor_weighting_and_fixed_LODO_comparison (test_contracts.ScientificContracts.test_equal_donor_weighting_and_fixed_LODO_comparison) ... ok
+test_metadata_alignment_uses_exact_barcodes (test_contracts.ScientificContracts.test_metadata_alignment_uses_exact_barcodes) ... ok
+test_mislabeled_gzip_tar_count_matrix (test_contracts.ScientificContracts.test_mislabeled_gzip_tar_count_matrix) ... ok
+test_missing_groups_and_genes_are_not_zero_expression (test_contracts.ScientificContracts.test_missing_groups_and_genes_are_not_zero_expression) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.041s
+
+OK

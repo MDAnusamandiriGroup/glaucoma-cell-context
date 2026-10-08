@@ -1,0 +1,123 @@
+{
+  "elapsed_seconds": 1.966,
+  "fingerprint": "cd01b80157c4c20f",
+  "outputs": {
+    "balanced_gene_expression.csv": "624fc265c27d89bf8c04118a5f7b2d8547ccf56647a38b229479a71d6d24c116",
+    "balanced_gene_expression_min10.csv": "4f30589896c75c3307f76edf68a6f096d56664e584798cf635273b0dac94b172",
+    "candidate_mapping_audit.csv": "b4826fb9cc2eb5fd72596e24604ba6cbcbc0269765a67467e3c7687d8cfd69a8",
+    "cluster_annotation_audit.csv": "66a5136ae74de87d70c16bdb9571434781f14e76a81fae413c2bba6dc79b1a3d",
+    "cluster_cell_type_contingency_0.5.csv": "13616d5dd6e1f376e2c9ddd59db69e7b0feaf05e22ab793181ae015d5d1e76cb",
+    "cluster_cell_type_contingency_1.0.csv": "3aaaefbae391f34c62b2ddbf4fefb93438755d93cd70e0bdafd6242caa703110",
+    "cluster_donor_contingency_0.5.csv": "be41973cd9063f487e5920ec833094dc9b92089b943d0a04e77cfc4824ba2c75",
+    "cluster_donor_contingency_1.0.csv": "9206ab73e5764da4618c1c85b3451bf5675f9f49e6e49f7792641f57ffc05312",
+    "donor_cell_type_counts.csv": "361cfd6ad62463683a5a69138705f8bca2fef924eb9fd4d06670824615bd4aab",
+    "donor_gene_expression.csv": "74f17ddbc47b9a63ff813bebddba97d375d09a8dab1960e4f0fbdbb4ffe840ca",
+    "individual_donor_top_type.csv": "932f5580c7b96885deb0bbfa7b97adba89414988213f7b8a7c8aab5f911be9d4",
+    "leave_one_donor_out.csv": "c0eeea335a3a822285951a140e44a25ab3212ec6971879273544d17949abbfc6",
+    "marker_expression_clusters_0.5.csv": "f9c84432ded76163f7c661795e2e8fda910ac265a326d3b38d38c3baa1272899",
+    "marker_expression_clusters_1.0.csv": "839328c1e97a34d96bed5b8723a93db058be1f7b65b0ba9ba385066e82db7023",
+    "marker_expression_published_types.csv": "adb5dc7e9524ee2d025a1dc0b4d9bc6ab7e6596e3107879a440adf724fe867b0",
+    "robustness_summary.csv": "4272166f1b64a3b8ead1262513029783dd015c9ebee0601ba0d3b0426e4b7484",
+    "summary.json": "9f95e4fe824758f06ac1bd9cc9fff994e152a46538b8a22bc57634051bd60da2"
+  },
+  "provenance": {
+    "candidates_sha256": "738240b504700f5e21650b943498dbd194f405b159051d8fb6aedd8b5c79d0b8",
+    "clusters": {
+      "output_sha256": "3d428e81b4576a6a5b478ba252462b1b991e74d20b04d75092899666af375917",
+      "stage_fingerprint": "7a07a652db6070de"
+    },
+    "code_sha256": "5be2516e22249abaccc4c9e92638af12e226a95348143357beaf40252d2d1733",
+    "expression": {
+      "output_sha256": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+      "stage_fingerprint": "def2df65455d7074"
+    },
+    "parameters": {
+      "cell_types": [
+        "Rod",
+        "Cone",
+        "Bipolar",
+        "Amacrine",
+        "Horizontal",
+        "RGC",
+        "Muller glia",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "markers": {
+        "Amacrine": [
+          "GAD1",
+          "CALB1",
+          "CHAT"
+        ],
+        "Astrocyte": [
+          "GFAP",
+          "ALDH1L1",
+          "AQP4"
+        ],
+        "Bipolar": [
+          "VSX2",
+          "OTX2"
+        ],
+        "Cone": [
+          "ARR3",
+          "GNGT2",
+          "GUCA1C"
+        ],
+        "Horizontal": [
+          "ONECUT1",
+          "ONECUT2"
+        ],
+        "Microglia": [
+          "HLA-DPA1",
+          "HLA-DPB1",
+          "HLA-DRA",
+          "AIF1"
+        ],
+        "Muller glia": [
+          "RLBP1",
+          "SLC1A3",
+          "GLUL"
+        ],
+        "RGC": [
+          "NEFL",
+          "GAP43",
+          "SNCG",
+          "RBPMS"
+        ],
+        "Rod": [
+          "RHO",
+          "PDE6A",
+          "CNGA1"
+        ]
+      },
+      "min_cells_per_donor_type": 20,
+      "min_cells_sensitivity": 10,
+      "target_genes": [
+        "COL8A2",
+        "DGKG",
+        "NPC2",
+        "PSMC3",
+        "RP11-466F5.8",
+        "SLC2A12"
+      ]
+    },
+    "schema": 1,
+    "software": {
+      "anndata": "0.13.4",
+      "h5py": "3.16.0",
+      "igraph": "0.11.9",
+      "leidenalg": "0.10.2",
+      "matplotlib": "3.10.8",
+      "numba": "0.68.0",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.18.1",
+      "umap-learn": "0.5.12"
+    }
+  },
+  "stage": "06_aggregate",
+  "status": "complete"
+}

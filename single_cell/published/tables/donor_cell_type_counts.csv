@@ -1,0 +1,55 @@
+qc,donor,cell_type,n_cells,minimum_cells,eligible_group
+primary,Retina 1,Rod,1341,20,True
+primary,Retina 1,Cone,30,20,True
+primary,Retina 1,Bipolar,295,20,True
+primary,Retina 1,Amacrine,2,20,False
+primary,Retina 1,Horizontal,11,20,False
+primary,Retina 1,RGC,54,20,True
+primary,Retina 1,Muller glia,106,20,True
+primary,Retina 1,Astrocyte,5,20,False
+primary,Retina 1,Microglia,18,20,False
+primary,Retina 2,Rod,7403,20,True
+primary,Retina 2,Cone,159,20,True
+primary,Retina 2,Bipolar,674,20,True
+primary,Retina 2,Amacrine,34,20,True
+primary,Retina 2,Horizontal,16,20,False
+primary,Retina 2,RGC,70,20,True
+primary,Retina 2,Muller glia,373,20,True
+primary,Retina 2,Astrocyte,19,20,False
+primary,Retina 2,Microglia,60,20,True
+primary,Retina 3,Rod,5957,20,True
+primary,Retina 3,Cone,348,20,True
+primary,Retina 3,Bipolar,1097,20,True
+primary,Retina 3,Amacrine,5,20,False
+primary,Retina 3,Horizontal,19,20,False
+primary,Retina 3,RGC,180,20,True
+primary,Retina 3,Muller glia,179,20,True
+primary,Retina 3,Astrocyte,18,20,False
+primary,Retina 3,Microglia,107,20,True
+strict,Retina 1,Rod,931,20,True
+strict,Retina 1,Cone,21,20,True
+strict,Retina 1,Bipolar,277,20,True
+strict,Retina 1,Amacrine,2,20,False
+strict,Retina 1,Horizontal,10,20,False
+strict,Retina 1,RGC,35,20,True
+strict,Retina 1,Muller glia,99,20,True
+strict,Retina 1,Astrocyte,5,20,False
+strict,Retina 1,Microglia,10,20,False
+strict,Retina 2,Rod,7338,20,True
+strict,Retina 2,Cone,28,20,True
+strict,Retina 2,Bipolar,479,20,True
+strict,Retina 2,Amacrine,34,20,True
+strict,Retina 2,Horizontal,14,20,False
+strict,Retina 2,RGC,68,20,True
+strict,Retina 2,Muller glia,372,20,True
+strict,Retina 2,Astrocyte,18,20,False
+strict,Retina 2,Microglia,59,20,True
+strict,Retina 3,Rod,3002,20,True
+strict,Retina 3,Cone,248,20,True
+strict,Retina 3,Bipolar,910,20,True
+strict,Retina 3,Amacrine,5,20,False
+strict,Retina 3,Horizontal,12,20,False
+strict,Retina 3,RGC,122,20,True
+strict,Retina 3,Muller glia,161,20,True
+strict,Retina 3,Astrocyte,11,20,False
+strict,Retina 3,Microglia,62,20,True

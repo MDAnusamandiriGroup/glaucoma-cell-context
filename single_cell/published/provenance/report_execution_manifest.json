@@ -1,0 +1,53 @@
+{
+  "elapsed_seconds": 3.639,
+  "fingerprint": "64d3ba5ae26d3863",
+  "outputs": {
+    "01_quality_control.pdf": "35e029d4719afb5137e1b1b1953725b6cf4b31ac049a42bd4f9f1325551be14f",
+    "01_quality_control.png": "a46715df7c676ce5c0b97f0d5f7822005f8203bba279f1da57f8cd203b19103e",
+    "01_quality_control_5toba_a1.partial.png": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "02_retina_umap.pdf": "0f229665714113f78b2f05be12a49414d0f1a7695bf6be958e54e2a967368016",
+    "02_retina_umap.png": "495cab80a6b0aa733e24f46401bf7ac36df2c40d5a5550ac3ffba9b770e394a7",
+    "03_canonical_marker_audit.pdf": "c35786eae02e5dc2c1224a606e04998c1201c0a8c43ac33c4f88b7f45c52bf83",
+    "03_canonical_marker_audit.png": "b633a52afcd5212c5c0871ee8e59a7e65b1409e5aeb91f9b47b78e9b1eb50393",
+    "04_candidates_and_donor_coverage.pdf": "2690affdd5b03894a7f870178853dc8c9d411b8e6248454ec2988b876487294b",
+    "04_candidates_and_donor_coverage.png": "79abe16c68b6312e8d623df2f2e2ee2546b228128d20337391dcb5f34345044c",
+    "05_leave_one_donor_out.pdf": "c8f2d1c35726521b59bd0e907ba6d0056ec865a82c222ab71b2ed0b7464c1bee",
+    "05_leave_one_donor_out.png": "c3eebaa2840aede0d1045f1dec6939ae07b57ec693a9aa459b3cd084b0ff0d93",
+    "Glaucoma_Single_Cell_Pilot_Report.pdf": "022e90c5bb9d1cdb2ab96ececc745a89a4a5da3a943fe12ce846940add144049",
+    "REPORT.md": "d9f8677a5f5730fb4dfedc08884769eaa16a8b0fc4b309ed2fef31a4c7de4a68",
+    "figure_summary.json": "ddd4e0cdd9e9a15555874295f482a8b3c3beecc010aabf105acde1dee0793b94"
+  },
+  "provenance": {
+    "inputs": {
+      "aggregate": {
+        "output_sha256": "7301db79c92045d08e736ed1dff0d7e204d2bac8f27fc417f323ffb1b8783845",
+        "stage_fingerprint": "cd01b80157c4c20f"
+      },
+      "embedding": {
+        "output_sha256": "c28ecaf65b76984945f93bcadd4a5b5239ad430b20b8e4805d0fdcb705ec5f7f",
+        "stage_fingerprint": "58746310b6c2228b"
+      },
+      "graph": {
+        "output_sha256": "c578fb286a1c5b8179714db6e2a98f6b614526c3975cf903af578ea6287d2380",
+        "stage_fingerprint": "7a07a652db6070de"
+      },
+      "ingest": {
+        "output_sha256": "be4fcdac710d26fdabe9f248b0ab138862a4793a449d3ebc3f1b79e34b674eb6",
+        "stage_fingerprint": "07f823ce0bf9c032"
+      },
+      "pca": {
+        "output_sha256": "8aa2b4e777ac0b35cc38a5447b98882ab2d5a326bbf2aedee3151b9edce6e8e0",
+        "stage_fingerprint": "6b2e81b96a4ce8c3"
+      },
+      "preprocess": {
+        "output_sha256": "01d600c5117595fea6511f9b4a7734fb18598fb8c478aff564e678b733b4527f",
+        "stage_fingerprint": "def2df65455d7074"
+      }
+    },
+    "matplotlib": "3.10.8",
+    "reporting_sha256": "8894994f6dd83066fcdb00ff4ea15f2912b7b0a0e159a3b36c7e36803cf68970",
+    "schema": 1
+  },
+  "stage": "07_report",
+  "status": "complete"
+}

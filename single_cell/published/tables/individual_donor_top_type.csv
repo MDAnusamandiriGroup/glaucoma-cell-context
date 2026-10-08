@@ -1,0 +1,19 @@
+gene,donor,top_type,status,top_score
+COL8A2,Retina 1,,no_detected_UMIs,0.0
+COL8A2,Retina 2,RGC,unique,1.5047972481677807
+COL8A2,Retina 3,,no_detected_UMIs,0.0
+DGKG,Retina 1,Muller glia,unique,3.1105540627132644
+DGKG,Retina 2,Muller glia,unique,1.929455349978375
+DGKG,Retina 3,Muller glia,unique,2.0301980238581363
+NPC2,Retina 1,Muller glia,unique,5.372193585413609
+NPC2,Retina 2,Muller glia,unique,5.848714607856554
+NPC2,Retina 3,Muller glia,unique,5.328281051104237
+PSMC3,Retina 1,Muller glia,unique,5.057252573986985
+PSMC3,Retina 2,Bipolar,unique,4.7196535695079405
+PSMC3,Retina 3,RGC,unique,4.835229572144577
+RP11-466F5.8,Retina 1,Cone,unique,2.0837787327486015
+RP11-466F5.8,Retina 2,RGC,unique,1.5047972481677807
+RP11-466F5.8,Retina 3,Cone,unique,1.3578335108726043
+SLC2A12,Retina 1,Muller glia,unique,2.320991950054224
+SLC2A12,Retina 2,Muller glia,unique,1.929455349978375
+SLC2A12,Retina 3,Muller glia,unique,2.2845018087016493

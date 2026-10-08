@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "seed": 20261006,
+  "sources": [
+    {"file": "lukowski_embo2019_CCA_metadata.csv", "md5": "2e3e28c40b9d52d2dd0bf2201a100a5c", "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_CCA_metadata.csv?download=1"},
+    {"file": "lukowski_embo2019_cellbc_cellid.csv", "md5": "f50c7dc4028e0db7a9d62b20ac798646", "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_cellbc_cellid.csv?download=1"},
+    {"file": "lukowski_embo2019_raw_count_matrix.csv.gz", "md5": "d9ef48e14eda25449c805e5b2c965acf", "url": "https://zenodo.org/records/5515631/files/lukowski_embo2019_raw_count_matrix.csv.gz?download=1"}
+  ],
+  "qc": {
+    "primary": {"min_genes": 200, "max_mito_percent": 20.0},
+    "strict": {"min_genes": 500, "max_mito_percent": 10.0}
+  },
+  "normalization_target": 10000,
+  "hvg_min_cells": 3,
+  "hvg_n_genes": 2000,
+  "hvg_batch_key": "library",
+  "n_pcs": 30,
+  "n_neighbors": 15,
+  "leiden_resolutions": [0.5, 1.0],
+  "umap_min_dist": 0.5,
+  "umap_iterations": 200,
+  "min_cells_per_donor_type": 20,
+  "min_cells_sensitivity": 10,
+  "target_genes": ["COL8A2", "DGKG", "NPC2", "PSMC3", "RP11-466F5.8", "SLC2A12"],
+  "cell_types": ["Rod", "Cone", "Bipolar", "Amacrine", "Horizontal", "RGC", "Muller glia", "Astrocyte", "Microglia"],
+  "markers": {
+    "Rod": ["RHO", "PDE6A", "CNGA1"],
+    "Cone": ["ARR3", "GNGT2", "GUCA1C"],
+    "Bipolar": ["VSX2", "OTX2"],
+    "Amacrine": ["GAD1", "CALB1", "CHAT"],
+    "Horizontal": ["ONECUT1", "ONECUT2"],
+    "RGC": ["NEFL", "GAP43", "SNCG", "RBPMS"],
+    "Muller glia": ["RLBP1", "SLC1A3", "GLUL"],
+    "Astrocyte": ["GFAP", "ALDH1L1", "AQP4"],
+    "Microglia": ["HLA-DPA1", "HLA-DPB1", "HLA-DRA", "AIF1"]
+  }
+}

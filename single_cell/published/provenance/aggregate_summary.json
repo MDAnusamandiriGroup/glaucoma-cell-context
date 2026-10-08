@@ -1,0 +1,67 @@
+{
+  "LODO_operation": "Reaggregate existing donor-by-cell-type pseudobulks; no reclustering or model refit",
+  "LODO_stable_genes": [
+    "DGKG",
+    "NPC2",
+    "SLC2A12"
+  ],
+  "QC_comparable_cell_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "RGC",
+    "Muller glia"
+  ],
+  "QC_stable_genes": [
+    "DGKG",
+    "NPC2",
+    "PSMC3",
+    "RP11-466F5.8",
+    "SLC2A12"
+  ],
+  "annotation_scope": "Published original labels for donor summaries; independent Leiden clusters with provisional marker-panel audit",
+  "min10_sensitivity_shared_cell_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "Horizontal",
+    "RGC",
+    "Muller glia",
+    "Microglia"
+  ],
+  "minimum_cells": 20,
+  "primary_estimand": "Equal-donor mean of log1p pseudobulk CPM across cell types with >=20 cells in each of all three donors",
+  "primary_shared_cell_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "RGC",
+    "Muller glia"
+  ],
+  "published_candidate_genes_exactly_mapped": 163,
+  "published_candidate_genes_total": 228,
+  "statistical_scope": "Descriptive; no significance tests, no cell-level pseudo-replication and no disease/age effect estimates",
+  "strict_shared_cell_types": [
+    "Rod",
+    "Cone",
+    "Bipolar",
+    "RGC",
+    "Muller glia"
+  ],
+  "target_genes": [
+    "COL8A2",
+    "DGKG",
+    "NPC2",
+    "PSMC3",
+    "RP11-466F5.8",
+    "SLC2A12"
+  ],
+  "target_genes_in_count_matrix": [
+    "COL8A2",
+    "DGKG",
+    "NPC2",
+    "PSMC3",
+    "RP11-466F5.8",
+    "SLC2A12"
+  ]
+}

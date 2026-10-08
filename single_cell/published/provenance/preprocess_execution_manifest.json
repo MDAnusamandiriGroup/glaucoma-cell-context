@@ -1,0 +1,47 @@
+{
+  "elapsed_seconds": 11.142,
+  "fingerprint": "def2df65455d7074",
+  "outputs": {
+    "cell_qc_audit.csv": "b77a674d6f0f9f78f997689d6957c3bf2d36a4a554c7d41ef8b6025bfb80f3ea",
+    "normalized.h5ad": "7de45271f0704130b7057fca4b16343348d49e5831856bafc0d05e50c5e9b644",
+    "qc_by_donor.csv": "0f6fb7d145db29fea57e85fc4428edaf13b1b6d38ad516e7c94ab85d8b98c1a3",
+    "summary.json": "f8ae08791e7dcdc1a8f2ae4aff40538a80902da420f27f5ba021a80c22767361"
+  },
+  "provenance": {
+    "code_sha256": "ebea8d5701c10d751cbf4b31ca2044115aa85c6ca5bb8dee4ef2594922a45362",
+    "hvg_min_cells": 3,
+    "input": {
+      "output_sha256": "da774c77a54ca6f1deeec892e5bc8f053334ea617b0cc99831824a36e6ab5d92",
+      "stage_fingerprint": "07f823ce0bf9c032"
+    },
+    "normalization_target": 10000,
+    "qc": {
+      "primary": {
+        "max_mito_percent": 20.0,
+        "min_genes": 200
+      },
+      "strict": {
+        "max_mito_percent": 10.0,
+        "min_genes": 500
+      }
+    },
+    "schema": 1,
+    "software": {
+      "anndata": "0.13.4",
+      "h5py": "3.16.0",
+      "igraph": "0.11.9",
+      "leidenalg": "0.10.2",
+      "matplotlib": "3.10.8",
+      "numba": "0.68.0",
+      "numpy": "2.3.5",
+      "pandas": "3.0.6",
+      "python": "3.12.14",
+      "scanpy": "1.11.5",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.18.1",
+      "umap-learn": "0.5.12"
+    }
+  },
+  "stage": "02_preprocess",
+  "status": "complete"
+}
